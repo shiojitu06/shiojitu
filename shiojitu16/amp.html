@@ -1,0 +1,257 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html amp lang="id-ID">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="color-scheme" content="dark">
+    <title>SHIOJITU – Platform Game Online Terbesar di Indonesia, Pilihan Tepat untuk Pengalaman Bermain yang Seru, Aman, dan Penuh Promo Menarik!</title>
+    <meta name="description"
+        content="Selamat datang di SHIOJITU, platform game online yang menghadirkan pengalaman bermain modern dengan beragam pilihan permainan favorit dalam satu tempat. Nikmati tampilan yang responsif, proses transaksi yang praktis, serta layanan pelanggan yang siap membantu kapan saja.
+
+✨ Keunggulan SHIOJITU:
+
+🎮 Beragam pilihan game online populer.
+⚡ Proses deposit dan penarikan yang cepat.
+🎁 Promo dan bonus menarik untuk member baru maupun member setia.
+🔒 Sistem keamanan berlapis untuk kenyamanan bermain.
+📱 Akses mudah melalui desktop maupun perangkat mobile.
+🕒 Layanan pelanggan responsif 24 jam.
+
+Bergabunglah bersama ribuan pemain yang telah merasakan kemudahan dan kenyamanan bermain di SHIOJITU. Daftar sekarang dan nikmati berbagai promo menarik serta pengalaman bermain yang lebih seru dalam satu platform terpercaya." />
+    <link rel="canonical" href="https://tinyurl.com/55t8rb2n" />
+    <link rel="shortcut icon" href="https://tinyurl.com/55t8rb2n" />
+    <link rel="preconnect" href="https://cdn.ampproject.org/">
+    <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&family=Orbitron:wght@700&display=swap" rel="stylesheet">
+
+    <style amp-custom>
+        /* === RESET & VARS === */
+        :root {
+            --gold: #fffb00;
+            --gold-dark: #b80b0b;
+            --red: #d60000;
+            --red-dark: #8b0000;
+            --black: #050505;
+            --bg-gradient: linear-gradient(135deg, #1a0505 0%, #000000 100%);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: var(--bg-gradient);
+            color: #fff;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            overflow-x: hidden;
+        }
+
+        a { text-decoration: none; color: inherit; transition: 0.3s; }
+        ul { list-style: none; }
+
+        /* === CONTAINER === */
+        #container {
+            width: 100%;
+            max-width: 480px; /* Mobile Friendly Width */
+            padding: 20px;
+            position: relative;
+            z-index: 2;
+        }
+
+        /* === LOGO ANIMATION === */
+        .logo-wrapper {
+            text-align: center;
+            margin-bottom: 20px;
+            animation: float 3s ease-in-out infinite;
+        }
+        
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        .logo-img {
+            filter: drop-shadow(0 0 15px rgba(255, 215, 0, 0.3));
+        }
+
+        /* === TITLE === */
+        h1.title {
+            font-family: 'Orbitron', sans-serif; /* Font Futuristik */
+            font-size: 18px;
+            text-align: center;
+            text-transform: uppercase;
+            margin-bottom: 25px;
+            background: linear-gradient(to right, #fff, var(--gold), #fff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 0 20px rgba(255, 215, 0, 0.5);
+            line-height: 1.4;
+        }
+
+        /* === HERO IMAGE CARD === */
+        .hero-card {
+            border-radius: 20px;
+            overflow: hidden;
+            border: 2px solid var(--gold);
+            box-shadow: 0 0 30px rgba(214, 182, 0, 0.3); /* Glow Merah */
+            margin-bottom: 30px;
+            position: relative;
+        }
+        
+        .hero-card::after {
+            content: '';
+            position: absolute;
+            top: 0; left: -100%;
+            width: 50%; height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+            transform: skewX(-25deg);
+            animation: shine 3s infinite;
+        }
+
+        @keyframes shine {
+            0% { left: -100%; }
+            20% { left: 200%; }
+            100% { left: 200%; }
+        }
+
+        /* === BUTTONS (LINKTREE STYLE) === */
+        .btn-list {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 16px;
+            border-radius: 50px;
+            font-weight: 800;
+            font-size: 16px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            position: relative;
+            overflow: hidden;
+            border: 2px solid transparent;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+        }
+
+        /* Tombol Login (Emas) */
+        .btn-login {
+            background: linear-gradient(90deg, #e9d310, #FFD900, #e9da0e);
+            background-size: 200% auto;
+            color: #000;
+            animation: shimmer 3s linear infinite;
+        }
+
+        /* Tombol Daftar (Merah) */
+        .btn-daftar {
+            background: linear-gradient(90deg, #df0e0e, #b40000, #c90d0d);
+            background-size: 200% auto;
+            color: #fff;
+            animation: shimmer 3s linear infinite reverse;
+            border-color: rgba(255,255,255,0.2);
+        }
+
+        /* Tombol Alternatif (Hitam) */
+        .btn-alt {
+            background: rgba(255, 255, 255, 0.1);
+            color: var(--gold);
+            border: 1px solid var(--gold);
+            backdrop-filter: blur(5px);
+        }
+
+        @keyframes shimmer {
+            to { background-position: 200% center; }
+        }
+
+        .btn:hover {
+            transform: scale(1.02);
+            box-shadow: 0 0 25px rgba(255, 215, 0, 0.4);
+        }
+
+        /* === FOOTER === */
+        .footer {
+            margin-top: 40px;
+            font-size: 12px;
+            color: #888;
+            text-align: center;
+        }
+        .footer a { color: var(--gold); }
+
+        /* === BACKGROUND PARTICLES (CSS ONLY) === */
+        .bg-particles {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            z-index: 1;
+            background-image: 
+                radial-gradient(circle at 10% 20%, rgba(214, 200, 0, 0.288) 0%, transparent 40%),
+                radial-gradient(circle at 90% 80%, rgba(255, 238, 0, 0.226) 0%, transparent 40%);
+            pointer-events: none;
+        }
+
+    </style>
+
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+</head>
+
+<body>
+
+    <div class="bg-particles"></div>
+
+    <div id="container">
+        
+        <div class="logo-wrapper">
+                <amp-img 
+                    src="https://shiojitu-elx.pages.dev/shiojitu/logoshiojitu.png"
+                    alt="SLOT GACOR" 
+                    width="250" height="65" 
+                    layout="intrinsic"
+                    class="logo-img">
+                </amp-img>
+
+        </div>
+
+        <h1 class="title">SELAMAT DATANG DI SHIOJITU | RAJA DARI SEGALA GAME ONLINE</h1>
+
+        <div class="hero-card">
+                <amp-img 
+                    src="https://shiojitu-elx.pages.dev/shiojitu/shiojitu16.png"
+                    alt="SLOT GACOR" 
+                    width="400" height="400" 
+                    layout="responsive">
+                </amp-img>
+        </div>
+
+        <div class="btn-list">
+            <a href="https://tinyurl.com/55t8rb2n" class="btn btn-login">
+                DAFTAR SLOT GACOR 
+            </a>
+            <a href="https://tinyurl.com/55t8rb2n" class="btn btn-daftar">
+                LOGIN SLOT GACOR
+            </a>
+            <a href="https://tinyurl.com/55t8rb2n" class="btn btn-alt">
+                JUDI BOLA ALTERNATIF
+            </a>
+        </div>
+
+        <div class="footer">
+            <p>© 2026 <a href="https://tinyurl.com/55t8rb2n">SHIOJITU</a>. SEOJAGOANNEON In Ranking Mode.</p>
+        </div>
+
+    </div>
+
+</body>
+</html>
