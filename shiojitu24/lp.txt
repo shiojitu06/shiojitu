@@ -1,0 +1,1361 @@
+
+
+<!doctype html>
+<html ⚡️ lang="id">
+<head>
+  <meta charset="utf-8">
+  <title>SHIOJITU – Pasaran Lengkap, Hadiah Menarik & Promo Diskon Besar-Besaran untuk Member Baru dan Setia</title>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+  <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+  <link rel="canonical" href="https://tinyurl.com/55t8rb2n">
+  <link rel="amphtml" href="https://shiojitu-elx.pages.dev/shiojitu24/amp" />
+  <link rel="alternate" hreflang="id-id" href="https://shiojitu-elx.pages.dev/shiojitu24/amp"/>
+  <link rel="alternate" href="https://shiojitu-elx.pages.dev/shiojitu24/amp"/>
+  <link rel="alternate" hreflang="id" href="https://shiojitu-elx.pages.dev/shiojitu24/amp"/>
+  <link rel="alternate" hreflang="en" href="https://shiojitu-elx.pages.dev/shiojitu24/amp"/>
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <meta name="google-site-verification" content="_483OmYrLYwGl5yYysHYgGuKNu9ClPxASxJbc2Eovo8" />
+  <meta name="description" content="SHIOJITU hadir sebagai platform hiburan online dengan pilihan pasaran yang lengkap, tampilan modern, dan berbagai promo menarik untuk para anggotanya. Nikmati beragam hadiah spesial, program diskon besar-besaran, serta penawaran eksklusif yang tersedia pada periode tertentu. Didukung sistem yang responsif, proses transaksi yang praktis, dan layanan pelanggan yang siap membantu, SHIOJITU memberikan pengalaman bermain yang nyaman dan menyenangkan. Bergabung bersama SHIOJITU sekarang untuk menikmati beragam pilihan permainan, promo menarik, dan layanan profesional dalam satu platform terpercaya.">
+  <meta name="keywords" content="SHIOJITU, SHIOJITU daftar, SHIOJITU login, SHIOJITU official, SHIOJITU terpercaya, bandar togel, togel online">
+  <meta name="author" content="SHIOJITU">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="darkred">
+  <meta property="og:title" content="SHIOJITU – Pasaran Lengkap, Hadiah Menarik & Promo Diskon Besar-Besaran untuk Member Baru dan Setia">
+  <meta property="og:description" content="SHIOJITU hadir sebagai platform hiburan online dengan pilihan pasaran yang lengkap, tampilan modern, dan berbagai promo menarik untuk para anggotanya. Nikmati beragam hadiah spesial, program diskon besar-besaran, serta penawaran eksklusif yang tersedia pada periode tertentu. Didukung sistem yang responsif, proses transaksi yang praktis, dan layanan pelanggan yang siap membantu, SHIOJITU memberikan pengalaman bermain yang nyaman dan menyenangkan. Bergabung bersama SHIOJITU sekarang untuk menikmati beragam pilihan permainan, promo menarik, dan layanan profesional dalam satu platform terpercaya.">
+  <meta property="og:url" content="https://tinyurl.com/55t8rb2n">
+  <meta property="og:type" content="SHIOJITU">
+  <meta property="og:title" content="SHIOJITU – Pasaran Lengkap, Hadiah Menarik & Promo Diskon Besar-Besaran untuk Member Baru dan Setia">
+  <meta property="og:image" content="https://shiojitu-elx.pages.dev/shiojitu/shiojitu24.png">
+  <meta property="og:image:secure_url" content="https://shiojitu-elx.pages.dev/shiojitu/shiojitu24.png">
+  <meta property="og:image" content="https://shiojitu-elx.pages.dev/shiojitu/shiojitu24.png">
+  <meta property="og:image:secure_url" content="https://shiojitu-elx.pages.dev/shiojitu/shiojitu24.png">
+  <meta property="og:image" content="https://shiojitu-elx.pages.dev/shiojitu/shiojitu24.png">
+  <meta property="og:image:secure_url" content="https://shiojitu-elx.pages.dev/shiojitu/shiojitu24.png">
+  <meta property="og:image" content="https://shiojitu-elx.pages.dev/shiojitu/shiojitu24.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="SHIOJITU – Pasaran Lengkap, Hadiah Menarik & Promo Diskon Besar-Besaran untuk Member Baru dan Setia">
+  <meta name="twitter:description" content="SHIOJITU hadir sebagai platform hiburan online dengan pilihan pasaran yang lengkap, tampilan modern, dan berbagai promo menarik untuk para anggotanya. Nikmati beragam hadiah spesial, program diskon besar-besaran, serta penawaran eksklusif yang tersedia pada periode tertentu. Didukung sistem yang responsif, proses transaksi yang praktis, dan layanan pelanggan yang siap membantu, SHIOJITU memberikan pengalaman bermain yang nyaman dan menyenangkan. Bergabung bersama SHIOJITU sekarang untuk menikmati beragam pilihan permainan, promo menarik, dan layanan profesional dalam satu platform terpercaya.">
+  <meta name="twitter:image" content="https://shiojitu-elx.pages.dev/shiojitu/shiojitu24.png">
+  <link rel="preconnect" href="https://cdn.ampproject.org">
+  <link rel="dns-prefetch" href="https://cdn.ampproject.org">
+  <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
+  <link rel="preload" as="script" href="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js">
+  <link rel="preload" as="script" href="https://cdn.ampproject.org/v0/amp-carousel-0.1.js">
+<link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"></noscript>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+
+  <link rel="icon" href="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg"
+    type="image/x-icon">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NZ48L75Z');</script>
+<!-- End Google Tag Manager -->
+  <style amp-boilerplate>
+    body {
+      -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+      -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+      -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+      animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+    }
+
+    @-webkit-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    @-moz-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    @-ms-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    @-o-keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+
+    @keyframes -amp-start {
+      from {
+        visibility: hidden
+      }
+
+      to {
+        visibility: visible
+      }
+    }
+  </style><noscript>
+    <style amp-boilerplate>
+      body {
+        -webkit-animation: none;
+        -moz-animation: none;
+        -ms-animation: none;
+        animation: none;
+      }
+    </style>
+  </noscript>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "SHIOJITU",
+      "url": "https://tinyurl.com/55t8rb2n",
+      "logo": "https://shiojitu-elx.pages.dev/shiojitu/shiojitu24.png",
+      "description": "SHIOJITU hadir sebagai platform hiburan online dengan pilihan pasaran yang lengkap, tampilan modern, dan berbagai promo menarik untuk para anggotanya. Nikmati beragam hadiah spesial, program diskon besar-besaran, serta penawaran eksklusif yang tersedia pada periode tertentu. Didukung sistem yang responsif, proses transaksi yang praktis, dan layanan pelanggan yang siap membantu, SHIOJITU memberikan pengalaman bermain yang nyaman dan menyenangkan. Bergabung bersama SHIOJITU sekarang untuk menikmati beragam pilihan permainan, promo menarik, dan layanan profesional dalam satu platform terpercaya.",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+62 819-3802-5937",
+        "contactType": "Customer Service",
+        "areaServed": "ID",
+        "availableLanguage": ["Indonesian", "English"]
+      },
+      "sameAs": [
+        "https://tinyurl.com/55t8rb2n",
+        "https://tinyurl.com/55t8rb2n",
+        "https://tinyurl.com/55t8rb2n"
+      ]
+    }
+    </script>
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "SHIOJITU – Pasaran Lengkap, Hadiah Menarik & Promo Diskon Besar-Besaran untuk Member Baru dan Setia",
+      "url": "https://tinyurl.com/55t8rb2n",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "#manissearch?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+
+  <script type="application/ld+json">
+                            {
+                              "@context": "https://schema.org",
+                              "@type": "BreadcrumbList",
+                              "itemListElement": [
+                                {
+                                  "@type": "ListItem",
+                                  "position": 1,
+                                  "name": "SHIOJITU",
+                                  "item": "https://tinyurl.com/55t8rb2n"
+                                },
+                                {
+                                  "@type": "ListItem",
+                                  "position": 2,
+                                  "name": "SHIOJITU",
+                                  "item": "https://tinyurl.com/55t8rb2n"
+                                }
+                              ]
+                            }
+                            </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Apa itu SHIOJITU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SHIOJITU adalah situs bandar togel online resmi dan terpercaya yang memfasilitasi para pemain dengan fitur taruhan lengkap, rumus prediksi harian, serta bocoran syair togel jitu untuk berbagai pasaran dunia."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Di mana saya bisa menemukan Rumus Prediksi di SHIOJITU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rumus Prediksi disediakan secara gratis di halaman khusus situs SHIOJITU. Data ini diperbarui setiap hari berdasarkan hitungan paito data pengeluaran terbaru untuk membantu Anda meracik angka jitu."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah fitur Syair Togel Jitu di situs ini berbayar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tidak, semua fitur panduan angka termasuk Syair Togel Jitu, kode alam, dan ramalan bergambar dapat diakses secara gratis oleh seluruh member resmi SHIOJITU setiap harinya."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Pasaran togel apa saja yang tersedia di SHIOJITU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SHIOJITU menyediakan berbagai pasaran togel internasional terpopuler dan resmi, seperti Hongkong (HK), Singapore (SGP), Sydney (SDY), serta banyak pasaran resmi lainnya yang memiliki jam result bervariasi."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Bagaimana cara mendaftar dan mulai bermain di SHIOJITU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Anda cukup mengunjungi situs resmi SHIOJITU, klik tombol daftar, isi formulir pendaftaran dengan data yang valid, lakukan deposit minimal, dan Anda sudah bisa langsung memasang taruhan menggunakan prediksi yang tersedia."
+      }
+    }
+  ]
+}
+</script>
+
+  <style amp-custom>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background-color: darkred;
+      color: #ffffff;
+      line-height: 1.6;
+      overflow-x: hidden;
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 1440px;
+      margin: 0 auto;
+      padding: 0 2rem;
+    }
+
+    .header {
+      background:linear-gradient(0deg, black, #f00);
+      backdrop-filter: blur(20px);
+      box-shadow: 0 0 8px 2px red;
+      padding: 1rem 0;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 1000;
+    }
+
+    .nav-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 2rem;
+    }
+
+    .nav-menu {
+      display: flex;
+      gap: 2rem;
+      list-style: none;
+    }
+
+    .nav-link {
+      color: rgba(255, 255, 255, 0.8);
+      text-decoration: none;
+      font-weight: 500;
+      padding: 0.5rem 0;
+      position: relative;
+      transition: all 0.3s ease;
+    }
+
+    .nav-link:hover {
+      color: gold;
+    }
+
+    .hamburger {
+      display: none;
+      flex-direction: column;
+      cursor: pointer;
+      padding: 0.5rem;
+      border-radius: 8px;
+      background: rgb(0, 0, 0);
+      border: 1px solid rgb(185, 4, 4);
+    }
+
+    .hamburger span {
+      width: 24px;
+      height: 2px;
+      background: #9c0303;
+      margin: 3px 0;
+      transition: 0.3s;
+      border-radius: 2px;
+    }
+
+    .sidebar {
+      background-color: #000;
+      border-right: 1px solid rgba(234, 51, 51, 0.3);
+    }
+
+    .sidebar-content {
+      padding: 2rem;
+    }
+
+    .sidebar-nav {
+      list-style: none;
+      margin-top: 2rem;
+    }
+
+    .sidebar-nav li {
+      margin-bottom: 1rem;
+    }
+
+    .sidebar-nav a {
+      color: #ffffff;
+      text-decoration: none;
+      padding: 1rem;
+      display: block;
+      border-radius: 12px;
+      transition: all 0.3s ease;
+      border-bottom: 1px solid;
+    }
+
+    .sidebar-nav a:hover {
+      background: rgba(184, 6, 6, 0.2);
+      border-color: rgba(234, 51, 51, 0.4);
+    }
+
+    .sidebar-auth {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .auth-buttons {
+      display: flex;
+      gap: 1rem;
+    }
+
+    .btn-spinner {
+      position: relative;
+      padding: 5px 20px;
+      color: white;
+      background: #bf0000;
+      border: none;
+      border-radius: 10px;
+      overflow: hidden;
+      z-index: 1;
+      text-decoration: none;
+      font-size: larger;
+    }
+
+    .btn-spinner:hover {
+      background-color: gold;
+      transform: translateY(-3px);
+    }
+
+    .btn-spinner::before {
+      content: "";
+      position: absolute;
+      top: -3px;
+      left: -3px;
+      right: -3px;
+      bottom: -3px;
+      background: conic-gradient(#ff0, #f00, #0ff, #ff0);
+      z-index: -1;
+      border-radius: 15px;
+      transition: all 0.3s ease;
+      animation: spin-border 2s linear infinite;
+    }
+
+    .btn-spinner::after {
+      content: "";
+      position: absolute;
+      top: 3px;
+      left: 3px;
+      right: 3px;
+      bottom: 3px;
+      background: rgb(39 39 39);
+      z-index: -1;
+      border-radius: 10px;
+    }
+
+    @keyframes spin-border {
+      0% {
+        transform: rotate(0deg);
+      }
+
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+    .main-content {
+      margin-top: 80px;
+      padding: 2rem 0;
+    }
+
+    .hero-section {
+      padding: 20px 0;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-container {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+      align-items: center;
+    }
+
+    .hero-content h1 {
+      font-size: 48px;
+      font-weight: 800;
+      background: linear-gradient(135deg, #d4b800, #fade0f, #f8e004);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 1.5rem;
+      line-height: 1.1;
+      text-shadow: 0 0 30px rgb(234 230 51 / 30%);
+      text-align: center;
+    }
+
+    .hero-subtitle {
+      font-size: 19px;
+      color: rgba(255, 255, 255, 0.8);
+      margin-bottom: 2rem;
+      line-height: 1.6;
+      text-align: justify;
+    }
+
+    .hero-subtitle a {
+      text-decoration: none;
+      color: rgba(255, 255, 255, 0.8);
+    }
+
+    .hero-subtitle a:hover {
+      color: gold;
+    }
+
+    .alx-cards {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 15px;
+      justify-content: center;
+      justify-items: center;
+    }
+
+    .alx-card {
+      background-color: rgb(102 4 4);
+      backdrop-filter: blur(20px);
+      border-radius: 20px;
+      padding: 1.5rem;
+      width: 200px;
+      text-align: center;
+      box-shadow: 0 0 8px 2px red;
+    }
+
+    .alx-image amp-img {
+      width: 100%;
+      height: 150px;
+      border-radius: 15px;
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2rem;
+      color: #ffffff;
+    }
+
+    .alx-price {
+      font-weight: 700;
+      text-align: center;
+      background-color: darkred;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .alx-price:hover {
+      border-radius: 5px;
+      background-color: red;
+      transform: translateY(-3px);
+    }
+
+    .alx-price a {
+      text-decoration: none;
+      color: white;
+    }
+
+    .stats-section {
+      background: radial-gradient(#f00, black);
+      backdrop-filter: blur(20px);
+      border-radius: 20px;
+      padding: 20px;
+      margin: 20px 0;
+      box-shadow: 0 0 8px 1px red;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 2rem;
+      text-align: center;
+    }
+
+    .stat-item h3 {
+      font-size: 2.5rem;
+      font-weight: 800;
+      color: gold;
+      margin-bottom: 0.5rem;
+    }
+
+    .stat-item p {
+      color: rgba(255, 255, 255, 0.8);
+      font-weight: 500;
+    }
+
+    .center-section {
+      padding: 20px 0;
+    }
+
+    .center-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      align-items: center;
+    }
+
+    .floating-cards {
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      gap: 1.5rem;
+
+    }
+
+    .floating-cards amp-img {
+      border-radius: 10px;
+
+      position: relative;
+      transform: perspective(1000px) rotateY(10deg);
+      position: relative;
+      animation: float 5s ease-in-out infinite;
+    }
+
+    @keyframes float {
+
+      0%,
+      100% {
+        transform: translateY(0px);
+      }
+
+      50% {
+        transform: translateY(-10px);
+      }
+    }
+
+    .center-content h2 {
+      font-size: 40px;
+      font-weight: 700;
+      color: gold;
+      margin-bottom: 1.5rem;
+      text-align: center;
+    }
+
+    .center-content p {
+      color: rgba(255, 255, 255, 0.8);
+      margin-bottom: 1.5rem;
+      line-height: 1.7;
+      text-align: justify;
+    }
+
+    .center-content a {
+      text-decoration: none;
+      color: rgba(255, 255, 255, 0.8);
+    }
+
+    .center-content a:hover {
+      color: gold;
+    }
+
+    .collection-info {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+    }
+
+    .create-section {
+      padding: 20px 0;
+      text-align: center;
+      background: radial-gradient(circle at center, rgba(147, 51, 234, 0.1) 0%, transparent 70%);
+    }
+
+    .create-content {
+      max-width: 900px;
+      margin: 0 auto;
+
+    }
+
+    .create-section h2 {
+      font-size: 40px;
+      font-weight: 700;
+      color: gold;
+      margin-bottom: 1.5rem;
+      border-radius: 12px;
+      padding: 20px;
+    }
+
+    .create-section p {
+      color: rgba(255, 255, 255, 0.8);
+      margin-bottom: 2rem;
+      line-height: 1.7;
+      text-align: justify;
+    }
+
+    .create-content a {
+      text-decoration: none;
+      color: rgba(255, 255, 255, 0.8);
+    }
+
+    .create-content a:hover {
+      color: red;
+    }
+
+    .artist-card {
+      background-color: rgb(0, 0, 0);
+      backdrop-filter: blur(20px);
+      border-radius: 20px;
+      padding: 1rem;
+      max-width: 1376px;
+      margin: 0 auto;
+      box-shadow: 0 0 8px 2px red;
+    }
+
+    .images amp-img {
+      width: 100%;
+      padding: 15px 10px;
+      border-radius: 12px;
+      border: 1px solid gold;
+      margin: auto;
+    }
+
+    .newsletter-section {
+      padding: 20px 0;
+      background-color: rgb(0, 0, 0);
+      backdrop-filter: blur(20px);
+      border-radius: 20px;
+      margin: auto;
+      text-align: center;
+      max-width: 1376px;
+      box-shadow: 0 0 8px 2px red;
+      margin-bottom: 9%;
+    }
+
+    .newsletter-section h2 {
+      padding: 15px 10px;
+      color: gold;
+      border-radius: 12px;
+    }
+
+    .faq-item {
+      border-bottom: 1px solid rgb(133, 132, 132);
+      margin-bottom: 15px;
+      border-radius: 12px;
+      position: relative;
+    }
+
+    .faq-item input {
+      display: none;
+    }
+
+    .faq-item input:checked+.faq-question::after {
+      content: "-";
+      transform: rotate(180deg);
+    }
+
+    .faq-item input:checked~.faq-answer {
+      max-height: 200px;
+      padding: 15px 10px;
+      background: rgb(20, 20, 20);
+      border-left: 3px solid white;
+      border-radius: 5px;
+    }
+
+    .faq-question {
+      display: block;
+      padding: 10px;
+      font-size: 18px;
+      font-family: verdana;
+      font-weight: bold;
+      color: #ffffff;
+      cursor: pointer;
+      position: relative;
+    }
+
+    .faq-question::after {
+      content: "+";
+      position: absolute;
+      right: 20px;
+      font-size: 18px;
+      color: white;
+      transition: transform 0.3s;
+    }
+
+
+    .faq-answer {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.4s ease, padding 0.4s ease;
+      padding: 0 15px;
+      color: #9e9797;
+      font-size: 14px;
+      letter-spacing: 1px;
+      font-family: helvetica;
+    }
+
+    .footer-nav {
+      background:linear-gradient(180deg, black, #f00);
+      backdrop-filter: blur(20px);
+      border-top: 1px solid rgba(72, 45, 45, 0.3);
+      padding: 1rem 0;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 1000;
+      box-shadow: 0 0 8px 2px red;
+    }
+
+    .footer-nav-container {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    .footer-nav-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-decoration: none;
+      color: gold;
+      transition: all 0.3s ease;
+      padding: 0.5rem;
+      border-radius: 12px;
+    }
+
+    .footer-nav-item:hover {
+      color: white;
+      background: rgba(0, 0, 0, 0.418);
+      transform: scale(1.2) translateY(-5px);
+    }
+
+    .footer-nav-item.active {
+      color: white;
+    }
+
+    .footer-icon {
+      width: 40px;
+      height: 40px;
+      margin-bottom: 0.25rem;
+    }
+
+    .footer-label {
+      font-size: 0.75rem;
+      font-weight: 500;
+    }
+
+    @media (max-width: 1024px) {
+      .container {
+        padding: 0 1.5rem;
+      }
+
+      .hero-content h1 {
+        font-size: 3rem;
+      }
+
+      .hero-container {
+        gap: 3rem;
+      }
+
+      .stats-grid {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 1.5rem;
+      }
+
+      .center-container {
+        gap: 3rem;
+      }
+
+    }
+
+    @media (max-width: 768px) {
+      .nav-menu {
+        display: none;
+      }
+
+      .hamburger {
+        display: flex;
+      }
+
+      .hero-container {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+        text-align: center;
+      }
+
+      .hero-content h1 {
+        font-size: 2.5rem;
+      }
+
+      .alx-cards {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+      }
+
+      .center-container {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+      }
+
+      .floating-cards {
+        grid-template-columns: 1fr;
+      }
+
+      .auth-buttons {
+        width: 100%;
+        justify-content: center;
+        display: none;
+      }
+
+      .alx-image amp-img {
+        width: 130px;
+        height: 130px;
+        margin: auto;
+      }
+
+      .alx-image {
+        margin-bottom: 10px;
+      }
+
+      .stat-item h3 {
+        font-size: 38px;
+      }
+
+      .center-content h2,
+      .create-section h2,
+      .newsletter-section h2 {
+        font-size: 38px;
+      }
+
+      .footer-nav {
+        display: block;
+      }
+
+      .newsletter-section {
+        margin-bottom: 15%;
+      }
+    }
+
+    @media (max-width: 425px) {
+      .container {
+        padding: 0 1rem;
+      }
+
+      .hero-content h1 {
+        font-size: 2rem;
+      }
+
+      .stats-grid {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 5px;
+      }
+
+      .faq-question {
+        font-size: 13px;
+      }
+
+      .faq-answer {
+        font-size: 12px;
+      }
+
+
+      .newsletter-section {
+        margin-bottom: 25%;
+      }
+
+      .center-content h2,
+      .create-section h2,
+      .newsletter-section h2 {
+        font-size: 24px;
+      }
+
+      .hero-subtitle {
+        font-size: 16px;
+      }
+
+      .alx-cards {
+        margin: auto;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        justify-content: center;
+        padding: 10px;
+        width: 178px;
+        display: grid;
+      }
+
+      .alx-cards amp-img {
+        width: 120px;
+        height: 120px;
+        margin: 0 auto;
+        display: block;
+      }
+
+      .stat-item h3 {
+        font-size: 25px;
+      }
+
+      .stat-item p {
+        font-size: 12px;
+      }
+
+      .hero-content {
+        font-size: 15px;
+      }
+
+      .alx-card {
+        padding: 20px;
+      }
+
+      .footer-nav-container {
+        padding: 0 1rem;
+      }
+
+      .footer-icon {
+        font-size: 1.3rem;
+      }
+
+      .footer-label {
+        font-size: 0.7rem;
+      }
+    }
+
+    @media (max-width: 375px) {
+      .hero-content h1 {
+        font-size: 1.8rem;
+      }
+
+      .alx-card {
+        width: 150px;
+        padding: 1rem;
+      }
+
+      .create-section h2 {
+        font-size: 24px;
+      }
+
+      .alx-image amp-img {
+        width: 100px;
+        height: 100px;
+      }
+
+      .collection-info {
+        font-size: 11px;
+      }
+
+
+      .newsletter-section {
+        margin-bottom: 30%;
+      }
+    }
+
+    @media (max-width: 320px) {
+      .container {
+        padding: 0 0.75rem;
+      }
+
+      .hero-content h1 {
+        font-size: 1.6rem;
+      }
+
+      .alx-cards amp-img {
+        flex-direction: column;
+        align-items: center;
+        margin: auto;
+      }
+
+      .alx-card {
+        width: 120px;
+        padding: 19px;
+      }
+
+      .alx-image amp-img {
+        width: auto;
+        height: 80px;
+      }
+
+      .footer-nav-container {
+        gap: 0.5rem;
+        justify-content: center;
+      }
+
+      .footer-nav-container {
+        gap: 0.5rem;
+        justify-content: center;
+      }
+
+      .footer-icon amp-img {
+        width: 30px;
+        height: 30px;
+        margin: auto;
+      }
+
+      .footer-label {
+        font-size: 8px;
+      }
+
+      .faq-question {
+        font-size: 11px;
+      }
+
+      .newsletter-section {
+        margin-bottom: 30%;
+      }
+
+    }
+
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(30px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes slideInLeft {
+      from {
+        opacity: 0;
+        transform: translateX(-50px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+
+    @keyframes glow {
+
+      0%,
+      100% {
+        text-shadow: 0 0 20px rgba(234, 222, 51, 0.3);
+      }
+
+      50% {
+        text-shadow: 0 0 30px rgba(236, 215, 22, 0.671);
+      }
+    }
+
+    @keyframes float {
+
+      0%,
+      100% {
+        transform: translateY(0px);
+      }
+
+      50% {
+        transform: translateY(-10px);
+      }
+    }
+
+    .fade-in {
+      animation: fadeInUp 0.8s ease forwards;
+    }
+
+    .slide-in {
+      animation: slideInLeft 0.8s ease forwards;
+    }
+
+    .glow-text {
+      animation: glow 2s ease-out infinite;
+    }
+
+    .float-animation {
+      animation: float 3s ease-in-out infinite;
+    }
+  </style>
+
+</head>
+
+<body>
+  <amp-sidebar id="sidebar" layout="nodisplay" side="left" class="sidebar">
+    <div class="sidebar-content">
+      <div class="logo">
+        <a href="https://tinyurl.com/55t8rb2n"><amp-img
+            src="https://shiojitu-elx.pages.dev/shiojitu/logoshiojitu.png" width="100"
+            height="50"></amp-img></a>
+      </div>
+      <ul class="sidebar-nav">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#game">Game</a></li>
+        <li><a href="#SHIOJITU">SHIOJITU</a></li>
+        <li><a href="#faq">FAQ</a></li>
+      </ul>
+      <div class="sidebar-auth">
+        <a href="https://shiojitu-elx.pages.dev/shiojitu24/amp" class="btn-spinner">LOGIN</a>
+        <a href="https://tinyurl.com/55t8rb2n" class="btn-spinner">DAFTAR</a>
+      </div>
+    </div>
+  </amp-sidebar>
+  <header class="header">
+    <div class="container">
+      <nav class="nav-container">
+        <a href="https://tinyurl.com/55t8rb2n" class="logo">
+          <amp-img src="https://shiojitu-elx.pages.dev/shiojitu/logoshiojitu.png" width="150"
+            height="50"></amp-img></a>
+
+        <ul class="nav-menu">
+          <li><a href="#home" class="nav-link">Home</a></li>
+          <li><a href="#game" class="nav-link">Game</a></li>
+          <li><a href="#SHIOJITU" class="nav-link">SHIOJITU</a></li>
+          <li><a href="#faq" class="nav-link">FAQ</a></li>
+        </ul>
+
+        <div class="auth-buttons">
+          <a href="https://shiojitu-elx.pages.dev/shiojitu24/amp" class="btn-spinner">LOGIN</a>
+          <a href="https://tinyurl.com/55t8rb2n" class="btn-spinner">DAFTAR</a>
+        </div>
+
+        <div class="hamburger" role="button" tabindex="0" on="tap:sidebar.toggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <section class="hero-section" id="home">
+      <div class="container">
+        <div class="hero-container">
+          <div class="hero-content slide-in">
+            <h1 class="glow-text">SHIOJITU OFFICIAL</h1>
+            <p class="hero-subtitle">SHIOJITU merupakan link utama bandar togel online terpercaya yang menyediakan ribuan pilihan game slot gacor, live casino dan pasaran togel internasional terlengkap. Nikmati jaminan keamanan akun penuh, promo bonus melimpah, serta transaksi kilat menggunakan deposit via QRIS instan. Gabung sekarang untuk mendapatkan sensasi bermain aman dengan peluang kemenangan terbesar hari ini!</p>
+          </div>
+
+          <div class="alx-cards fade-in">
+            <div class="alx-card float-animation" style="animation-delay: 1.5s;">
+              <div class="alx-image">
+                <amp-img src="https://kilat.digital/images/2025/08/09/e412cb05936ced48385e6d22194a88e2.png" width="150"
+                  height="150" layout="responsive"></amp-img>
+              </div>
+              <div class="alx-price"><a href="https://shiojitu-elx.pages.dev/shiojitu24/amp">MASUK</a></div>
+            </div>
+            <div class="alx-card float-animation" style="animation-delay: 0.5s;">
+              <div class="alx-image">
+                <amp-img src="https://kilat.digital/images/2025/08/09/62150559f07161c6e11c89da5bf58578.png" width="150"
+                  height="150" layout="responsive"></amp-img>
+              </div>
+              <div class="alx-price"><a href="https://shiojitu-elx.pages.dev/shiojitu24/amp">MASUK</a></div>
+            </div>
+            <div class="alx-card float-animation" style="animation-delay: 1s;">
+              <div class="alx-image">
+                <amp-img src="https://kilat.digital/images/2025/08/09/acd86612ba5b1ae7ccb6a09c9e7bf5eb.png" width="150"
+                  height="150" layout="responsive"></amp-img>
+              </div>
+              <div class="alx-price"><a href="https://shiojitu-elx.pages.dev/shiojitu24/amp">MASUK</a></div>
+            </div>
+            <div class="alx-card float-animation" style="animation-delay: 1.3s;">
+              <div class="alx-image">
+                <amp-img src="https://kilat.digital/images/2025/08/09/dffa81edcac2dd3ca4367ef6528958db.png" width="150"
+                  height="150" layout="responsive"></amp-img>
+              </div>
+              <div class="alx-price"><a href="https://shiojitu-elx.pages.dev/shiojitu24/amp">MASUK</a></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="stats-section fade-in">
+      <div class="container">
+        <div class="stats-grid">
+          <div class="stat-item">
+            <h3>100%</h3>
+            <p>KEAMANAN TERJAMIN</p>
+          </div>
+          <div class="stat-item">
+            <h3>880K</h3>
+            <p>MEMBER AKTIF</p>
+          </div>
+          <div class="stat-item">
+            <h3>90+</h3>
+            <p>PASARAN</p>
+          </div>
+          <div class="stat-item">
+            <h3>&#8902;&#8902;&#8902;&#8902;&#8902;</h3>
+            <p>RATING</p>
+          </div>
+        </div>
+      </div>
+    </section>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZ48L75Z"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <section class="center-section" id="game">
+      <div class="container">
+        <div class="center-container">
+          <div class="floating-cards slide-in">
+            <a href="https://shiojitu-elx.pages.dev/shiojitu24/amp">
+            <amp-img src="https://shiojitu-elx.pages.dev/shiojitu/shiojitu24.png" width="350"
+              height="400" layout="responsive" alt="SHIOJITU Official"></amp-img></a>
+          </div>
+
+          <div class="center-content fade-in">
+            <h2>Description:</h2>
+            <p>SHIOJITU hadir sebagai platform hiburan online dengan pilihan pasaran yang lengkap, tampilan modern, dan berbagai promo menarik untuk para anggotanya. Nikmati beragam hadiah spesial, program diskon besar-besaran, serta penawaran eksklusif yang tersedia pada periode tertentu. Didukung sistem yang responsif, proses transaksi yang praktis, dan layanan pelanggan yang siap membantu, SHIOJITU memberikan pengalaman bermain yang nyaman dan menyenangkan. Bergabung bersama SHIOJITU sekarang untuk menikmati beragam pilihan permainan, promo menarik, dan layanan profesional dalam satu platform terpercaya.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="create-section" id="SHIOJITU">
+      <div class="container">
+        <div class="artist-card">
+          <div class="images">
+            <amp-img src="https://shiojitu-elx.pages.dev/shiojitu/shiojitu24.png" width="1200"
+              height="1200" layout="responsive"></amp-img>
+          </div>
+          <div class="create-content fade-in">
+            <h2>SHIOJITU – Pasaran Lengkap, Hadiah Menarik & Promo Diskon Besar-Besaran untuk Member Baru dan Setia</h2>
+            <p>Perkembangan dunia gambling tebak angka digital menuntut para pemain untuk lebih cerdas dalam menyusun strategi. Tidak lagi hanya mengandalkan keberuntungan semata, kini kemenangan bisa dirancang lewat data yang akurat. <b><a href="https://tinyurl.com/55t8rb2n" style="color:gold">SHIOJITU</a></b> hadir sebagai situs bandar togel online terpercaya yang menjawab kebutuhan tersebut dengan menyediakan fasilitas terlengkap demi kemudahan para membernya dalam meraih jackpot paus.</p>
+            <p>Salah satu keunggulan utama yang ditawarkan oleh SHIOJITU adalah ketersediaan Rumus Prediksi yang diperbarui setiap hari. Rumus ini diracik oleh para ahli menggunakan metode statistik harian dan hitungan matematis berdasarkan data keluaran (paito) dari periode sebelumnya. Dengan memanfaatkan rumus prediksi ini, para pemain—baik pemula maupun veteran—dapat dengan mudah memangkas angka mati dan menemukan kombinasi angka ikut yang memiliki peluang kemunculan paling tinggi di berbagai pasaran besar.</p>
+            <p>Selain rumus analitis, SHIOJITU juga memanjakan para membernya dengan fitur <b><a href="https://tinyurl.com/55t8rb2n" style="color:gold">Syair Togel</a></b> Jitu. Fitur ini memadukan seni ramalan tradisional, kode alam (kodal), dan petunjuk bergambar yang dikemas secara modern. Bagi sebagian besar pemain di Indonesia, syair togel merupakan panduan esensial yang terbukti ampuh memberikan petunjuk angka gaib. Di situs ini, Anda bisa mengakses ragam syair dari berbagai sumber terkemuka secara gratis setiap harinya.</p>
+            <p>Sebagai bandar <b><a href="https://tinyurl.com/55t8rb2n" style="color:gold">togel online</a></b> resmi, SHIOJITU menjamin kelancaran gambling melalui server yang stabil dan sistem keamanan mutakhir. Semua kemenangan, mulai dari gambling 2D hingga 4D, pasti dibayar penuh tanpa potongan tersembunyi. Didukung oleh layanan konsumen 24 jam serta metode deposit-withdraw yang kilat via bank dan e-wallet, SHIOJITU menjadi arena terbaik untuk menguji keakuratan prediksi Anda. Daftar sekarang dan buktikan sendiri jitunya!</p>
+            
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="newsletter-section fade-in" id="faq">
+      <div class="container">
+        <h2>FAQ SHIOJITU</h2>
+        <div class="faq-item">
+          <input type="checkbox" id="faq1" />
+          <label class="faq-question" for="faq1">Apa itu SHIOJITU?</label>
+          <div class="faq-answer">
+            <p>SHIOJITU adalah situs bandar togel online resmi dan terpercaya yang memfasilitasi para pemain dengan fitur taruhan lengkap, rumus prediksi harian, serta bocoran syair togel jitu untuk berbagai pasaran dunia.</p>
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <input type="checkbox" id="faq2" />
+          <label class="faq-question" for="faq2">Di mana saya bisa menemukan Rumus Prediksi di SHIOJITU?</label>
+          <div class="faq-answer">
+            <p>Rumus Prediksi disediakan secara gratis di halaman khusus situs SHIOJITU. Data ini diperbarui setiap hari berdasarkan hitungan paito data pengeluaran terbaru untuk membantu Anda meracik angka jitu.</p>
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <input type="checkbox" id="faq3" />
+          <label class="faq-question" for="faq3">Apakah fitur Syair Togel Jitu di situs ini berbayar?</label>
+          <div class="faq-answer">
+            <p>Tidak, semua fitur panduan angka termasuk Syair Togel Jitu, kode alam, dan ramalan bergambar dapat diakses secara gratis oleh seluruh member resmi SHIOJITU setiap harinya.</p>
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <input type="checkbox" id="faq4" />
+          <label class="faq-question" for="faq4">Pasaran togel apa saja yang tersedia di SHIOJITU?</label>
+          <div class="faq-answer">
+            <p>SHIOJITU menyediakan berbagai pasaran togel internasional terpopuler dan resmi, seperti Hongkong (HK), Singapore (SGP), Sydney (SDY), serta banyak pasaran resmi lainnya yang memiliki jam result bervariasi.</p>
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <input type="checkbox" id="faq5" />
+          <label class="faq-question" for="faq5">Bagaimana cara mendaftar dan mulai bermain di SHIOJITU?</label>
+          <div class="faq-answer">
+            <p>Anda cukup mengunjungi situs resmi SHIOJITU, klik tombol daftar, isi formulir pendaftaran dengan data yang valid, lakukan deposit minimal, dan Anda sudah bisa langsung memasang taruhan menggunakan prediksi yang tersedia.</p>
+          </div>
+        </div>
+      </div>
+      </div>
+    </section>
+  </main>
+
+  <nav class="footer-nav">
+    <div class="footer-nav-container">
+      <a href="https://shiojitu-elx.pages.dev/shiojitu24/amp" class="footer-nav-item active">
+        <div class="footer-icon">
+          <amp-img src="https://kilat.digital/images/2023/12/20/6b2ffffc4e97bb30e6d922ced607f802.png" width="40"
+            height="40" layout="responsive"></amp-img>
+        </div>
+        <div class="footer-label">MASUK</div>
+      </a>
+      <a href="https://shiojitu-elx.pages.dev/shiojitu24/amp" class="footer-nav-item">
+        <div class="footer-icon">
+          <amp-img src="https://kilat.digital/images/2023/12/20/48a21fd032df88e31b412091b7975d8c.png" width="40"
+            height="40" layout="responsive"></amp-img>
+        </div>
+        <div class="footer-label">WHATSAPP</div>
+      </a>
+      <a href="https://tinyurl.com/55t8rb2n" class="footer-nav-item">
+        <div class="footer-icon">
+          <amp-img src="https://kilat.digital/images/2023/12/20/bd350c38cdf02a19edcb5022f4d46f19.png" width="40"
+            height="40" layout="responsive"></amp-img>
+        </div>
+        <div class="footer-label">REGISTER</div>
+      </a>
+      <a href="https://shiojitu-elx.pages.dev/shiojitu24/amp" class="footer-nav-item">
+        <div class="footer-icon">
+          <amp-img src="https://kilat.digital/images/2023/12/14/4be76b9b9671692c57a6b89a1450ba6c.png" width="40"
+            height="40" layout="responsive"></amp-img>
+        </div>
+        <div class="footer-label">PROMO</div>
+      </a>
+      <a href="https://shiojitu-elx.pages.dev/shiojitu24/amp" class="footer-nav-item">
+        <div class="footer-icon">
+          <amp-img src="https://kilat.digital/images/2023/12/20/ed94593b02796a81fe558659411b7562.png  " width="40"
+            height="40" layout="responsive"></amp-img>
+        </div>
+        <div class="footer-label">LIVE CHAT</div>
+      </a>
+    </div>
+  </nav>
+  <script data-cfasync="false" src="//cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+  <script data-cfasync="false" src="//"></script>
+  <script data-cfasync="false" src="//cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"beba1ad2747d4c4399ac64f3a8bba3b4","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>
