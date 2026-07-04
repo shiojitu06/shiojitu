@@ -6,7 +6,7 @@
 <title>🏆 SHIOJITU – Platform Game Online Terbesar di Indonesia, Lengkap, Seru, dan Terpercaya!</title>
 <link rel="icon" type="image/x-icon" href="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg" />
 <link rel="apple-touch-icon" href="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg">
-<link rel="canonical" href="https://tinyurl.com/55t8rb2n">
+<link rel="canonical" href="https://supershiojitu.com/">
 <link rel="amphtml" href="https://shiojitu-elx.pages.dev/shiojitu17/amp" />
          <link rel="alternate" href="https://shiojitu-elx.pages.dev/shiojitu17/amp" hreflang="ja">
     <link rel="alternate" href="https://shiojitu-elx.pages.dev/shiojitu17/amp" hreflang="en">
