@@ -55,7 +55,8 @@
   <meta name="google-play-app" content="app-id=com.ubuy">
 <!-- Disable Alert/Confirm/Prompt --> 
 <!-- Canonical -->
-    <link rel="canonical" href="https://tinyurl.com/55t8rb2n">
+    <link rel="canonical" href="https://shiolincah.com/
+">
     <link rel="alternate" href="https://shiojitu-elx.pages.dev/shiojitu20/amp">
     <link rel="alternate" href="https://shiojitu-elx.pages.dev/shiojitu20/amp" hreflang="id">
     <link rel="alternate" href="https://shiojitu-elx.pages.dev/shiojitu20/amp" hreflang="en">
