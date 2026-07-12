@@ -3483,15 +3483,15 @@
         }
       </style>
       <div class="SHIOJITU-fixed-footer">
-        <a href="https://shiojitu-elx.pages.dev/shiojitu18/amp" rel="nofollow noopener" target="_blank">
+        <a href="https://ramekali.me/shiojun" rel="nofollow noopener" target="_blank">
           <img layout="intrinsic" height="20px" width="20px" src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg" alt="BONUS SHIOJITU"> PROMO </a>
-        <a href="https://shiojitu-elx.pages.dev/shiojitu18/amp" rel="nofollow noopener" target="_blank">
+        <a href="https://ramekali.me/shiojun" rel="nofollow noopener" target="_blank">
           <img layout="intrinsic" height="20px" width="20px" src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg" alt="LOGIN SHIOJITU"> LOGIN </a>
-        <a href="https://shiojitu-elx.pages.dev/shiojitu18/amp" rel="nofollow noopener" target="_blank" class="tada">
+        <a href="https://ramekali.me/shiojun" rel="nofollow noopener" target="_blank" class="tada">
           <img layout="intrinsic" height="20px" width="20px" src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg" alt="DAFTAR SHIOJITU"> DAFTAR </a>
-        <a href="https://shiojitu-elx.pages.dev/shiojitu18/amp" rel="nofollow noopener" target="_blank">
+        <a href="https://ramekali.me/shiojun" rel="nofollow noopener" target="_blank">
           <img layout="intrinsic" height="20px" width="20px" src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg" alt="WHATSAPP SHIOJITU"> WHATSAPP </a>
-        <a href="https://shiojitu-elx.pages.dev/shiojitu18/amp" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
+        <a href="https://ramekali.me/shiojun" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
           <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg" alt="LIVE CHAT SHIOJITU"> LIVE CHAT </a>
       </div>
       <input type="hidden" id="page_title" value="🔥 SHIOJITU – Permainan Online Terbaik di Asia! Platform Favorit dengan Promo Melimpah & Layanan Terpercaya 🎮">
