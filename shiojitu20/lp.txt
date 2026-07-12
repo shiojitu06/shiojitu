@@ -13,8 +13,8 @@
   <meta name="viewport" content="width=device-width, minimum-scale=1.0">
   <title>SHIOJITU – Link Viral Asia dengan Beragam Permainan Online Terlengkap dan Terpercaya</title>
 <!-- Favicon -->
-  <link rel="icon" href="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg" type="image/x-icon">
-  <link rel="shortcut icon" href="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg" type="image/x-icon">
+  <link rel="icon" href="https://shiojitu-kali.com/assets/img/atv/favicon.png" type="image/x-icon">
+  <link rel="shortcut icon" href="https://shiojitu-kali.com/assets/img/atv/favicon.png" type="image/x-icon">
 <!-- Description -->
   <meta name="description" content="SHIOJITU hadir sebagai destinasi hiburan online yang menawarkan berbagai pilihan permainan menarik dalam satu platform. Dengan akses yang cepat, tampilan modern, serta sistem yang stabil, SHIOJITU memberikan pengalaman bermain yang nyaman bagi para pengguna yang mencari link viral dengan beragam permainan online berkualitas.">
 <!-- Preload Image -->
@@ -24,7 +24,7 @@
   <meta property="og:title" content="SHIOJITU – Link Viral Asia dengan Beragam Permainan Online Terlengkap dan Terpercaya">
   <meta property="og:description" content="SHIOJITU hadir sebagai destinasi hiburan online yang menawarkan berbagai pilihan permainan menarik dalam satu platform. Dengan akses yang cepat, tampilan modern, serta sistem yang stabil, SHIOJITU memberikan pengalaman bermain yang nyaman bagi para pengguna yang mencari link viral dengan beragam permainan online berkualitas.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://tinyurl.com/55t8rb2n">
+  <meta property="og:url" content="https://shiolincah.com/">
   <meta property="og:image" content="https://shiojitu-elx.pages.dev/shiojitu/shiojitu20.png">
   <meta property="og:image:width" content="200">
   <meta property="og:image:height" content="200">
@@ -38,15 +38,15 @@
   <meta name="twitter:app:country" content="SHIOJITU">
   <meta name="twitter:app:name:iphone" content="SHIOJITU">
   <meta name="twitter:app:id:iphone" content="613084551">
-  <meta name="twitter:app:url:iphone" content="https://tinyurl.com/55t8rb2n">
+  <meta name="twitter:app:url:iphone" content="https://shiolincah.com/">
   <meta name="twitter:app:name:googleplay" content="SHIOJITU">
   <meta name="twitter:app:id:googleplay" content="SHIOJITU">
-  <meta name="twitter:app:url:googleplay" content="https://tinyurl.com/55t8rb2n">
+  <meta name="twitter:app:url:googleplay" content="https://shiolincah.com/">
 <!-- App Links -->
-  <meta property="al:ios:url" content="https://tinyurl.com/55t8rb2n">
+  <meta property="al:ios:url" content="https://shiolincah.com/">
   <meta property="al:ios:app_store_id" content="613084551">
   <meta property="al:ios:app_name" content="Ubuy: International Shopping">
-  <meta property="al:android:url" content="https://tinyurl.com/55t8rb2n">
+  <meta property="al:android:url" content="https://shiolincah.com/">
   <meta property="al:android:package" content="SHIOJITU">
   <meta property="al:android:app_name" content="Ubuy Global Shopping App SHIOJITU">
   <meta property="al:web:should_fallback" content="true">
@@ -337,14 +337,14 @@
                             </div>
                         </div>
                     </div>
-                                                                <a class="navbar-brand me-5" href="https://tinyurl.com/55t8rb2n" title="SHIOJITU">
+                                                                <a class="navbar-brand me-5" href="https://shiolincah.com/" title="SHIOJITU">
                                                                <img height="60" width="100" src="https://shiojitu-elx.pages.dev/shiojitu/logoshiojitu.png" alt="SHIOJITU">
                                                     </a>
                                     </div>
                                <!-- Header Search Section -->
 <div class="header-center">
   <div class="header-search-bar">
-    <form id="search-form-sm" action="https://tinyurl.com/55t8rb2n" method="get" class="w-100 d-flex">
+    <form id="search-form-sm" action="https://shiolincah.com/" method="get" class="w-100 d-flex">
 
       <!-- Select Category -->
       <div class="select-category dropdown">
@@ -355,100 +355,100 @@
         <ul class="dropdown-menu">
           <li class="dropdown-item">All</li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Fashion & Lifestyle">Fashion & Lifestyle</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Fashion & Lifestyle">Fashion & Lifestyle</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Electronics & Gadgets">Electronics & Gadgets</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Electronics & Gadgets">Electronics & Gadgets</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Home & Kitchen Supplies">Home & Kitchen Supplies</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Home & Kitchen Supplies">Home & Kitchen Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Beauty & Self Care">Beauty & Self Care</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Beauty & Self Care">Beauty & Self Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Toys & Adventures">Toys & Adventures</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Toys & Adventures">Toys & Adventures</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Sports & Outdoor">Sports & Outdoor</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Sports & Outdoor">Sports & Outdoor</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Health, Vitamins & Supplements">Health, Vitamins & Supplements</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Health, Vitamins & Supplements">Health, Vitamins & Supplements</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Pet Care">Pet Care</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Pet Care">Pet Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Auto Parts & Accessories">Auto Parts & Accessories</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Auto Parts & Accessories">Auto Parts & Accessories</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Books & Literature">Books & Literature</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Books & Literature">Books & Literature</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Yoga Clothing & Accessories">Yoga Clothing & Accessories</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Yoga Clothing & Accessories">Yoga Clothing & Accessories</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Baby Care & Gear">Baby Care & Gear</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Baby Care & Gear">Baby Care & Gear</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Fishing & Tackle Gear">Fishing & Tackle Gear</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Fishing & Tackle Gear">Fishing & Tackle Gear</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Gloves & Mittens">Gloves & Mittens</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Gloves & Mittens">Gloves & Mittens</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Health & Supplements">Health & Supplements</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Health & Supplements">Health & Supplements</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Electronics">Electronics</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Electronics">Electronics</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Beauty & Personal Care">Beauty & Personal Care</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Beauty & Personal Care">Beauty & Personal Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Fashion">Fashion</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Fashion">Fashion</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Home & Kitchen">Home & Kitchen</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Home & Kitchen">Home & Kitchen</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Baby Essentials">Baby Essentials</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Baby Essentials">Baby Essentials</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Musical Instruments">Musical Instruments</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Musical Instruments">Musical Instruments</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Grocery & Gourmet Food">Grocery & Gourmet Food</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Grocery & Gourmet Food">Grocery & Gourmet Food</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Office Supplies">Office Supplies</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Office Supplies">Office Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Sports Outdoor & Fitness">Sports Outdoor & Fitness</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Sports Outdoor & Fitness">Sports Outdoor & Fitness</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Automotive">Automotive</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Automotive">Automotive</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Household Supplies">Household Supplies</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Household Supplies">Household Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Pet Supplies">Pet Supplies</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Pet Supplies">Pet Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Arts Crafts & Sewing">Arts Crafts & Sewing</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Arts Crafts & Sewing">Arts Crafts & Sewing</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Toys & Games">Toys & Games</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Toys & Games">Toys & Games</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Industrial Supplies">Industrial Supplies</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Industrial Supplies">Industrial Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Books">Books</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Books">Books</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://tinyurl.com/55t8rb2n" title="Gardening Supplies">Gardening Supplies</a>
+            <a class="search-category-item" href="https://shiolincah.com/" title="Gardening Supplies">Gardening Supplies</a>
           </li>
         </ul>
       </div>
@@ -485,15 +485,15 @@
 </div>
 
                                 <ul class="dropdown-menu rounded border-0">
-                                    <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="global" data-mstore="*" data-store="*" data-href="https://tinyurl.com/55t8rb2n"><span class="" title="Global store" data-href="https://tinyurl.com/55t8rb2n">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><i style="width:25px; text-align:center; color:#d90000" class="fa fa-globe primary-text"></i></div><div class="store-title">Global</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap active" data-fromstorecode="us" data-fromstore="us" data-tostore="us" data-mstore="us" data-store="us" data-href="https://tinyurl.com/55t8rb2n"><span class="" title="United States store" data-href="https://tinyurl.com/55t8rb2n">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="us"></span></div><div class="store-title">US</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="uk" data-mstore="uk" data-store="uk" data-href="https://tinyurl.com/55t8rb2n"><span class="" title="United Kingdom store" data-href="https://tinyurl.com/55t8rb2n">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="uk"></span></div><div class="store-title">UK</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="eu" data-mstore="eu" data-store="eu" data-href="https://tinyurl.com/55t8rb2n"><span class="" title="Europe store" data-href="https://tinyurl.com/55t8rb2n">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="eu"></span></div><div class="store-title">EU</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="china" data-mstore="ch" data-store="ch" data-href="https://tinyurl.com/55t8rb2n"><span class="" title="China store" data-href="https://tinyurl.com/55t8rb2n">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="china"></span></div><div class="store-title">CHINA</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="japan" data-mstore="jp" data-store="jp" data-href="https://tinyurl.com/55t8rb2n"><span class="" title="Japan store" data-href="https://tinyurl.com/55t8rb2n">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="japan"></span></div><div class="store-title">Japan</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="hongkong" data-mstore="hk" data-store="hk" data-href="https://tinyurl.com/55t8rb2n"><span class="" title="Hongkong store" data-href="https://tinyurl.com/55t8rb2n">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="hongkong"></span></div><div class="store-title">Hongkong</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="korea" data-mstore="kr" data-store="kr" data-href="https://tinyurl.com/55t8rb2n"><span class="" title="Korea store" data-href="https://tinyurl.com/55t8rb2n">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="korea"></span></div><div class="store-title">Korea</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="turkey" data-mstore="tr" data-store="tr" data-href="https://tinyurl.com/55t8rb2n"><span class="" title="Turkey store" data-href="https://tinyurl.com/55t8rb2n">
+                                    <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="global" data-mstore="*" data-store="*" data-href="https://shiolincah.com/"><span class="" title="Global store" data-href="https://shiolincah.com/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><i style="width:25px; text-align:center; color:#d90000" class="fa fa-globe primary-text"></i></div><div class="store-title">Global</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap active" data-fromstorecode="us" data-fromstore="us" data-tostore="us" data-mstore="us" data-store="us" data-href="https://shiolincah.com/"><span class="" title="United States store" data-href="https://shiolincah.com/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="us"></span></div><div class="store-title">US</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="uk" data-mstore="uk" data-store="uk" data-href="https://shiolincah.com/"><span class="" title="United Kingdom store" data-href="https://shiolincah.com/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="uk"></span></div><div class="store-title">UK</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="eu" data-mstore="eu" data-store="eu" data-href="https://shiolincah.com/"><span class="" title="Europe store" data-href="https://shiolincah.com/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="eu"></span></div><div class="store-title">EU</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="china" data-mstore="ch" data-store="ch" data-href="https://shiolincah.com/"><span class="" title="China store" data-href="https://shiolincah.com/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="china"></span></div><div class="store-title">CHINA</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="japan" data-mstore="jp" data-store="jp" data-href="https://shiolincah.com/"><span class="" title="Japan store" data-href="https://shiolincah.com/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="japan"></span></div><div class="store-title">Japan</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="hongkong" data-mstore="hk" data-store="hk" data-href="https://shiolincah.com/"><span class="" title="Hongkong store" data-href="https://shiolincah.com/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="hongkong"></span></div><div class="store-title">Hongkong</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="korea" data-mstore="kr" data-store="kr" data-href="https://shiolincah.com/"><span class="" title="Korea store" data-href="https://shiolincah.com/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="korea"></span></div><div class="store-title">Korea</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="turkey" data-mstore="tr" data-store="tr" data-href="https://shiolincah.com/"><span class="" title="Turkey store" data-href="https://shiolincah.com/">
                                                         <div class="store-flag bg-light d-flex align-items-center"><span class="turkey"></span></div><div class="store-title">Turkey</div></span></li>                                </ul>
                             </div>
                                                         
@@ -724,8 +724,8 @@
                             
                                     <ul class="dropdown-menu rounded border-0">
                                         <li class="welcome-msg">Welcome</li>
-                                        <li class="dropdown-item"><a href="https://tinyurl.com/55t8rb2n" title="Sign in"><span class="signin-sprite"></span>Sign in</a></li>
-                                        <li class="dropdown-item"><a href="https://tinyurl.com/55t8rb2n" title="Create an Account"><span class="createaccount-sprite"></span> Create an Account</a>
+                                        <li class="dropdown-item"><a href="https://shiolincah.com/" title="Sign in"><span class="signin-sprite"></span>Sign in</a></li>
+                                        <li class="dropdown-item"><a href="https://shiolincah.com/" title="Create an Account"><span class="createaccount-sprite"></span> Create an Account</a>
                                         </li>
                                     </ul>
                 </div>
@@ -767,7 +767,7 @@
                                         <div class="main-slider-container">
                                             <div class="main-product-slider">
                                                 <div class="slide-item skelton">
-                                                                                                    <a class="skelton" data-fancybox="gallery" href="https://tinyurl.com/55t8rb2n">
+                                                                                                    <a class="skelton" data-fancybox="gallery" href="https://shiolincah.com/">
                                                         <img data-fancybox="gallery" src="https://shiojitu-elx.pages.dev/shiojitu/shiojitu20.png" alt="SHIOJITU – Link Viral Asia dengan Beragam Permainan Online Terlengkap dan Terpercaya">
                                                 </a>
                                                                                                 </div>
@@ -806,15 +806,19 @@
                             <div class="card-body">
 
                             <p style="text-align: justify; color: #080808; font-weight: 700; line-height: 1.55;">
-                            SHIOJITU hadir sebagai halaman informatif yang menyajikan pembaruan <a href="https://tinyurl.com/55t8rb2n" style="color: #9b35ff; font-weight: 800; text-decoration: none;">Toto Macau</a> dengan akses cepat, praktis, dan mudah digunakan kapan saja. Melalui tampilan yang ringan, responsif, serta navigasi yang rapi, SHIOJITU memudahkan pengguna menemukan informasi terbaru dalam satu halaman yang tersusun jelas, modern, dan nyaman diakses melalui berbagai perangkat.
+                            Di tengah pesatnya perkembangan dunia hiburan digital, kebutuhan akan platform yang praktis, lengkap, dan mudah diakses semakin meningkat. SHIOJITU hadir sebagai salah satu platform hiburan online yang dikenal luas berkat kemudahan akses, tampilan modern, dan koleksi permainan yang beragam. Dengan konsep yang mengutamakan kenyamanan pengguna, SHIOJITU menjadi pilihan bagi mereka yang ingin menikmati berbagai permainan online dalam satu tempat.
+
+Salah satu keunggulan SHIOJITU adalah menghadirkan beragam kategori permainan yang dapat diakses melalui desktop maupun perangkat seluler. Antarmuka yang responsif membuat proses menjelajahi berbagai fitur menjadi lebih mudah, sehingga pengguna dapat menikmati pengalaman bermain dengan lancar tanpa kendala berarti. Platform ini juga terus melakukan pembaruan agar tetap mengikuti perkembangan teknologi dan kebutuhan pengguna.
                             </p>
 
                             <p style="text-align: justify; color: #080808; font-weight: 700; line-height: 1.55;">
-                            SHIOJITU juga menghadirkan informasi <a href="https://tinyurl.com/55t8rb2n" style="color: #9b35ff; font-weight: 800; text-decoration: none;">Data Macau</a> dengan format yang lebih lengkap, detail, dan diperbarui secara berkala. Setiap informasi ditampilkan secara terstruktur agar pengguna dapat membaca pembaruan dengan lebih nyaman, mengikuti update harian, melihat rangkuman terbaru, serta memperoleh referensi Macau tanpa harus mencari dari banyak sumber berbeda.
+                            Sebagai platform yang semakin dikenal di berbagai negara Asia, SHIOJITU menawarkan pengalaman hiburan digital yang dirancang dengan fokus pada kualitas layanan dan kemudahan penggunaan. Pengguna dapat menemukan berbagai pilihan permainan dengan tampilan visual yang menarik, sistem yang stabil, serta navigasi yang sederhana sehingga aktivitas hiburan terasa lebih nyaman dan menyenangkan.
+
+Selain menghadirkan koleksi permainan yang lengkap, SHIOJITU juga mengutamakan pelayanan yang responsif. Dukungan pelanggan yang siap membantu serta proses akses yang praktis menjadi nilai tambah bagi pengguna yang menginginkan pengalaman hiburan online yang lebih optimal. Komitmen terhadap kualitas layanan menjadi salah satu alasan mengapa platform ini terus mendapatkan perhatian dari komunitas pengguna di berbagai wilayah.
                             </p>
 
                             <p style="text-align: justify; color: #080808; font-weight: 700; line-height: 1.55;">
-                            Dengan menghadirkan Toto Macau, Data Macau, dan <a href="https://tinyurl.com/55t8rb2n" style="color: #9b35ff; font-weight: 800; text-decoration: none;">Result Macau</a> dalam satu halaman, SHIOJITU menjadi pilihan tepat bagi pengguna yang membutuhkan informasi cepat, jelas, dan mudah dipahami. Didukung tampilan modern, update yang rapi, serta akses yang stabil, SHIOJITU dirancang untuk memberikan pengalaman yang lebih praktis, efisien, dan terarah setiap hari.
+                            Dengan kombinasi teknologi modern, koleksi permainan yang beragam, dan kemudahan akses, SHIOJITU terus berkembang sebagai platform hiburan online yang praktis dan terpercaya. Bagi pengguna yang mencari pengalaman bermain digital dengan berbagai pilihan permainan dalam satu platform, SHIOJITU menawarkan solusi yang mengutamakan kenyamanan, kualitas, dan kemudahan dalam setiap sesi hiburan.
                             </p>
 
 
@@ -828,7 +832,7 @@
                             <div class="single-product-content">                    
                                 <div class="head-content">
                                     <div class="d-flex brand-name">
-                                        <a title="Brand:SHIOJITU" class="d-block"  href="https://tinyurl.com/55t8rb2n">SHIOJITU</a>    
+                                        <a title="Brand:SHIOJITU" class="d-block"  href="https://shiolincah.com/">SHIOJITU</a>    
                                     </div>
                                     <p class="h5 font-weight-light brand-name  " >
                                     
@@ -1120,19 +1124,19 @@
 
 <div class="border-box">
   <div class="card">
-    <img src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg" alt="SHIOJITU">
+    <img src="https://shiojitu-kali.com/assets/img/atv/favicon.png" alt="SHIOJITU">
   </div>
   <div class="card">
-    <img src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg" alt="toto macau">
+    <img src="https://shiojitu-kali.com/assets/img/atv/favicon.png" alt="toto macau">
   </div>
   <div class="card">
-    <img src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg" alt="prediksi macau">
+    <img src="https://shiojitu-kali.com/assets/img/atv/favicon.png" alt="prediksi macau">
   </div>
   <div class="card">
-    <img src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg" alt="togel online">
+    <img src="https://shiojitu-kali.com/assets/img/atv/favicon.png" alt="togel online">
   </div>
   <div class="card">
-    <img src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg" alt="toto togel">
+    <img src="https://shiojitu-kali.com/assets/img/atv/favicon.png" alt="toto togel">
   </div>
 
   <hr class="separator">
@@ -1158,7 +1162,7 @@
 
                                            <div class="seller-info fs-6 mt-3 "> Powered by : <a
                                             class="seller-modal-link font-normal theme-color" data-bs-toggle="modal"
-                                            data-bs-target="#seller-info" href="https://tinyurl.com/55t8rb2n">
+                                            data-bs-target="#seller-info" href="https://shiolincah.com/">
                                             SHIOJITU</a>
                                     </div>
                                    <div class="prime-text ">
@@ -1289,36 +1293,36 @@
                         </div>
                         <hr>
                         <ul>
-                            <li><a href="https://tinyurl.com/55t8rb2n"
+                            <li><a href="https://shiolincah.com/"
                                     title="About Us SHIOJITU">About Us SHIOJITU</a></li>
-                            <li><a href="https://tinyurl.com/55t8rb2n"
+                            <li><a href="https://shiolincah.com/"
                                     title="Contact Us SHIOJITU">Contact Us SHIOJITU</a></li>
-                            <li><a href="https://tinyurl.com/55t8rb2n"
+                            <li><a href="https://shiolincah.com/"
                                     title="Quotation Request">Quotation Request</a>
                             </li>
-                            <li><a href="https://tinyurl.com/55t8rb2n"
+                            <li><a href="https://shiolincah.com/"
                                     title="Intellectual Property">Intellectual Property</a>
                             </li>
-                            <li><a href="https://tinyurl.com/55t8rb2n"
+                            <li><a href="https://shiolincah.com/"
                                     title="Sitemap">Sitemap</a></li>
-                            <li><a href="https://tinyurl.com/55t8rb2n"
+                            <li><a href="https://shiolincah.com/"
                                     title="Track Order">Track Order</a></li>
-                            <li><a href="https://tinyurl.com/55t8rb2n"
+                            <li><a href="https://shiolincah.com/"
                                     title="Customs tariffs and fees">Customs tariffs and fees</a>
                             </li>
-                            <li><a href="https://tinyurl.com/55t8rb2n"
+                            <li><a href="https://shiolincah.com/"
                                     title="Shipping Policy">Shipping Policy</a>
                             </li>
-                            <li><a href="https://tinyurl.com/55t8rb2n"
+                            <li><a href="https://shiolincah.com/"
                                     title="Micro Influencer">Micro Influencer</a>
                             </li>
-                                                        <li><a href="https://tinyurl.com/55t8rb2n"
+                                                        <li><a href="https://shiolincah.com/"
                                     title="Ubuy Membership">Ubuy Membership</a>
                             </li>
-                                                        <li><a href="https://tinyurl.com/55t8rb2n"
+                                                        <li><a href="https://shiolincah.com/"
                                     title="Ubuy Warranty">Ubuy Warranty</a>
                             </li>
-                            <li><a href="https://tinyurl.com/55t8rb2n"
+                            <li><a href="https://shiolincah.com/"
                                     title="Healthcare Disclaimer">Healthcare Disclaimer</a>
                             </li>
                                                     </ul>
@@ -1329,25 +1333,25 @@
                         </div>
                         <hr>
                         <ul>
-                            <li class="m-0"><a href="https://tinyurl.com/55t8rb2n"
+                            <li class="m-0"><a href="https://shiolincah.com/"
                                     title="Download App SHIOJITU">SHIOJITU</a></li>
-                            <li><a href="https://tinyurl.com/55t8rb2n"
+                            <li><a href="https://shiolincah.com/"
                                     title="Brands List">Brands List</a>
                             </li>
-                                                        <li class="m-0"><a href="https://tinyurl.com/55t8rb2n"
+                                                        <li class="m-0"><a href="https://shiolincah.com/"
                                     title="Customer Reviews">Customer Reviews</a>
                             </li>
-                            <li class="m-0"><a href="https://tinyurl.com/55t8rb2n"
+                            <li class="m-0"><a href="https://shiolincah.com/"
                                     title="Return Policy">Return Policy</a>
                             </li>
-                                                        <li class="m-0"><a target="_blank" href="https://tinyurl.com/55t8rb2n"
+                                                        <li class="m-0"><a target="_blank" href="https://shiolincah.com/"
                                     title="Blog">Blog</a></li>
-                            <li class="m-0"><a href="https://tinyurl.com/55t8rb2n"
+                            <li class="m-0"><a href="https://shiolincah.com/"
                                     title="FAQ">FAQ</a></li>
-                                                        <li class="m-0"><a href="https://tinyurl.com/55t8rb2n"
+                                                        <li class="m-0"><a href="https://shiolincah.com/"
                                     title="About Ucredit">About Ucredit</a>
                             </li>
-                            <li class="m-0"><a target="_blank" href="https://tinyurl.com/55t8rb2n"
+                            <li class="m-0"><a target="_blank" href="https://shiolincah.com/"
                                     title="SHIOJITU Affiliates">SHIOJITU Affiliates</a>
                             </li>
                             
@@ -1409,24 +1413,24 @@
                         </div>
                         <hr>
                        <ul class="mb-0">
-                                                        <li><a                                  href="https://tinyurl.com/55t8rb2n"
+                                                        <li><a                                  href="https://shiolincah.com/"
                                     title="Hongkong">Hongkong</a></li>
-                                                        <li><a                                  href="https://tinyurl.com/55t8rb2n"
+                                                        <li><a                                  href="https://shiolincah.com/"
                                     title="Singapore">Singapore</a></li>
-                                                        <li><a                                  href="https://tinyurl.com/55t8rb2n"
+                                                        <li><a                                  href="https://shiolincah.com/"
                                     title="Toto Macau">Toto Macau</a></li>
-                                                        <li><a                                  href="https://tinyurl.com/55t8rb2n"
+                                                        <li><a                                  href="https://shiolincah.com/"
                                     title="Sydney">Sydney</a></li>
-                                                        <li><a                                  href="https://tinyurl.com/55t8rb2n"
+                                                        <li><a                                  href="https://shiolincah.com/"
                                     title="Taiwan">Taiwan</a></li>
-                                                        <li><a                                  href="https://tinyurl.com/55t8rb2n"
+                                                        <li><a                                  href="https://shiolincah.com/"
                                     title="Japan">Japan</a></li>
-                                                        <li><a                                  href="https://tinyurl.com/55t8rb2n"
+                                                        <li><a                                  href="https://shiolincah.com/"
                                     title="Cambodia">Cambodia</a></li>
-                                                        <li><a                                  href="https://tinyurl.com/55t8rb2n"
+                                                        <li><a                                  href="https://shiolincah.com/"
                                     title="Jakarta">Jakarta</a></li>
                                                     </ul>  
-                        <a href="https://tinyurl.com/55t8rb2n" class="view_more_cities text-dark"
+                        <a href="https://shiolincah.com/" class="view_more_cities text-dark"
                         title="View more cities">View More Cities <i
                             class="fa-solid fa-angle-right"></i></a>   
                     </div>
@@ -1442,7 +1446,7 @@
                                     href="https://ubys.us/apps/?type=apps&utm_source=inhd-ubapp&utm_medium=ubuy-website-abroad&utm_term=bottom-icon&utm_campaign=app-install-ubuy-abroad-web-BTM"
                                     target="_blank"></a><a class="play-store d-none m-0"
                                     aria-label="Play Store"
-                                    href="https://tinyurl.com/55t8rb2n&referrer=utm_source%3Dinhd-ubapp%26utm_medium%3Dubuy-website-abroad%26utm_term%3Dbottom-icon%26utm_campaign%3Dapp-install-ubuy-abroad-web-BTM"
+                                    href="https://shiolincah.com/&referrer=utm_source%3Dinhd-ubapp%26utm_medium%3Dubuy-website-abroad%26utm_term%3Dbottom-icon%26utm_campaign%3Dapp-install-ubuy-abroad-web-BTM"
                                     target="_blank"></a>
                             </div>
                         </div>
@@ -1459,7 +1463,7 @@
                             style="font-size: 16px; color: #666; font-weight:bold;">
                             TRUST ENSURED WITH</p>
                         <div class="ftrisoimg_con d-flex gap-4 align-items-center mt-2">
-                            <a href="https://tinyurl.com/55t8rb2n" title="PCI DSS" target="_blank">
+                            <a href="https://shiolincah.com/" title="PCI DSS" target="_blank">
                                 <img width="94" height="36"
                                     src="https://d2ati23fc66y9j.cloudfront.net/ubuycom-v1/images/loading.gif" 
                                     data-src="https://d2ati23fc66y9j.cloudfront.net/ubuycom/assets/v5/images/pci-dss-compliant.svg"
@@ -1469,7 +1473,7 @@
                             </a>
                                                             <div>
                                     <a title="ISO Certified" target="_blank">
-                                        <img style="border-left: 1px solid #dbd9d9; padding-left: 20px; width:auto;" src="https://d2ati23fc66y9j.cloudfront.net/ubuycom-v1/images/loading.gif" data-src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg" width="139" height="38" alt="iso certified" class="lazy"  />
+                                        <img style="border-left: 1px solid #dbd9d9; padding-left: 20px; width:auto;" src="https://d2ati23fc66y9j.cloudfront.net/ubuycom-v1/images/loading.gif" data-src="https://shiojitu-kali.com/assets/img/atv/favicon.png" width="139" height="38" alt="iso certified" class="lazy"  />
                                     </a>
                                 </div>
                                                     </div>
@@ -1484,15 +1488,15 @@
                         </div>
                         <div class="col-md-12 col-sm-12 col-lg-6 col-12">
                             <ul class="footer-menu">
-                                <li class="no-content"><a href="https://tinyurl.com/55t8rb2n"
+                                <li class="no-content"><a href="https://shiolincah.com/"
                                         title="Terms & Conditions">Terms & Conditions</a>
                                 </li>
-                                <li><a href="https://tinyurl.com/55t8rb2n"
+                                <li><a href="https://shiolincah.com/"
                                         title="Privacy Policy">Privacy Policy</a>
                                 </li>
-                                <li><a href="https://tinyurl.com/55t8rb2n"
+                                <li><a href="https://shiolincah.com/"
                                         title="About Us">About Us</a></li>
-                                <li><a href="https://tinyurl.com/55t8rb2n"
+                                <li><a href="https://shiolincah.com/"
                                         title="Contact Us">Contact Us</a></li>
                             </ul>
                         </div>
@@ -1500,15 +1504,15 @@
                             <div class="followus d-flex justify-content-start">
                                 <span class="mr-5">Follow Us</span>
                                 <div class="social-footer">
-                                    <a href="https://tinyurl.com/55t8rb2n" title="Facebook" target="_blank"><i
+                                    <a href="https://shiolincah.com/" title="Facebook" target="_blank"><i
                                             class="fa-brands fa-facebook-f"></i></a>
-                                    <a href="https://tinyurl.com/55t8rb2n" title="Instagram"
+                                    <a href="https://shiolincah.com/" title="Instagram"
                                         target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                                    <a href="https://tinyurl.com/55t8rb2n" title="Youtube"
+                                    <a href="https://shiolincah.com/" title="Youtube"
                                         target="_blank"><i class="fa-brands fa-youtube"></i></a>
-                                    <a href="https://tinyurl.com/55t8rb2n" title="Twitter"
+                                    <a href="https://shiolincah.com/" title="Twitter"
                                         target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
-                                    <a href="https://tinyurl.com/55t8rb2n" title="Pinterest"
+                                    <a href="https://shiolincah.com/" title="Pinterest"
                                         target="_blank"><i class="fa-brands fa-pinterest"></i></a>
                                 </div>
                             </div>
@@ -1581,7 +1585,7 @@
     
             function getCartData() {
             jQuery.ajax({
-                url: "https://tinyurl.com/55t8rb2n",
+                url: "https://shiolincah.com/",
                 dataType: 'html',
                 type: 'GET',
                 data: {
@@ -1745,7 +1749,7 @@
         }
         if (shop_cat_loader.length > 0) {
             isFetchingCat = jQuery.ajax({
-                url: "https://tinyurl.com/55t8rb2n",
+                url: "https://shiolincah.com/",
                 type: 'GET',
                 data: post_data,
                 dataType: 'html',
@@ -1767,7 +1771,7 @@
         exploreGtmEvent("explore_brand", "desktop");
         if (shop_cat_loader.length > 0) {
             isFetchingBrand = jQuery.ajax({
-                url: "https://tinyurl.com/55t8rb2n",
+                url: "https://shiolincah.com/",
                 type: 'GET',
                 data: {
                     s_id: '122',
@@ -1800,7 +1804,7 @@
             post_data.current_active_store = 'us';
         }
         isFetchingCat = jQuery.ajax({
-            url: "https://tinyurl.com/55t8rb2n",
+            url: "https://shiolincah.com/",
             type: 'GET',
             data: post_data,
             dataType: 'html',
@@ -1864,7 +1868,7 @@
         if (jQuery("#searchRelatedProducts").length > 0) {
             jQuery(document).on('click', '#searchRelatedProducts', function() {
                 if (typeof customEvent === "function") {
-                    var product_url = 'https://tinyurl.com/55t8rb2n';
+                    var product_url = 'https://shiolincah.com/';
                     var ecommerceData = {
                         url: product_url
                     };
@@ -1888,7 +1892,7 @@
                     trustpilot: true                }
                 gtm_data = btoa(JSON.stringify(gtm_data));
                 jQuery.ajax({
-                    url: "https://tinyurl.com/55t8rb2n",
+                    url: "https://shiolincah.com/",
                     type: "GET",
                     dataType: "html",
                     headers: {
@@ -2376,24 +2380,24 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://tinyurl.com/55t8rb2n#organization",
+      "@id": "https://shiolincah.com/#organization",
       "name": "SHIOJITU",
-      "url": "https://tinyurl.com/55t8rb2n",
+      "url": "https://shiolincah.com/",
       "logo": {
         "@type": "ImageObject",
         "url": "https://shiojitu-elx.pages.dev/shiojitu/logoshiojitu.png"
       },
       "description": "SHIOJITU menghadirkan informasi Toto Macau dan Result Macau terupdate dengan penyajian cepat, rapi, akurat, dan mudah diakses.",
       "sameAs": [
-        "https://tinyurl.com/55t8rb2n"
+        "https://shiolincah.com/"
       ]
     },
     {
       "@type": "WebSite",
-      "@id": "https://tinyurl.com/55t8rb2n#website",
+      "@id": "https://shiolincah.com/#website",
       "name": "SHIOJITU",
       "alternateName": "SHIOJITU Toto Macau dan Result Macau Terupdate",
-      "url": "https://tinyurl.com/55t8rb2n",
+      "url": "https://shiolincah.com/",
       "description": "Terbukti akurat, SHIOJITU hadirkan Toto Macau dan Result Macau terupdate dalam satu halaman informatif dengan akses cepat, tampilan responsif, dan pembaruan yang mudah dibaca.",
       "keywords": [
         "SHIOJITU",
@@ -2408,14 +2412,14 @@
         "Update Result Macau"
       ],
       "publisher": {
-        "@id": "https://tinyurl.com/55t8rb2n#organization"
+        "@id": "https://shiolincah.com/#organization"
       },
       "inLanguage": "id-ID"
     },
     {
       "@type": "WebPage",
-      "@id": "https://tinyurl.com/55t8rb2n#webpage",
-      "url": "https://tinyurl.com/55t8rb2n",
+      "@id": "https://shiolincah.com/#webpage",
+      "url": "https://shiolincah.com/",
       "name": "SHIOJITU – Link Viral Asia dengan Beragam Permainan Online Terlengkap dan Terpercaya",
       "headline": "SHIOJITU – Link Viral Asia dengan Beragam Permainan Online Terlengkap dan Terpercaya",
       "alternativeHeadline": "SHIOJITU Menyajikan Toto Macau dan Result Macau Terbaru dalam Satu Halaman",
@@ -2433,16 +2437,16 @@
         "Update Result Macau"
       ],
       "isPartOf": {
-        "@id": "https://tinyurl.com/55t8rb2n#website"
+        "@id": "https://shiolincah.com/#website"
       },
       "about": {
-        "@id": "https://tinyurl.com/55t8rb2n#organization"
+        "@id": "https://shiolincah.com/#organization"
       },
       "breadcrumb": {
-        "@id": "https://tinyurl.com/55t8rb2n#breadcrumb"
+        "@id": "https://shiolincah.com/#breadcrumb"
       },
       "mainEntity": {
-        "@id": "https://tinyurl.com/55t8rb2n#faq"
+        "@id": "https://shiolincah.com/#faq"
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
@@ -2458,9 +2462,9 @@
     },
     {
       "@type": "Article",
-      "@id": "https://tinyurl.com/55t8rb2n#article",
+      "@id": "https://shiolincah.com/#article",
       "mainEntityOfPage": {
-        "@id": "https://tinyurl.com/55t8rb2n#webpage"
+        "@id": "https://shiolincah.com/#webpage"
       },
       "headline": "SHIOJITU – Link Viral Asia dengan Beragam Permainan Online Terlengkap dan Terpercaya",
       "alternativeHeadline": "SHIOJITU Hadirkan Informasi Toto Macau dan Result Macau Terupdate",
@@ -2471,10 +2475,10 @@
       },
       "author": {
         "@type": "Organization",
-        "@id": "https://tinyurl.com/55t8rb2n#organization"
+        "@id": "https://shiolincah.com/#organization"
       },
       "publisher": {
-        "@id": "https://tinyurl.com/55t8rb2n#organization"
+        "@id": "https://shiolincah.com/#organization"
       },
       "datePublished": "2026-06-06",
       "dateModified": "2026-06-06",
@@ -2490,31 +2494,31 @@
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://tinyurl.com/55t8rb2n#breadcrumb",
+      "@id": "https://shiolincah.com/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "SHIOJITU",
-          "item": "https://tinyurl.com/55t8rb2n"
+          "item": "https://shiolincah.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Toto Macau",
-          "item": "https://tinyurl.com/55t8rb2n"
+          "item": "https://shiolincah.com/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Result Macau Terupdate",
-          "item": "https://tinyurl.com/55t8rb2n"
+          "item": "https://shiolincah.com/"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://tinyurl.com/55t8rb2n#faq",
+      "@id": "https://shiolincah.com/#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -2897,27 +2901,27 @@
 <div class="footer-floating-raban">
 
 <a href="https://shiojitu-elx.pages.dev/shiojitu20/amp" class="footer-btn-raban">
-<img src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg">
+<img src="https://shiojitu-kali.com/assets/img/atv/favicon.png">
 PROMO
 </a>
 
 <a href="https://shiojitu-elx.pages.dev/shiojitu20/amp" class="footer-btn-raban">
-<img src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg">
+<img src="https://shiojitu-kali.com/assets/img/atv/favicon.png">
 LOGIN
 </a>
 
 <a href="https://shiojitu-elx.pages.dev/shiojitu20/amp" class="footer-btn-raban">
-<img src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg">
+<img src="https://shiojitu-kali.com/assets/img/atv/favicon.png">
 DAFTAR
 </a>
 
 <a href="https://shiojitu-elx.pages.dev/shiojitu20/amp" class="footer-btn-raban">
-<img src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg">
+<img src="https://shiojitu-kali.com/assets/img/atv/favicon.png">
 WHATSAPP
 </a>
 
 <a href="https://shiojitu-elx.pages.dev/shiojitu20/amp" class="footer-btn-raban">
-<img src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg">
+<img src="https://shiojitu-kali.com/assets/img/atv/favicon.png">
 LIVE CHAT
 </a>
 
