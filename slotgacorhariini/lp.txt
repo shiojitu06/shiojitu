@@ -20,11 +20,11 @@
   <link rel="icon" type="image/webp" sizes="32x32" href="https://shiojitu-kali.com/assets/img/atv/favicon.png">
   <link rel="icon" type="image/webp" sizes="16x16" href="https://shiojitu-kali.com/assets/img/atv/favicon.png">
   <link rel="apple-touch-icon" sizes="180x180" href="https://shiojitu-kali.com/assets/img/atv/favicon.png">
-  <title>SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!</title>
+  <title>Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU.</title>
   <meta name="description" content="Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU. Nikmati berbagai pilihan permainan favorit dengan sistem yang cepat, tampilan modern, dan akses mudah kapan saja. Dapatkan sensasi slot hoki jackpot tiap hari, didukung layanan profesional, proses transaksi yang praktis, serta promo menarik untuk member baru maupun member setia. Bergabung sekarang di SHIOJITU dan nikmati hiburan online yang aman, nyaman, dan penuh keseruan setiap hari.">
   <meta property="og:site_name" content="SHIOJITU">
   <meta property="og:url" content="https://shioresmi.com/">
-  <meta property="og:title" content="SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!">
+  <meta property="og:title" content="Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU.">
   <meta property="og:type" content="product">
   <meta property="og:description" content="Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU. Nikmati berbagai pilihan permainan favorit dengan sistem yang cepat, tampilan modern, dan akses mudah kapan saja. Dapatkan sensasi slot hoki jackpot tiap hari, didukung layanan profesional, proses transaksi yang praktis, serta promo menarik untuk member baru maupun member setia. Bergabung sekarang di SHIOJITU dan nikmati hiburan online yang aman, nyaman, dan penuh keseruan setiap hari.">
   <meta property="og:image" content="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png">
@@ -35,7 +35,7 @@
   <meta property="og:price:currency" content="SGD">
   <meta property="og:locale" content="id_ID">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!">
+  <meta name="twitter:title" content="Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU.">
   <meta name="twitter:description" content="Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU. Nikmati berbagai pilihan permainan favorit dengan sistem yang cepat, tampilan modern, dan akses mudah kapan saja. Dapatkan sensasi slot hoki jackpot tiap hari, didukung layanan profesional, proses transaksi yang praktis, serta promo menarik untuk member baru maupun member setia. Bergabung sekarang di SHIOJITU dan nikmati hiburan online yang aman, nyaman, dan penuh keseruan setiap hari.">
   <script type="text/javascript" async="" src="//app.backinstock.org/widget/91512_1746008386.js?category=bisu0026v=6u0026shop=istudio-elush-production.myshopify.com"></script>
   <script>
@@ -191,7 +191,7 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "url": "https://shioresmi.com/",
-      "name": "SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!",
+      "name": "Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU.",
       "sku": "3215487804",
       "description": "Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU. Nikmati berbagai pilihan permainan favorit dengan sistem yang cepat, tampilan modern, dan akses mudah kapan saja. Dapatkan sensasi slot hoki jackpot tiap hari, didukung layanan profesional, proses transaksi yang praktis, serta promo menarik untuk member baru maupun member setia. Bergabung sekarang di SHIOJITU dan nikmati hiburan online yang aman, nyaman, dan penuh keseruan setiap hari.",
       "image": [{
@@ -285,7 +285,7 @@
     {
       "@context": "https://schema.org",
       "@type": "VideoObject",
-      "name": "SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!",
+      "name": "Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU.",
       "description": "Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU. Nikmati berbagai pilihan permainan favorit dengan sistem yang cepat, tampilan modern, dan akses mudah kapan saja. Dapatkan sensasi slot hoki jackpot tiap hari, didukung layanan profesional, proses transaksi yang praktis, serta promo menarik untuk member baru maupun member setia. Bergabung sekarang di SHIOJITU dan nikmati hiburan online yang aman, nyaman, dan penuh keseruan setiap hari.",
       "thumbnailUrl": ["https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png", "https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png"],
       "uploadDate": "2024-09-28T04:19:10-04:00",
@@ -339,7 +339,7 @@
       }, {
         "@type": "ListItem",
         "position": 9,
-        "name": "SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!",
+        "name": "Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU.",
         "item": "https://shioresmi.com/"
       }]
     }
@@ -1010,7 +1010,7 @@
         "variants": [{
           "id": 44033871610036,
           "price": 25900,
-          "name": "SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!",
+          "name": "Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU.",
           "public_title": null,
           "sku": "MG8H4X/A"
         }],
@@ -1123,15 +1123,15 @@
       <div class="hura-messages swiper-wrapper slick-initialized slick-slider"><button type="button" data-role="none" class="slick-prev slick-arrow" aria-label="Previous" tabindex="0" role="button" style="display: block;">Previous</button>
         <div aria-live="polite" class="slick-list draggable">
           <div class="slick-track" style="opacity: 1; width: 7936px; transform: translate3d(-992px, 0px, 0px);">
-            <div class="hura-message swiper-slide slick-slide slick-cloned" data-slick-index="-1" style="width: 992px;" aria-hidden="true" tabindex="-1"> SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar! </div>
-            <div class="hura-message swiper-slide slick-slide slick-current slick-active" data-slick-index="0" style="width: 992px;" aria-hidden="false" tabindex="0"> SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar! <a href="https://shiojitu-elx.pages.dev/slotgacorhariini/amp" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer" aria-hidden="false" tabindex="0"> Daftar Disini ! </a>
+            <div class="hura-message swiper-slide slick-slide slick-cloned" data-slick-index="-1" style="width: 992px;" aria-hidden="true" tabindex="-1"> Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU. </div>
+            <div class="hura-message swiper-slide slick-slide slick-current slick-active" data-slick-index="0" style="width: 992px;" aria-hidden="false" tabindex="0"> Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU. <a href="https://shiojitu-elx.pages.dev/slotgacorhariini/amp" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer" aria-hidden="false" tabindex="0"> Daftar Disini ! </a>
             </div>
-            <div class="hura-message swiper-slide slick-slide" data-slick-index="1" style="width: 992px;" aria-hidden="true" tabindex="-1"> SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar! </div>
+            <div class="hura-message swiper-slide slick-slide" data-slick-index="1" style="width: 992px;" aria-hidden="true" tabindex="-1"> Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU. </div>
             <div class="hura-message swiper-slide slick-slide" data-slick-index="2" style="width: 992px;" aria-hidden="true" tabindex="-1"> Akses Login Cepat, Aman, dan Stabil Tanpa Gangguan </div>
             <div class="hura-message swiper-slide slick-slide" data-slick-index="3" style="width: 992px;" aria-hidden="true" tabindex="-1"> Data &amp; Hasil Slot Gacor Akurat Update Real-Time </div>
             <div class="hura-message swiper-slide slick-slide" data-slick-index="4" style="width: 992px;" aria-hidden="true" tabindex="-1"> Sistem Resmi dengan Keamanan Data Terjaga </div>
-            <div class="hura-message swiper-slide slick-slide" data-slick-index="5" style="width: 992px;" aria-hidden="true" tabindex="-1"> SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar! </div>
-            <div class="hura-message swiper-slide slick-slide slick-cloned" data-slick-index="6" style="width: 992px;" aria-hidden="true" tabindex="-1"> SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar! <a href="https://shiojitu-elx.pages.dev/slotgacorhariini/amp" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer" aria-hidden="true" tabindex="-1"> Daftar Disini ! </a>
+            <div class="hura-message swiper-slide slick-slide" data-slick-index="5" style="width: 992px;" aria-hidden="true" tabindex="-1"> Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU. </div>
+            <div class="hura-message swiper-slide slick-slide slick-cloned" data-slick-index="6" style="width: 992px;" aria-hidden="true" tabindex="-1"> Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU. <a href="https://shiojitu-elx.pages.dev/slotgacorhariini/amp" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer" aria-hidden="true" tabindex="-1"> Daftar Disini ! </a>
             </div>
           </div>
         </div>
@@ -2307,7 +2307,7 @@
               </div>
             </div>
             <div class="product-title-style product__title">
-              <h1>SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!</h1>
+              <h1>Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU.</h1>
             </div>
             <div class="product-subtitle-style"></div>
             <div class="skuAndBarcode">
@@ -2342,7 +2342,7 @@
                           </svg>
                         </div>
                         <div class="product__media media media--transparent">
-                          <img src="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=823" alt="SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!" srcset="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=246 246w, https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=493 493w, https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=600 600w, https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=713 713w, https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=823 823w" width="823" height="823" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)" aria-hidden="false" tabindex="0">
+                          <img src="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=823" alt="Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU." srcset="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=246 246w, https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=493 493w, https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=600 600w, https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=713 713w, https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=823 823w" width="823" height="823" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)" aria-hidden="false" tabindex="0">
                         </div>
                         <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040123572" aria-hidden="false" tabindex="0">
                           <span class="visually-hidden"> Open media 1 in modal </span>
@@ -2575,7 +2575,7 @@
                   </div>
                 </div>
                 <div class="product-title-style product__title">
-                  <h1> SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!</h1>
+                  <h1> Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU.</h1>
                 </div>
                 <div class="product-subtitle-style"></div>
                 <div class="skuAndBarcode">
@@ -2783,14 +2783,14 @@
                 <div class="price-per-item__container">
                   <quantity-input class="quantity js-qty-input" data-url="/products/iphone-17-pro-mg8h4x-a" data-section="template--17605519376564__main">
                     <button class="quantity__button no-js-hidden disabled" name="minus" type="button">
-                      <span class="visually-hidden">Decrease quantity for SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!</span>
+                      <span class="visually-hidden">Decrease quantity for Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU.</span>
                       <svg width="8" height="3" viewBox="0 0 8 3" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M8 2.63477V0.501953H0V2.63477H8Z" fill="#121212" fill-opacity="0.75"></path>
                       </svg>
                     </button>
                     <input pattern="[0-9]*" class="quantity__input" type="number" name="quantity" id="prodQuantity" data-cart-quantity="0" data-min="1" min="1" step="1" value="1" max="null">
                     <button class="quantity__button no-js-hidden" name="plus" type="button">
-                      <span class="visually-hidden">Increase quantity for SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!</span>
+                      <span class="visually-hidden">Increase quantity for Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU.</span>
                       <svg width="10" height="9" viewBox="0 0 10 9" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M5.99219 5.56445H9.21875V3.54883H5.99219V0.361328H4V3.54883H0.78125V5.56445H4V8.75977H5.99219V5.56445Z" fill="#121212" fill-opacity="0.75"></path>
                       </svg>
@@ -3266,7 +3266,7 @@
                     <input type="hidden" class="pdp_product_category" value="iPhone">
                     <input type="hidden" class="pdp_product_currency" value="SGD">
                     <input type="hidden" class="pdp_product_price" id="product_price" value="">
-                    <input type="hidden" class="pdp_product_title" value="SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!">
+                    <input type="hidden" class="pdp_product_title" value="Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU.">
                     <div class="addtocartPDP product-form__buttons">
                       <button id="addtocart-submit" type="submit" name="add" class="addtocartPDP product-form__submit button button--full-width button--secondary" disabled="">
                         <span>Out of Stock </span>
@@ -3292,7 +3292,7 @@
                 <details id="Details-popup_custom_pptnJ9-template--17605519376564__main">
                   <summary role="button" aria-expanded="false" aria-controls="ProductAccordion-popup_custom_pptnJ9-template--17605519376564__main">
                     <div class="summary__title">
-                    <h2 class="h4 accordion__title"> SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar! </h2>
+                    <h2 class="h4 accordion__title"> Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU. </h2>
                     </div>
                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                       <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
@@ -3579,7 +3579,7 @@
           {
             "@context": "https://schema.org",
             "@type": "Product",
-            "name": "SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!",
+            "name": "Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU.",
             "url": "https://shioresmi.com/",
             "image": ["https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&width=823"],
             "description": "Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU. Nikmati berbagai pilihan permainan favorit dengan sistem yang cepat, tampilan modern, dan akses mudah kapan saja. Dapatkan sensasi slot hoki jackpot tiap hari, didukung layanan profesional, proses transaksi yang praktis, serta promo menarik untuk member baru maupun member setia. Bergabung sekarang di SHIOJITU dan nikmati hiburan online yang aman, nyaman, dan penuh keseruan setiap hari.",
@@ -3666,10 +3666,10 @@
         <a href="https://shiojitu-elx.pages.dev/slotgacorhariini/amp" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
           <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://shiojitu-elx.pages.dev/shiojitu/logoshionaga.jpg" alt="LIVE CHAT SHIOJITU"> LIVE CHAT </a>
       </div>
-      <input type="hidden" id="page_title" value="SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!">
+      <input type="hidden" id="page_title" value="Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU.">
       <script type="application/json" id="adobeAnalyticsProductData">
         {
-          "product_name": "SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!",
+          "product_name": "Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU.",
           "mpn_id": "0000000000",
           "currency": "SGD",
           "product_price": {
@@ -3678,7 +3678,7 @@
           },
           "brand": "SHIOJITU",
           "lob": "SLOT ONLINE",
-          "sub_lob": "SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!"
+          "sub_lob": "Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU."
         }
       </script>
       <style>
@@ -3977,7 +3977,7 @@
         <p style="position: relative; z-index: 2;">
         </p>
 <div class="product-title-style product__title">
-    <h1 style="text-align: center; color: #ffd800;">SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!</h1>
+    <h1 style="text-align: center; color: #ffd800;">Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU.</h1>
     
     <p style="text-align: center;"><span style="color: #ffd800;"><em><a href="https://shioresmi.com/" style="color: #f42702;">SHIOJITU</a> Di tengah berkembangnya dunia hiburan digital, SHIOJITU hadir sebagai pilihan platform yang menawarkan pengalaman bermain yang praktis, nyaman, dan penuh keseruan. Dengan menghadirkan beragam pilihan permainan populer dari provider ternama, SHIOJITU memberikan kesempatan bagi para pemain untuk menikmati sensasi bermain slot yang menghibur dalam satu akun yang mudah diakses kapan saja.
 
@@ -5746,7 +5746,7 @@ SHIOJITU terus berkomitmen menghadirkan pengalaman bermain yang modern dengan ta
         </svg>
       </button>
       <div class="product-media-modal__content color-background-1 gradient" role="document" aria-label="Media gallery" tabindex="0">
-        <img class="custom_popup_compare_32122040123572 global-media-settings global-media-settings--no-shadow" srcset="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=550 550w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1100 1100w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1445 1445w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1680 1680w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2048 2048w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2200 2200w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2890 2890w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054 4000w" sizes="(min-width: 750px) calc(100vw - 22rem), 1100px" src="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1445" alt="SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!" loading="lazy" width="1100" height="1100" data-media-id="32122040123572">
+        <img class="custom_popup_compare_32122040123572 global-media-settings global-media-settings--no-shadow" srcset="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=550 550w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1100 1100w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1445 1445w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1680 1680w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2048 2048w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2200 2200w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2890 2890w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054 4000w" sizes="(min-width: 750px) calc(100vw - 22rem), 1100px" src="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1445" alt="Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU." loading="lazy" width="1100" height="1100" data-media-id="32122040123572">
         <img class="custom_popup_compare_32122040156340 global-media-settings global-media-settings--no-shadow" srcset="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=550 550w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1100 1100w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1445 1445w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1680 1680w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2048 2048w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2200 2200w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2890 2890w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054 4000w" sizes="(min-width: 750px) calc(100vw - 22rem), 1100px" src="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1445" alt="iPhone_17_Pro_Cosmic_Orange_PDP_Image_Position_2_Cosmic_Orange_Colour__SG-EN" loading="lazy" width="1100" height="1100" data-media-id="32122040156340">
         <img class="custom_popup_compare_32122040189108 global-media-settings global-media-settings--no-shadow" srcset="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450055&amp;width=550 550w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450055&amp;width=1100 1100w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450055&amp;width=1445 1445w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450055&amp;width=1680 1680w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450055&amp;width=2048 2048w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450055&amp;width=2200 2200w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450055&amp;width=2890 2890w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450055 4000w" sizes="(min-width: 750px) calc(100vw - 22rem), 1100px" src="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450055&amp;width=1445" alt="TOGEL ONLINE" loading="lazy" width="1100" height="1100" data-media-id="32122040189108">
         <img class="custom_popup_compare_32122040221876 global-media-settings global-media-settings--no-shadow" srcset="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=550 550w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1100 1100w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1445 1445w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1680 1680w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2048 2048w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2200 2200w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2890 2890w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054 4000w" sizes="(min-width: 750px) calc(100vw - 22rem), 1100px" src="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1445" alt="BANDAR TOGEL" loading="lazy" width="1100" height="1100" data-media-id="32122040221876">
@@ -5756,7 +5756,7 @@ SHIOJITU terus berkomitmen menghadirkan pengalaman bermain yang modern dengan ta
         <img class="custom_popup_compare_32122040352948 global-media-settings global-media-settings--no-shadow" srcset="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=550 550w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1100 1100w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1445 1445w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1680 1680w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2048 2048w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2200 2200w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2890 2890w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054 4000w" sizes="(min-width: 750px) calc(100vw - 22rem), 1100px" src="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1445" alt="SHIOJITU" loading="lazy" width="1100" height="1100" data-media-id="32122040352948">
         <img class="custom_popup_compare_32122040385716 global-media-settings global-media-settings--no-shadow" srcset="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=550 550w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1100 1100w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1445 1445w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1680 1680w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2048 2048w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2200 2200w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2890 2890w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054 4000w" sizes="(min-width: 750px) calc(100vw - 22rem), 1100px" src="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1445" alt="BANDAR TOGEL ONLINE" loading="lazy" width="1100" height="1100" data-media-id="32122040385716">
         <img class="custom_popup_compare_32122040418484 global-media-settings global-media-settings--no-shadow" srcset="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=550 550w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1100 1100w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1445 1445w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1680 1680w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2048 2048w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2200 2200w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=2890 2890w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054 4000w" sizes="(min-width: 750px) calc(100vw - 22rem), 1100px" src="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757450054&amp;width=1445" alt="TOTO TOGEL" loading="lazy" width="1100" height="1100" data-media-id="32122040418484">
-        <img class="custom_popup_compare_32127875580084 global-media-settings global-media-settings--no-shadow" srcset="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890&amp;width=550 550w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890&amp;width=1100 1100w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890&amp;width=1445 1445w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890&amp;width=1680 1680w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890&amp;width=2048 2048w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890&amp;width=2200 2200w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890&amp;width=2890 2890w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890 4000w" sizes="(min-width: 750px) calc(100vw - 22rem), 1100px" src="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890&amp;width=1445" alt="SHIOJITU – Slot Hoki Jackpot Tiap Hari Main Lebih Seru dengan Peluang Kemenangan Besar!" loading="lazy" width="1100" height="1100" data-media-id="32127875580084">
+        <img class="custom_popup_compare_32127875580084 global-media-settings global-media-settings--no-shadow" srcset="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890&amp;width=550 550w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890&amp;width=1100 1100w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890&amp;width=1445 1445w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890&amp;width=1680 1680w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890&amp;width=2048 2048w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890&amp;width=2200 2200w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890&amp;width=2890 2890w,https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890 4000w" sizes="(min-width: 750px) calc(100vw - 22rem), 1100px" src="https://shiojitu-elx.pages.dev/shiojitu/c775e20d-33e0-41a2-808b-bb06619bc427.png?v=1757491890&amp;width=1445" alt="Rasakan pengalaman bermain game online yang lebih seru bersama SHIOJITU." loading="lazy" width="1100" height="1100" data-media-id="32127875580084">
         <deferred-media class="deferred-media media global-media-settings global-media-settings--no-shadow" style="padding-top: min(calc(100vh - 12rem), 56.33802816901409%)" data-media-id="32153557532852">
           <video playsinline="1" poster="https://shiojitu-elx.pages.dev/shiojitu/logoshiojitu.png?v=1757995782&amp;width=758" preload="metadata" src="https://shiojitu-elx.pages.dev/shiojitu/logoshiojitu.png?v=1757995782&amp;width=758" controls="controls" muted="muted"></video>
         </deferred-media>
