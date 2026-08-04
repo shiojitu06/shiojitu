@@ -1,0 +1,1305 @@
+
+<!DOCTYPE HTML>
+<html lang="id"> 
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SHIOJITU - Bandar Togel Online & Situs Slot Online Gacor JP Terbesar</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">                          
+<link href="https://www.miracle-clinic.com/miracle-theme/modules/pushy/css/pushy.min.css" rel="stylesheet"> 
+<link rel="stylesheet" type="text/css" href="https://www.miracle-clinic.com/miracle-theme/modules/slick/slick.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://www.miracle-clinic.com/miracle-theme/modules/slick/slick-theme.min.css"/>
+<link rel="stylesheet" href="https://www.miracle-clinic.com/miracle-theme/modules/htimeline/css/style.min.css">
+<link rel="stylesheet" href="https://www.miracle-clinic.com/miracle-theme/modules/bootstrap-select/css/bootstrap-select.min.css">
+<link rel="stylesheet" href="https://www.miracle-clinic.com/miracle-theme/modules/bootstrap-datepicker/css/bootstrap-datepicker.min.css">
+<link rel="stylesheet" href="https://www.miracle-clinic.com/miracle-theme/modules/datetimepicker/css/bootstrap-datetimepicker.min.css">
+<link href="https://www.miracle-clinic.com/miracle-theme/assets/fonts/fonts.min.css" rel="stylesheet">
+<link href="https://www.miracle-clinic.com/miracle-theme/style.min.css" rel="stylesheet">
+<link rel="shortcut icon" type="image/x-icon" href="https://shiojitu-elx.pages.dev/shiojitu/9bb2d567-3097-4fc4-a2c7-aec04e501c94.png">
+<meta name="webcrawlers" content="all" />
+<meta name="spiders" content="all" />
+<meta name="Keywords" content="shiojitu, situs toto, toto togel, situs togel, togel online, bandar togel, shiojitu togel, situs toto togel, situs togel online, bandar togel online" />
+<meta name="description" content=
+"SHIOJITU merupakan bandar togel online sekaligus bandar slot online tergacor diseluruh Indonesia, prediksi akurat dan bocoran rtp gacor menjadi kunci kemenangan pemain." 
+/> 
+<meta name="google-site-verification" content="tQ540jUP-iabWcFWfV-vCI8VB4qCgBigGKIYOwAkPmw" />
+<meta name="google-site-verification" content="Wa8przqj6bhn7zEjnYuDFNo7flPLi4ucGd3_uJM7Ydg" />
+<meta name="google-site-verification" content="VLXtzgVJeW1zj21OB7Ao0C2z0fXUOBY6nTc55_gFRTM" />
+<meta name="google-site-verification" content="fIrVrKvpgnV50iOY34Bn61FT2y-LRrd0IZaPG2eAAzg" />
+<meta name="google-site-verification" content="3VSKB_H5FW6nP1wQZBiv9E3z5IEnIEhQw3Ip7IFIIKQ" />
+<meta name="google-site-verification" content="xq0s0rfaNpx1HRywaxDmnyUD13EY8C3bBPKUpHnGPI0" />       
+<meta property="og:title" content="SHIOJITU - Bandar Togel Online & Situs Slot Online Gacor JP Terbesar" />
+<meta property="og:image" content="https://img.culanseng.org/storage/images/shiojitu/jagoanneon-20.webp"/>
+<meta property="og:description" content="SHIOJITU merupakan bandar togel online sekaligus bandar slot online tergacor diseluruh Indonesia, prediksi akurat dan bocoran rtp gacor menjadi kunci kemenangan pemain."/> 
+<link rel="canonical" href="https://$$$$$$$$$$/" />
+<link rel="amphtml" href="https://shiojitu-elx.pages.dev/bandartogelslotonline/amp">
+<link rel="alternate" href="https://shiojitu-elx.pages.dev/bandartogelslotonline/amp"/>
+<link rel="alternate" hreflang="id" href="https://shiojitu-elx.pages.dev/bandartogelslotonline/amp"/>
+<link rel="alternate" hreflang="id-id" href="https://shiojitu-elx.pages.dev/bandartogelslotonline/amp"/>
+<link rel="alternate" hreflang="en" href="https://shiojitu-elx.pages.dev/bandartogelslotonline/amp"/>
+<link rel="alternate" hreflang="x-default" href="https://shiojitu-elx.pages.dev/bandartogelslotonline/amp" />
+<meta property="og:url" content="https://$$$$$$$$$$/" />
+<meta property="og:site_name" content="SHIOJITU" />
+<meta name="distribution" content="Global" />
+<meta name="rating" content="General" />
+<meta content="index, follow, nosnippet"name="robots">
+<meta name="googlebot" content="index,follow" />
+<meta name="dc.title" content="SHIOJITU - Bandar Togel Online & Situs Slot Online Gacor JP Terbesar" /> 
+<meta name="dc.creator.website" content="https://$$$$$$$$$$/" />
+<meta name="tgn.name" content="Bekasi" />
+<meta name="tgn.nation" content="Indonesia" />
+<link rel="alternate" href="https://$$$$$$$$$$/" hreflang="x-default">
+<meta name="twitter:title" content="SHIOJITU - Bandar Togel Online & Situs Slot Online Gacor JP Terbesar">
+<meta name="twitter:image" content="https://img.culanseng.org/storage/images/shiojitu/jagoanneon-20.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@SHIOJITU">
+<meta name="twitter:creator" content="@SHIOJITU">
+<meta name="twitter:description" content="SHIOJITU merupakan bandar togel online sekaligus bandar slot online tergacor diseluruh Indonesia, prediksi akurat dan bocoran rtp gacor menjadi kunci kemenangan pemain.">
+<meta name="twitter:domain" content="$$$$$$$$$$"> 
+<meta property="og:type" content="website">
+<meta property="og:image:alt" content="SHIOJITU">
+
+<style>
+
+:root{
+  --lnd-bg:#fbfbf9;
+  --lnd-surface:#ffffff;
+  --lnd-text:#37341f;
+  --lnd-muted:rgba(31,41,55,.72);
+  --lnd-brand:#dcb535;
+  --lnd-brand-dark:#97781b;
+  --lnd-border:rgb(39 35 17 / 10%);
+  --lnd-shadow:0 18px 50px rgb(39 35 17 / 10%);
+  --lnd-radius:22px;
+}
+
+body{background:var(--lnd-bg);}
+a{transition:all .18s ease;}
+a:focus{outline:2px solid rgba(139,197,63,.35); outline-offset:2px;}
+
+.lnd-main{padding:28px 0 10px;}
+.lnd-section{padding:56px 0;}
+.lnd-section-head{margin:0 0 22px;}
+.lnd-section-title{margin:0 0 8px; font-size:28px; font-weight:700; color:var(--lnd-text);}
+.lnd-section-subtitle{margin:0; color:var(--lnd-muted); font-size:15px; line-height:1.6;}
+
+.lnd-hero{padding:54px 0 34px; background:
+  radial-gradient(900px 500px at 8% 10%, rgb(231 184 25 / 16%), transparent 55%),
+  radial-gradient(700px 420px at 92% 20%, rgb(197 167 63 / 10%), transparent 55%),
+  linear-gradient(180deg, #ffffff 0%, rgba(255,255,255,.55) 100%);
+  border-bottom:1px solid var(--lnd-border);
+}
+.lnd-hero h1{margin:0 0 10px; font-weight:800; letter-spacing:-.02em; color:var(--lnd-text); font-size:42px; line-height:1.12;}
+.lnd-hero .lead{margin:0 0 18px; color:var(--lnd-muted); font-size:16px; line-height:1.8; max-width:52ch;}
+.lnd-hero-cta{display:flex; gap:10px; flex-wrap:wrap; margin:18px 0 16px;}
+.lnd-badges{display:flex; flex-wrap:wrap; gap:8px; margin-top:6px;}
+.lnd-badge{
+  display:inline-flex; align-items:center; gap:6px;
+  padding:7px 10px; border-radius:999px;
+  background:rgb(197 167 63 / 10%);
+  border:1px solid rgb(255 201 34 / 20%);
+  color:rgba(31,41,55,.86);
+  font-size:12px; font-weight:600;
+}
+
+.lnd-poster{
+  background:var(--lnd-surface);
+  border:1px solid var(--lnd-border);
+  border-radius:var(--lnd-radius);
+  box-shadow:var(--lnd-shadow);
+  overflow:hidden;
+  max-width:520px;
+  margin:18px auto 0;
+}
+.lnd-poster img{width:100%; height:auto; display:block;}
+
+.lnd-article{
+  margin-top:22px;
+  padding:18px 18px;
+  background:var(--lnd-surface);
+  border:1px solid var(--lnd-border);
+  border-radius:18px;
+}
+.lnd-article h3{margin:0 0 8px; font-size:18px; font-weight:800; color:var(--lnd-text);}
+.lnd-article p{margin:0; color:rgb(255 255 255 / 72%); line-height:1.8;}
+
+.lnd-accordion .panel{
+  border:1px solid var(--lnd-border);
+  border-radius:18px !important;
+  overflow:hidden;
+  box-shadow:0 10px 28px rgba(17,24,39,.06);
+}
+.lnd-accordion .panel + .panel{margin-top:12px;}
+.lnd-accordion .panel-heading{
+  background:rgb(212 165 26) !important;
+  border:none !important;
+  padding:16px 18px;
+}
+.lnd-accordion .panel-title a{
+  display:block;
+  text-decoration:none !important;
+  font-weight:700;
+  color:var(--lnd-text);
+}
+.lnd-accordion .panel-title a:hover{color:var(--lnd-brand-dark);}
+.lnd-accordion .panel-body{border-top:1px solid var(--lnd-border) !important; color:var(--lnd-muted); line-height:1.8;}
+
+.lnd-card {
+    background: #000000;
+    border: 1px solid var(--lnd-border);
+    border-radius: 22px;
+    padding: 18px 18px;
+    box-shadow: 0 14px 40px rgba(17, 24, 39, .08);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+/* ===== testimoni: samakan tinggi card + cegah "nendang" saat wrap =====
+   Bootstrap 3 pakai float, jadi card tinggi beda -> nyangkut saat wrap.
+   Jadikan .row flexbox supaya tiap baris otomatis sama tinggi & rapi. */
+#testimoni .row{
+    display:flex;
+    flex-wrap:wrap;
+}
+#testimoni .row > [class*="col-"]{
+    display:flex;          /* kolom jadi flex box -> card mengisi penuh tinggi baris */
+    flex:0 0 100%;         /* HP (<768px): 1 kolom per baris (numpuk rapi) */
+    max-width:100%;
+}
+@media (min-width:768px){  /* tablet (sm): 2 kolom */
+    #testimoni .row > [class*="col-"]{ flex:0 0 50%; max-width:50%; }
+}
+@media (min-width:992px){  /* desktop (md): 3 kolom */
+    #testimoni .row > [class*="col-"]{ flex:0 0 33.3333%; max-width:33.3333%; }
+}
+#testimoni .lnd-card{
+    width:100%;            /* isi penuh lebar kolom */
+}
+/* dorong identitas (nama/kota) ke bawah biar rata walau kutipan pendek */
+#testimoni .lnd-person{
+    margin-top:auto;
+}
+.lnd-stars{color:var(--lnd-brand); letter-spacing:2px; font-size:12px; margin-bottom:10px;}
+.lnd-quote{color:rgb(255 255 255 / 72%); line-height:1.8; margin:0 0 14px;}
+.lnd-person{display:flex; gap:12px; align-items:center;}
+.lnd-avatar{
+  width:42px; height:42px; border-radius:999px;
+  background:rgb(197 173 63 / 14%);
+  border:1px solid rgb(255 220 10 / 25%);
+  color:var(--lnd-brand-dark);
+  display:flex; align-items:center; justify-content:center;
+  font-weight:900;
+}
+.lnd-name{font-weight:800; color:var(--lnd-text); line-height:1.2;}
+.lnd-role{color:rgb(255 255 255 / 72%); font-size:12px; margin-top:2px;}
+
+.lnd-cta{
+  padding:50px 0;
+}
+.lnd-cta-box{
+  padding:22px 22px;
+  background:linear-gradient(135deg, rgba(139,197,63,.12), rgba(255,255,255,.9));
+  border:1px solid rgba(139,197,63,.22);
+  border-radius:24px;
+  box-shadow:var(--lnd-shadow);
+}
+.lnd-cta-box h2{margin:0 0 8px; font-size:24px; font-weight:900; color:var(--lnd-text);}
+.lnd-cta-box p{margin:0 0 14px; color:var(--lnd-muted); line-height:1.8;}
+.lnd-cta-actions{display:flex; gap:10px; flex-wrap:wrap;}
+
+.btn-green, .btn-green-o{border-radius:999px !important;}
+.btn-green{background:var(--lnd-brand) !important; border-color:var(--lnd-brand) !important;}
+.btn-green:hover{background:var(--lnd-brand-dark) !important; border-color:var(--lnd-brand-dark) !important;}
+.btn-green-o{background:transparent !important; border-color:var(--lnd-brand) !important; color:var(--lnd-brand-dark) !important;}
+.btn-green-o:hover{background:rgb(197 167 63 / 10%) !important;}
+
+@media (min-width: 992px){
+  .lnd-hero .lnd-hero-row{display:flex; align-items:center;}
+  .lnd-hero .lnd-hero-row > [class*="col-"]{float:none;}
+  .lnd-poster{margin-top:0;}
+}
+@media (max-width: 767px){
+  .lnd-hero{padding:40px 0 26px;}
+  .lnd-hero h1{font-size:34px;}
+  .lnd-section{padding:44px 0;}
+}
+
+.lnd-article-block{ margin-top:0; }
+body a:hover {
+    color: #daaa19;
+} 
+.floating {
+    position: fixed;
+    width: 215px;
+    height: 38px;
+    bottom: 40px;
+    right: 40px;
+    padding-top: 5px;
+    background-color: #e1b42f;
+    color: #fff !important;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 18px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+}  
+.floating2 {
+    position: fixed;
+    width: 185px;
+    height: 38px;
+    bottom: 40px;
+    left: 40px;
+    padding-top: 5px;
+    background-color: #e1b42f;
+    color: #fff !important;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 18px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+}
+body.nav-thru .navbar.navbar-fixed-top, .navbar-fixed-top {
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
+    top: -150px;
+    opacity: 0;
+    background: #d4a51a;
+    border-bottom: solid 1px #ffc61d;
+    -webkit-transition: all 500ms ease-in-out;
+    -moz-transition: all 500ms ease-in-out;
+    -o-transition: all 500ms ease-in-out;
+    transition: all 500ms ease-in-out;
+}  
+</style>
+</head>
+<body class="nav-thru">
+<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W8DL8T3');
+</script>
+<!-- End Google Tag Manager -->
+
+
+
+<!-- Google Tag Manager (noscript) oldnew -->
+<!--<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLXW5L33"-->
+<!--height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>-->
+<!-- End Google Tag Manager (noscript) -->
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "SHIOJITU - Bandar Togel Online & Situs Slot Online Gacor JP Terbesar",
+  "url": "https://$$$$$$$$$$/",
+  "logo": "https://shiojitu-elx.pages.dev/shiojitu/9bb2d567-3097-4fc4-a2c7-aec04e501c94.png",
+  "description": "SHIOJITU merupakan bandar togel online sekaligus bandar slot online tergacor diseluruh Indonesia, prediksi akurat dan bocoran rtp gacor menjadi kunci kemenangan pemain.",
+  "foundingDate": "2026"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "SITUS TOTO",
+  "url": "https://$$$$$$$$$$/"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "SHIOJITU - Bandar Togel Online & Situs Slot Online Gacor JP Terbesar",
+  "description": "SHIOJITU merupakan bandar togel online sekaligus bandar slot online tergacor diseluruh Indonesia, prediksi akurat dan bocoran rtp gacor menjadi kunci kemenangan pemain.",
+  "author": {
+    "@type": "Organization",
+    "name": "SHIOJITU"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "TOTO TOGEL",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://shiojitu-elx.pages.dev/shiojitu/9bb2d567-3097-4fc4-a2c7-aec04e501c94.png"
+    }
+  },
+  "mainEntityOfPage": "https://$$$$$$$$$$/"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Apa yang membuat SHIOJITU menjadi bandar togel online terpercaya?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SHIOJITU menghadirkan sistem yang mudah digunakan dengan pilihan pasaran togel terlengkap. Anda dapat mengakses layanan melalui berbagai perangkat sehingga proses bermain terasa lebih praktis dan nyaman."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Bagaimana cara mendaftar akun di SHIOJITU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proses pendaftaran dilakukan dengan mengisi data yang diperlukan pada formulir registrasi. Setelah akun berhasil dibuat, Anda dapat login dan mulai memilih pasaran togel sesuai kebutuhan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah SHIOJITU menyediakan pilihan pasaran togel yang lengkap?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ya benar saja. SHIOJITU menyediakan berbagai pilihan pasaran togel yang dapat dipilih sesuai preferensi pengguna. Dengan pilihan yang beragam, pemain dapat menentukan jenis permainan yang paling sesuai."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah SHIOJITU dapat diakses melalui perangkat mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tentu Bisa. Tampilan situs toto ini telah dioptimalkan agar dapat digunakan melalui smartphone, tablet, maupun komputer sehingga pengguna tetap nyaman mengakses akun dan memasang permainan kapan saja."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Mengapa banyak pemain memilih SHIOJITU sebagai situs toto togel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Banyak pengguna memilih SHIOJITU karena navigasinya sederhana, pilihan pasarannya lengkap, serta proses login dan bermain dirancang agar mudah dipahami oleh pemain baru maupun yang sudah berpengalaman."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "SITUS TOGEL 4D",
+  "description": "SHIOJITU merupakan bandar togel online sekaligus bandar slot online tergacor diseluruh Indonesia, prediksi akurat dan bocoran rtp gacor menjadi kunci kemenangan pemain.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "8.888"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": { "@type": "Person", "name": "Redo" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+      "reviewBody": "Saya memilih SHIOJITU karena pilihan pasarannya lengkap dan tampilannya mudah dipahami. Proses login sampai memilih permainan berjalan lancar sehingga lebih nyaman digunakan setiap hari."
+    },
+    {
+      "@type": "Review",
+      "author": { "@type": "Person", "name": "Bani" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+      "reviewBody": "Menurut saya SHIOJITU cocok untuk yang baru mengenal togel online. Navigasi situsnya sederhana, menu pasaran tersusun rapi, dan proses memasang angka tidak membingungkan."
+    },
+    {
+      "@type": "Review",
+      "author": { "@type": "Person", "name": "Yoga" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+      "reviewBody": "Hal yang paling saya sukai dari SHIOJITU adalah akses situsnya yang cepat dan pilihan pasaran yang beragam. Saya tidak perlu waktu lama untuk menemukan permainan yang ingin dimainkan."
+    },
+    {
+      "@type": "Review",
+      "author": { "@type": "Person", "name": "Kevin" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+      "reviewBody": "Saya sudah mencoba beberapa situs toto lain sebelumnya, tetapi SHIOJITU terasa lebih nyaman digunakan. Informasi yang ditampilkan jelas sehingga proses memilih pasaran dan memasang angka menjadi lebih praktis."
+    },
+    {
+      "@type": "Review",
+      "author": { "@type": "Person", "name": "Nanda" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+      "reviewBody": "SHIOJITU memberikan pengalaman bermain yang sederhana tanpa membuat saya bingung. Semua menu tersusun rapi sehingga baik pemain baru maupun yang sudah berpengalaman dapat menggunakannya dengan mudah."
+    },
+    {
+      "@type": "Review",
+      "author": { "@type": "Person", "name": "Bodrat" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+      "reviewBody": "Menurut saya SHIOJITU layak menjadi pilihan karena menghadirkan banyak pasaran toto togel dalam satu tempat. Tampilannya responsif di perangkat mobile dan proses bermain terasa lebih praktis dari awal hingga selesai."  
+    }
+  ]
+}
+</script>
+
+<style>
+html {
+    font-size: unset;
+}
+body {
+    color: #4a4a4a!important;
+    font-family: 'Exo 2', sans-serif!important;
+}
+#makna-sdk{
+    zoom: 80%;
+}
+.makna-sdk-hidden {
+    display: none!important;
+}
+h1 {
+     font-size: 32px; 
+}
+
+.top-header-row{
+  display:flex;
+  align-items:center;       /* bikin sejajar vertikal */
+}
+
+.top-header-left{
+  display:flex;
+  align-items:center;
+}
+
+.top-header-right{
+  display:flex;
+  justify-content:flex-end; /* links di kanan */
+  align-items:center;
+}
+
+.header-gif{
+  height:50px;   /* ubah ini buat kecil/besar */
+  width:auto;
+  max-width:100%;
+  display:block;
+}
+
+@media (max-width:767px){
+  .top-header-row{ display:block; }
+  .top-header-right{
+    justify-content:flex-start;
+    margin-top:8px;
+  }
+}
+
+.lnd-article {
+    padding: 22px 22px;
+    border-radius: 22px;
+    border: 1px solid rgb(216 179 16 / 10%);
+    background: linear-gradient(180deg, rgb(238 189 28 / 92%), #6a5208);
+    box-shadow: 0 14px 40px rgb(255 208 0 / 8%);
+}
+
+.lnd-article h3{
+  margin:0 0 12px;
+  font-size:22px;
+  font-weight:900;
+  letter-spacing:-.01em;
+}
+
+.lnd-article h3::after{
+  content:"";
+  display:block;
+  width:64px;
+  height:4px;
+  margin-top:10px;
+  border-radius:999px;
+  background:rgba(139,197,63,.35);
+}
+
+.lnd-article p{
+  margin:0 0 14px;
+  color:rgb(255 255 255 / 72%);
+  line-height:1.9;
+  font-size:15px;
+}
+.lnd-article p:last-child{ margin-bottom:0; }
+
+.lnd-article ul, .lnd-article ol{
+  margin:0 0 14px 18px;
+  color:var(--lnd-muted);
+  line-height:1.9;
+}
+.lnd-article li{ margin:0 0 8px; }
+
+@media (max-width:767px){
+  .lnd-article{ padding:18px; }
+  .lnd-article h3{ font-size:20px; }
+}
+.top-header {
+    background: #e1b42c;
+    font-size: 11px;
+    padding: 10px 0;
+}
+.bg-grey {
+    background: #d4a51a;
+}  
+  
+</style>
+
+<nav class="pushy pushy-left mnav">
+    <div class="pushy-content">
+        <ul>
+            <li><a href="https://$$$$$$$$$$/">SHIOJITU</a></li>
+            <li><a href="https://$$$$$$$$$$/">SITUS TOTO</a></li>
+            <li class="submenu">
+                <a href="https://$$$$$$$$$$/">TOTO TOGEL</a>                    <div class="pushy-submenu">
+                    <button></button>
+                    <ul>
+                      <li><a href="https://$$$$$$$$$$/">TOGEL ONLINE</a></li>
+                      <li><a href="https://$$$$$$$$$$/">BANDAR TOGEL ONLINE</a></li>
+                    </ul>
+                </div>
+            </li>
+            
+            <li><a href="https://$$$$$$$$$$/">SHIOJITU TOGEL</a></li>
+            <li><a href="https://$$$$$$$$$$/">SHIOJITU LOGIN</a></li>
+            
+            <li><a href="https://$$$$$$$$$$/">SITUS TOTO</a></li>
+            <li><a href="https://$$$$$$$$$$/">TOTO TOGEL</a></li>
+            <li><a href="https://$$$$$$$$$$/">TOGEL JP TERBESAR</a></li>
+            <li class="btn-appoint"><a href="https://$$$$$$$$$$/">Make Appointment</a></li>
+        </ul>
+    </div>
+</nav>
+<div class="site-overlay"></div>
+<div class="site-overlay-cus" style="background-color: #fcfffcde;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 10000;
+    display: none;">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;display:block;margin-top:10%;" width="300px" height="300px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+<g transform="rotate(0 50 50)">
+  <rect x="47" y="23" rx="3" ry="6" width="6" height="12" fill="#82c13f">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.6666666666666666s" begin="-0.6111111111111112s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(30 50 50)">
+  <rect x="47" y="23" rx="3" ry="6" width="6" height="12" fill="#82c13f">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.6666666666666666s" begin="-0.5555555555555556s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(60 50 50)">
+  <rect x="47" y="23" rx="3" ry="6" width="6" height="12" fill="#82c13f">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.6666666666666666s" begin="-0.5s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(90 50 50)">
+  <rect x="47" y="23" rx="3" ry="6" width="6" height="12" fill="#82c13f">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.6666666666666666s" begin="-0.4444444444444444s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(120 50 50)">
+  <rect x="47" y="23" rx="3" ry="6" width="6" height="12" fill="#82c13f">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.6666666666666666s" begin="-0.3888888888888889s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(150 50 50)">
+  <rect x="47" y="23" rx="3" ry="6" width="6" height="12" fill="#82c13f">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.6666666666666666s" begin="-0.3333333333333333s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(180 50 50)">
+  <rect x="47" y="23" rx="3" ry="6" width="6" height="12" fill="#82c13f">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.6666666666666666s" begin="-0.2777777777777778s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(210 50 50)">
+  <rect x="47" y="23" rx="3" ry="6" width="6" height="12" fill="#82c13f">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.6666666666666666s" begin="-0.2222222222222222s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(240 50 50)">
+  <rect x="47" y="23" rx="3" ry="6" width="6" height="12" fill="#82c13f">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.6666666666666666s" begin="-0.16666666666666666s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(270 50 50)">
+  <rect x="47" y="23" rx="3" ry="6" width="6" height="12" fill="#82c13f">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.6666666666666666s" begin="-0.1111111111111111s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(300 50 50)">
+  <rect x="47" y="23" rx="3" ry="6" width="6" height="12" fill="#82c13f">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.6666666666666666s" begin="-0.05555555555555555s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(330 50 50)">
+  <rect x="47" y="23" rx="3" ry="6" width="6" height="12" fill="#82c13f">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.6666666666666666s" begin="0s" repeatCount="indefinite"></animate>
+  </rect>
+</g>
+</svg>
+</div>
+
+<div id="container">
+
+<header id="header"> 
+  <div class="top-header">
+      <div class="container">
+          <div class="row top-header-row" style="font-size:13px;">
+            <div class="col-xs-12 col-sm-6 top-header-left">
+              <a href="https://$$$$$$$$$$/" target="_blank" rel="noopener" class="header-gif-link">
+                <img src="https://shiojitu-elx.pages.dev/shiojitu/shiojitu_logo_animated.gif"
+                     alt="Banner GIF"
+                     class="header-gif">
+              </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-6 top-header-right">
+              <ul class="header-links">
+                <li><a href="https://shiojitu-elx.pages.dev/bandartogelslotonline/amp">DAFTAR</a></li>
+                <li><a href="https://shiojitu-elx.pages.dev/bandartogelslotonline/amp">LOGIN</a></li>
+                <li><a href="https://shiojitu-elx.pages.dev/bandartogelslotonline/amp">SITUS TOTO TOGEL</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+    </div> 
+    <nav class="navbar">
+        <div class="container">
+          <div id="navbar" class="navbar-collapse collapse navbar-right">
+                <ul class="nav navbar-nav">
+                    <li><a href="https://$$$$$$$$$$/">SHIOJITU</a></li>
+                    <li class="dropdown mega-dropdown"><a href="https://$$$$$$$$$$/">SITUS TOTO</a>           
+                    <li><a href="https://$$$$$$$$$$/">TOTO TOGEL</a></li>
+                    <li><a href="https://$$$$$$$$$$/">TOGEL ONLINE</a></li>
+                    <li><a href="https://$$$$$$$$$$/">BANDAR TOGEL ONLINE</a></li>           
+              </ul>       
+          </div>
+        </div>        
+    </nav>
+</header>
+
+<section id="main" class="page-homepage">
+  <main class="lnd-main" role="main">
+
+    <!-- HERO -->
+    <section class="lnd-hero">
+      <div class="container">
+        <div class="row lnd-hero-row">
+          <div class="col-md-6">
+            <h1>SHIOJITU - Bandar Togel Online & Situs Slot Online Gacor JP Terbesar</h1>
+            <p class="lead">
+              <strong>SHIOJITU</strong> merupakan bandar togel online sekaligus bandar slot online tergacor diseluruh Indonesia, prediksi akurat dan bocoran rtp gacor menjadi kunci kemenangan pemain.
+            </p>
+
+            <div class="lnd-hero-cta">
+              <a href="#faq" class="btn btn-green btn-lg">Lihat FAQ</a>
+              <a href="#testimoni" class="btn btn-green-o btn-lg">Lihat Testimoni</a>
+            </div>
+            <div class="lnd-badges" aria-label="Highlights">
+              <a class="lnd-badge" href="https://$$$$$$$$$$/">
+                <i class="fa fa-check"></i> NAVIGASI SITUS MUDAH
+              </a>
+
+              <a class="lnd-badge" href="https://$$$$$$$$$$/">
+                <i class="fa fa-check"></i> PASANG ANGKA TOGEL PRAKTIS
+              </a>
+
+              <a class="lnd-badge" href="https://$$$$$$$$$$/">
+                <i class="fa fa-check"></i> DEPOSIT VIA E-WALLET
+              </a>
+
+              <a class="lnd-badge" href="https://$$$$$$$$$$/">
+                <i class="fa fa-check"></i> REGISTRASI LEBIH RINGKAS
+              </a>
+
+              <a class="lnd-badge" href="https://$$$$$$$$$$/">
+                <i class="fa fa-check"></i> PILIH PASARAN DENGAN CEPAT
+              </a>
+
+              <a class="lnd-badge" href="https://$$$$$$$$$$/">
+                <i class="fa fa-check"></i> KONFIRMASI BET SIMPEL
+              </a>
+
+              <a class="lnd-badge" href="https://$$$$$$$$$$/">
+                <i class="fa fa-check"></i> RAMAH PENGGUNA DEWASA
+              </a>
+            </div>
+            </div>
+
+          <div class="col-md-6">
+            <!-- POSTER 1000x1000 (Ganti src ke file poster kamu) -->
+            <figure class="lnd-poster">
+              <img
+                src="https://img.culanseng.org/storage/images/shiojitu/jagoanneon-20.webp"
+                width="1000"
+                height="1000"
+                alt="Poster Promo / Informasi"
+                loading="eager"
+                decoding="async">
+            </figure>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ARTIKEL -->
+    <section id="artikel" class="lnd-section lnd-article-section">
+      <div class="container">
+        <header class="lnd-section-head">
+          <h2 class="lnd-section-title">SHIOJITU - Bandar Togel Online & Situs Slot Online Gacor JP Terbesar</h2>
+        </header>
+
+        <article class="lnd-article lnd-article-block" aria-label="Artikel">
+          <p><a href="https://$$$$$$$$$$/" style="color: #000000; text-decoration: none;">SHIOJITU</a> merupakan bandar togel online sekaligus bandar slot online tergacor diseluruh Indonesia, prediksi akurat dan bocoran rtp gacor menjadi kunci kemenangan pemain. Dengan tampilan responsif serta sistem stabil, pengguna dapat menikmati seluruh layanan tanpa kendala, baik melalui desktop maupun handpone. Dukungan layanan pelanggan yang aktif setiap hari juga memberikan rasa percaya diri bagi para pemain saat membutuhkan bantuan.</p>
+
+          <p>Predikat <a href="https://$$$$$$$$$$/" style="color: #000000; text-decoration: none;">bandar togel online & situs slot online</a> gacor JP terbesar tidak hanya berasal dari banyaknya pilihan pasaran dan slot game yang tersedia, tetapi juga karena pengalaman bermain konsisten dan fitur utama yang lengkap. Kamu dapat menemukan pasaran togel seperti Toto Macau, Hongkong, Singapore, dan Sydney dalam satu tempat, lengkap dengan jadwal permainan, data result, serta informasi bocoran slot RTP yang membantu menyusun strategi untuk para pemain.</p>
+
+          <p>Selain menyediakan pilihan permainan yang beragam, SHIOJITU juga ditopang sistem transaksi yang cepat melalui berbagai metode pembayaran. Proses deposit maupun withdraw dirancang agar berlangsung cepat sehingga pemain dapat lebih fokus menikmati permainan. Teknologi keamanan yang diterapkan turut membantu menjaga kerahasiaan data akun dan aktivitas transaksi setiap anggota.</p>
+
+          <p>Bagi pencinta permainan <a href="https://$$$$$$$$$$/" style="color: #000000; text-decoration: none;">toto togel online & slot online</a> yang mengutamakan kualitas layanan, SHIOJITU menawarkan pengalaman bermain yang lengkap dalam satu akun. Kombinasi sistem andal, pilihan pasaran internasional, informasi permainan up to date, serta pelayanan responsif menjadikan bandar togel & slot online ini sebagai salah satu referensi pemain yang mencari tempat bermain dengan pengalaman terbaik.</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section id="faq" class="lnd-section lnd-faq">
+      <div class="container">
+        <header class="lnd-section-head">
+          <h2 class="lnd-section-title">FAQ</h2>
+          <p class="lnd-section-subtitle">PERTANYAAN TENTANG SHIOJITU</p>
+        </header>
+
+        <div class="panel-group lnd-accordion" id="faqAccordion" role="tablist" aria-multiselectable="true">
+
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="faqHeading1">
+              <h4 class="panel-title">
+                <a role="button" data-toggle="collapse" data-parent="#faqAccordion" href="#faqCollapse1" aria-expanded="true" aria-controls="faqCollapse1">
+                  1) Apa yang membuat SHIOJITU menjadi bandar togel online terpercaya?
+                </a>
+              </h4>
+            </div>
+            <div id="faqCollapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqHeading1">
+              <div class="panel-body">
+                SHIOJITU menghadirkan sistem yang mudah digunakan dengan pilihan pasaran togel terlengkap. Anda dapat mengakses layanan melalui berbagai perangkat sehingga proses bermain terasa lebih praktis dan nyaman.
+              </div>
+            </div>
+          </div>
+
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="faqHeading2">
+              <h4 class="panel-title">
+                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#faqAccordion" href="#faqCollapse2" aria-expanded="false" aria-controls="faqCollapse2">
+                  2) Bagaimana cara mendaftar akun di SHIOJITU?
+                </a>
+              </h4>
+            </div>
+            <div id="faqCollapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqHeading2">
+              <div class="panel-body">
+                Proses pendaftaran dilakukan dengan mengisi data yang diperlukan pada formulir registrasi. Setelah akun berhasil dibuat, Anda dapat login dan mulai memilih pasaran togel sesuai kebutuhan.
+              </div>
+            </div>
+          </div>
+
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="faqHeading3">
+              <h4 class="panel-title">
+                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#faqAccordion" href="#faqCollapse3" aria-expanded="false" aria-controls="faqCollapse3">
+                  3) Apakah SHIOJITU menyediakan pilihan pasaran togel yang lengkap?
+                </a>
+              </h4>
+            </div>
+            <div id="faqCollapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqHeading3">
+              <div class="panel-body">
+                Ya benar saja. SHIOJITU menyediakan berbagai pilihan pasaran togel yang dapat dipilih sesuai preferensi pengguna. Dengan pilihan yang beragam, pemain dapat menentukan jenis permainan yang paling sesuai.
+              </div>
+            </div>
+          </div>
+
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="faqHeading4">
+              <h4 class="panel-title">
+                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#faqAccordion" href="#faqCollapse4" aria-expanded="false" aria-controls="faqCollapse4">
+                  4) Apakah SHIOJITU dapat diakses melalui perangkat mobile?
+                </a>
+              </h4>
+            </div>
+            <div id="faqCollapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqHeading4">
+              <div class="panel-body">
+                Tentu Bisa. Tampilan situs toto ini telah dioptimalkan agar dapat digunakan melalui smartphone, tablet, maupun komputer sehingga pengguna tetap nyaman mengakses akun dan memasang permainan kapan saja.
+              </div>
+            </div>
+          </div>
+
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="faqHeading5">
+              <h4 class="panel-title">
+                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#faqAccordion" href="#faqCollapse5" aria-expanded="false" aria-controls="faqCollapse5">
+                  5) Mengapa banyak pemain memilih SHIOJITU sebagai situs toto togel?
+                </a>
+              </h4>
+            </div>
+            <div id="faqCollapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="faqHeading5">
+              <div class="panel-body">
+                Banyak pengguna memilih SHIOJITU karena navigasinya sederhana, pilihan pasarannya lengkap, serta proses login dan bermain dirancang agar mudah dipahami oleh pemain baru maupun yang sudah berpengalaman.
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- TESTIMONI -->
+<section id="testimoni" class="lnd-section lnd-testimonials" style="background: rgba(17,24,39,.02); border-top: 1px solid rgba(17,24,39,.06); border-bottom: 1px solid rgba(17,24,39,.06);">
+  <div class="container">
+    <header class="lnd-section-head">
+      <h2 class="lnd-section-title">REVIEWS</h2>
+      <p class="lnd-section-subtitle">TESTIMONI MEMASANG TOGEL SHIOJITU</p>
+    </header>
+
+    <div class="row">
+      
+      <div class="col-sm-6 col-md-4" style="margin-bottom:16px;">
+        <div class="lnd-card">
+          <div class="lnd-stars">★★★</div>
+          <p class="lnd-quote">“Saya memilih SHIOJITU karena pilihan pasarannya lengkap dan tampilannya mudah dipahami. Proses login sampai memilih permainan berjalan lancar sehingga lebih nyaman digunakan setiap hari.”</p>
+          <div class="lnd-person">
+            <div class="lnd-avatar" aria-hidden="true">R</div>
+            <div>
+              <div class="lnd-name">Redo</div>
+              <div class="lnd-role">Kota Bekasi</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-6 col-md-4" style="margin-bottom:16px;">
+        <div class="lnd-card">
+          <div class="lnd-stars">★★★★★</div>
+          <p class="lnd-quote">“Menurut saya SHIOJITU cocok untuk yang baru mengenal togel online. Navigasi situsnya sederhana, menu pasaran tersusun rapi, dan proses memasang angka tidak membingungkan.”</p>
+          <div class="lnd-person">
+            <div class="lnd-avatar" aria-hidden="true">B</div>
+            <div>
+              <div class="lnd-name">Bani</div>
+              <div class="lnd-role">Kota Bandung</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-6 col-md-4" style="margin-bottom:16px;">
+        <div class="lnd-card">
+          <div class="lnd-stars">★★★★</div>
+          <p class="lnd-quote">“Hal yang paling saya sukai dari SHIOJITU adalah akses situsnya yang cepat dan pilihan pasaran yang beragam. Saya tidak perlu waktu lama untuk menemukan permainan yang ingin dimainkan.</p>
+          <div class="lnd-person">
+            <div class="lnd-avatar" aria-hidden="true">Y</div>
+            <div>
+              <div class="lnd-name">Yoga</div>
+              <div class="lnd-role">Kota Surabaya</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-6 col-md-4" style="margin-bottom:16px;">
+        <div class="lnd-card">
+          <div class="lnd-stars">★★★★</div>
+          <p class="lnd-quote">“Saya sudah mencoba beberapa situs toto lain sebelumnya, tetapi SHIOJITU terasa lebih nyaman digunakan. Informasi yang ditampilkan jelas sehingga proses memilih pasaran dan memasang angka menjadi lebih praktis.”</p>
+          <div class="lnd-person">
+            <div class="lnd-avatar" aria-hidden="true">K</div>
+            <div>
+              <div class="lnd-name">Kevin</div>
+              <div class="lnd-role">Kota Semarang</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-6 col-md-4" style="margin-bottom:16px;">
+        <div class="lnd-card">
+          <div class="lnd-stars">★★★★</div>
+          <p class="lnd-quote">“SHIOJITU memberikan pengalaman bermain yang sederhana tanpa membuat saya bingung. Semua menu tersusun rapi sehingga baik pemain baru maupun yang sudah berpengalaman dapat menggunakannya dengan mudah.”</p>
+          <div class="lnd-person">
+            <div class="lnd-avatar" aria-hidden="true">N</div>
+            <div>
+              <div class="lnd-name">Nanda</div>
+              <div class="lnd-role">Kota Yogyakarta</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-sm-6 col-md-4" style="margin-bottom:16px;">
+        <div class="lnd-card">
+          <div class="lnd-stars">★★★★</div>
+          <p class="lnd-quote">“Menurut saya SHIOJITU layak menjadi pilihan karena menghadirkan banyak pasaran toto togel dalam satu tempat. Tampilannya responsif di perangkat mobile dan proses bermain terasa lebih praktis dari awal hingga selesai.”</p>
+          <div class="lnd-person">
+            <div class="lnd-avatar" aria-hidden="true">B</div>
+            <div>
+              <div class="lnd-name">Bodrat</div>
+              <div class="lnd-role">Kota Semarang</div>
+            </div>
+          </div>
+        </div>
+      </div>      
+
+    </div>
+  </div>
+</section>
+
+<footer id="footer" class="bg-grey">
+  <div class="footer-wrap">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-4">
+                    <div class="footer-content">
+                      <img src="https://shiojitu-elx.pages.dev/shiojitu/e83c49ad-f7af-43a6-8e5d-6a8f00ce5879.png" class="initlogo logo-foot" alt="Logo SHIOJITU">
+                    </div>
+                    <div class="footer-content" style="
+    margin-top: 15px;display: flex;
+">
+                      <img
+    src="https://shiojitu-elx.pages.dev/shiojitu/shiojitu_logo_animated.gif"
+    alt="SHIOJITU"
+    class="logo-bpom"
+    width="61"
+    height="53"
+    style="margin-right:20px;"
+    loading="eager"
+    decoding="async">
+                   <img
+    src="https://shiojitu-mari.com/assets/img/atv/favicon.png"
+    alt="SHIOJITU Icon"
+    class="logo-halal"
+    width="54"
+    height="54"
+    loading="lazy"
+    decoding="async"><path d="M18.5946 28.3393C19.1611 26.9885 18.1714 19.677 18.1714 17.7822C18.1714 15.8926 18.8744 14.8096 18.8744 14.8096C17.8899 14.2672 17.1886 11.8301 17.1886 11.8301C16.9019 12.5072 15.9173 13.9943 15.9173 13.9943C15.9173 13.9943 18.738 27.3962 16.9019 29.0129C15.071 30.6348 11.4023 30.9112 9.28984 29.5622C7.17221 28.2063 9.42802 23.8743 9.42802 23.8743C8.15848 25.3615 7.17221 27.1233 7.31385 29.0146C7.45376 30.9129 8.86493 32.8025 12.2504 32.9407C15.6306 33.0737 18.0281 29.6917 18.5946 28.3393Z" fill="#71717A"></path><path d="M22.8264 21.8449C24.3757 22.9262 25.2238 26.3116 25.2238 26.3116C26.0702 18.7341 19.1611 16.5698 19.1611 16.5698C19.1611 16.5698 19.0178 16.974 19.1611 19.0018C19.301 21.0365 21.2701 20.7619 22.8264 21.8449Z" fill="#71717A"></path><path d="M15.1467 35.0874V37.8268H18.3145V35.0874H19.1695V41.6355H18.3145V38.5661H15.1467V41.6355H14.2917V35.0874H15.1467V35.0874Z" fill="#71717A"></path><path d="M21.693 39.5766L21.0124 41.6355H20.1384L22.3718 35.0874H23.3822L25.6173 41.6355H24.714L24.0144 39.5766H21.693ZM23.8503 38.915L23.2009 37.0306C23.0541 36.6022 22.9573 36.2153 22.8606 35.8353H22.8416C22.7449 36.2136 22.6464 36.6229 22.5117 37.0202L21.8709 38.915H23.8503V38.915Z" fill="#71717A"></path><path d="M26.5725 35.0874H27.4275V40.9256H30.2239V41.6355H26.5725V35.0874Z" fill="#71717A"></path><path d="M32.2259 39.5766L31.5454 41.6355H30.6714L32.9047 35.0874H33.9152L36.1503 41.6355H35.2469L34.5474 39.5766H32.2259ZM34.3833 38.915L33.7338 37.0306C33.587 36.6022 33.4903 36.2153 33.3936 35.8353H33.3746C33.2778 36.2136 33.1794 36.6229 33.0446 37.0202L32.4038 38.915H34.3833V38.915Z" fill="#71717A"></path><path d="M37.1038 35.0874H37.9588V40.9256H40.7552V41.6355H37.1038V35.0874V35.0874Z" fill="#71717A"></path><path d="M27.0702 50.1786C14.3282 50.1786 3.96289 39.8133 3.96289 27.0695C3.96289 14.3258 14.3282 3.96045 27.0702 3.96045C39.8122 3.96045 50.1793 14.3275 50.1793 27.0695C50.1793 39.8115 39.8122 50.1786 27.0702 50.1786ZM27.0702 4.86208C14.8257 4.86208 4.86452 14.8249 4.86452 27.0695C4.86452 39.3141 14.8257 49.2769 27.0702 49.2769C39.3148 49.2769 49.2777 39.3141 49.2777 27.0695C49.2777 14.8249 39.3148 4.86208 27.0702 4.86208Z" fill="#71717A"></path><path d="M27.0701 53.9994C12.2208 53.9994 0.14209 41.9189 0.14209 27.0714C0.14209 12.2238 12.2208 0.141602 27.0701 0.141602C41.9194 0.141602 53.9999 12.2221 53.9999 27.0714C53.9999 41.9207 41.9177 53.9994 27.0701 53.9994ZM27.0701 2.84304C13.7115 2.84304 2.84526 13.711 2.84526 27.0714C2.84526 40.4318 13.7132 51.298 27.0701 51.298C40.4288 51.298 51.2967 40.43 51.2967 27.0714C51.2967 13.7127 40.4288 2.84304 27.0701 2.84304Z" fill="#71717A"></path></svg></div>
+                </div>
+                
+                <div class="col-xs-12 col-md-4">
+                  <div class="headfoot">Connect with Us</div>
+                    <ul class="footer-soc">
+                      <li class="ig"><a href="https://www.instagram.com/miracle_clinic" aria-label="Instagram"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 27px;margin-top: 9px;"></i></a></li>
+                      <li class="tt"><a href="https://www.tiktok.com/@miracle_clinic" aria-label="Tiktok">
+                          
+                          <svg height="30" width="26" style="margin-top: 7px;margin-left: 12px;" xmlns="http://www.w3.org/2000/svg" viewbox="-0.32296740998066475 -3.1283528999801873 42.68446958125966 42.128352899980186"><g fill="none"><path d="M14 15.599v-1.486A13.1 13.1 0 0 0 12.337 14C5.535 14 0 19.18 0 25.547 0 29.452 2.086 32.91 5.267 35c-2.13-2.132-3.315-4.942-3.313-7.861 0-6.276 5.377-11.394 12.046-11.54" fill="#00f2ea"/><path d="M14.327 32c2.876 0 5.221-2.273 5.328-5.107l.01-25.292h4.65A8.72 8.72 0 0 1 24.164 0h-6.35l-.011 25.293c-.106 2.832-2.453 5.105-5.328 5.105a5.329 5.329 0 0 1-2.476-.61A5.34 5.34 0 0 0 14.327 32m18.672-21.814V8.78a8.818 8.818 0 0 1-4.81-1.421A8.85 8.85 0 0 0 33 10.186" fill="#00f2ea"/><path d="M28 7.718A8.63 8.63 0 0 1 25.832 2h-1.697A8.735 8.735 0 0 0 28 7.718M12.325 20.065c-2.94.004-5.322 2.361-5.325 5.27A5.267 5.267 0 0 0 9.854 30a5.2 5.2 0 0 1-1.008-3.073c.003-2.91 2.385-5.268 5.325-5.271.55 0 1.075.09 1.572.244v-6.4a11.72 11.72 0 0 0-1.572-.114c-.092 0-.183.006-.274.007v4.916a5.286 5.286 0 0 0-1.572-.244" fill="#ff004f"/><path d="M32.153 11v4.884a15.15 15.15 0 0 1-8.813-2.811V25.84c0 6.377-5.23 11.565-11.658 11.565-2.485 0-4.789-.778-6.682-2.097A11.67 11.67 0 0 0 13.528 39c6.429 0 11.659-5.188 11.659-11.564V14.668A15.15 15.15 0 0 0 34 17.478v-6.283A8.87 8.87 0 0 1 32.153 11" fill="#ff004f"/><path d="M23.979 25.42V12.632A15.741 15.741 0 0 0 33 15.448v-4.89a9.083 9.083 0 0 1-4.912-2.82C26.016 6.431 24.586 4.358 24.132 2h-4.747l-.01 25.215c-.11 2.824-2.505 5.09-5.44 5.09-1.754-.002-3.398-.822-4.42-2.204-1.794-.913-2.919-2.716-2.92-4.682.003-2.92 2.44-5.285 5.45-5.289.56 0 1.098.09 1.608.245v-4.933C7.202 15.589 2 20.722 2 27.016c0 3.045 1.219 5.816 3.205 7.885A12.115 12.115 0 0 0 12.045 37c6.58 0 11.934-5.195 11.934-11.58" fill="#fff"/></g></svg>
+                          
+                      </a></li>
+                      <li class="fb"><a href="https://www.facebook.com/Miracle.Aesthetic.Clinic" aria-label="Facebook"><i class="fa fa-facebook" aria-hidden="true" style="font-size: 27px;margin-top: 9px;"></i></a></li>
+
+                        <li class="yt"><a href="https://www.youtube.com/miracleclinicid" aria-label="Youtube">
+                            <!--<i class="fa fa-youtube" aria-hidden="true"></i></a>-->
+                            <svg xmlns="http://www.w3.org/2000/svg" height="25" width="38" style="margin-top: 10px;margin-left: 4px;" viewbox="-35.20005 -41.33325 305.0671 247.9995"><path d="M229.763 25.817c-2.699-10.162-10.65-18.165-20.748-20.881C190.716 0 117.333 0 117.333 0S43.951 0 25.651 4.936C15.553 7.652 7.6 15.655 4.903 25.817 0 44.236 0 82.667 0 82.667s0 38.429 4.903 56.85C7.6 149.68 15.553 157.681 25.65 160.4c18.3 4.934 91.682 4.934 91.682 4.934s73.383 0 91.682-4.934c10.098-2.718 18.049-10.72 20.748-20.882 4.904-18.421 4.904-56.85 4.904-56.85s0-38.431-4.904-56.85" fill="#fff"/><path d="M93.333 117.559l61.333-34.89-61.333-34.894z" fill="red"/></svg>
+                            </a>
+                            
+                            
+                            
+                            </li>
+                        <li class="li"><a href="https://id.linkedin.com/company/miracle-aesthetic-clinic" aria-label="Linkedin"><i class="fa fa-linkedin fa-lg" aria-hidden="true" style="margin-top: 12px;"></i></a></li>
+
+                    </ul>
+                </div>
+                
+                <div class="col-xs-12 col-md-4">
+                  <div class="headfoot" style="margin-bottom: 0px;">Shop Our Products & Treatment</div>
+                
+                <ul class="footer-shop">
+                      <li class="">
+                          <div class="" style="">
+                        <a href="https://$$$$$$$$$$/" aria-label="SHIOJITU Login"><img src="https://www.miracle-clinic.com//miracle-theme/assets/img/stores/miraclestore50.png" class="img-responsive" alt="Logo SHIOJITU Login"></a>
+                        </div>
+                      </li>
+                        <li class="">
+                            <div class="" style="">
+                        <a href="https://$$$$$$$$$$/" aria-label="Traveloka"><img src="https://www.miracle-clinic.com//miracle-theme/assets/img/stores/travelokastore50.png" class="img-responsive" alt="Logo Traveloka"></a>
+                        </div>
+                        </li>
+                        <li class="">
+                            <div class="" style="">
+                        <a href="https://shopee.co.id/miracleclinicofficialstore" aria-label="Shopee"><img src="https://www.miracle-clinic.com//miracle-theme/assets/img/stores/ss50.png" class="img-responsive" alt="Logo Shopee"></a>
+                        </div>
+                        </li>
+                        <li class="">
+                            <div class="" style="">
+                        <a href="https://www.tokopedia.com/miracleclinic" aria-label="Tokopedia"><img src="https://www.miracle-clinic.com//miracle-theme/assets/img/stores/tokopediastore50.png" class="img-responsive" alt="Logo Tokopedia"></a>
+                        </div>
+                        </li>
+                    </ul>
+
+                </div>  
+            </div>
+        </div>
+    </div>   
+</footer>
+
+<!--floating button-->
+<a href="https://shiojitu-elx.pages.dev/bandartogelslotonline/amp" class="floating" target="_blank">
+    <i class="fa fa-whatsapp fa-lg" aria-hidden="true"></i>
+    &nbsp; LIVE CHAT
+</a>
+<a href="https://shiojitu-elx.pages.dev/bandartogelslotonline/amp" class="floating2">
+    <span style="display: inline;margin-top: -5px;"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve" width="25" style="
+    width: 25px;
+    display: inline;
+    position: relative;
+">
+<g><g><path fill="#fff" d="M242.7,121.3L222.5,105c-1.1-0.9-1.7-3-1.2-4.3l9.3-24.2c1-2.6,0.8-5.3-0.5-7.5c-1.3-2.2-3.6-3.7-6.3-4.2l-25.6-4c-1.4-0.2-2.9-1.8-3.2-3.2l-4-25.6c-0.7-4.3-4.1-7.4-8.4-7.4c-1.1,0-2.2,0.2-3.3,0.6l-24.2,9.3c-0.3,0.1-0.7,0.2-1.1,0.2c-1.3,0-2.6-0.6-3.2-1.3l-16.3-20.1c-1.7-2.1-4.2-3.3-6.7-3.3c-2.6,0-5,1.2-6.7,3.3L105,33.5c-0.6,0.8-2,1.3-3.2,1.3c-0.4,0-0.8-0.1-1.1-0.2l-24.2-9.3c-1.1-0.4-2.2-0.6-3.3-0.6c-4.2,0-7.7,3-8.4,7.4l-4,25.6c-0.2,1.4-1.8,2.9-3.2,3.2l-25.6,4c-2.7,0.4-5,2-6.3,4.2c-1.3,2.2-1.5,5-0.5,7.5l9.3,24.2c0.5,1.3-0.1,3.4-1.2,4.3l-20.1,16.3c-2.1,1.7-3.3,4.2-3.3,6.7c0,2.6,1.2,5,3.3,6.7L33.5,151c1.1,0.9,1.7,3,1.2,4.3l-9.3,24.2c-1,2.6-0.8,5.3,0.5,7.5c1.3,2.2,3.6,3.7,6.3,4.2l25.6,4c1.4,0.2,2.9,1.8,3.2,3.2l4,25.6c0.7,4.3,4.1,7.4,8.4,7.4c1.1,0,2.2-0.2,3.3-0.6l24.2-9.3c0.3-0.1,0.7-0.2,1.1-0.2c1.3,0,2.6,0.6,3.2,1.3l16.3,20.1c1.7,2.1,4.2,3.3,6.7,3.3c2.6,0,5-1.2,6.7-3.3l16.3-20.1c0.6-0.8,2-1.3,3.2-1.3c0.4,0,0.8,0.1,1.1,0.2l24.2,9.3c1.1,0.4,2.2,0.6,3.3,0.6c4.2,0,7.7-3,8.4-7.4l4-25.6c0.2-1.4,1.8-2.9,3.2-3.2l25.6-4c2.7-0.4,5-1.9,6.3-4.2c1.3-2.2,1.5-5,0.5-7.5l-9.3-24.2c-0.5-1.3,0.1-3.4,1.2-4.3l20.1-16.3c2.1-1.7,3.3-4.2,3.3-6.7C246,125.4,244.8,123,242.7,121.3z M237.6,128.4l-20.1,16.3c-3.8,3.1-5.4,8.9-3.6,13.5l9.3,24.2c0.1,0.3,0.1,0.5,0.1,0.6c0,0-0.2,0.2-0.5,0.2l-25.6,4c-4.9,0.8-9.1,5-9.9,9.9l-4,25.6c-0.1,0.5-0.3,0.5-0.4,0.5c-0.1,0-0.2,0-0.4-0.1l-24.2-9.3c-1.2-0.5-2.6-0.7-4-0.7c-3.7,0-7.3,1.7-9.5,4.3l-16.3,20.1c-0.2,0.3-0.4,0.3-0.4,0.3c-0.1,0-0.2-0.1-0.4-0.3l-16.3-20.1c-2.2-2.7-5.8-4.3-9.5-4.3c-1.4,0-2.8,0.2-4,0.7l-24.2,9.3c-0.2,0.1-0.3,0.1-0.4,0.1c-0.1,0-0.3,0-0.4-0.5l-4-25.6c-0.8-4.9-5-9.1-9.9-9.9l-25.6-4c-0.3,0-0.5-0.2-0.5-0.2c0-0.1,0-0.3,0.1-0.6l9.3-24.2c1.8-4.6,0.2-10.4-3.6-13.5l-20.1-16.3c-0.2-0.2-0.3-0.4-0.3-0.4c0-0.1,0.1-0.3,0.3-0.4l20.1-16.3c3.8-3.1,5.4-8.9,3.6-13.5l-9.3-24.2c-0.1-0.3-0.1-0.5-0.1-0.6c0-0.1,0.2-0.2,0.5-0.2l25.6-4c4.9-0.8,9.1-5,9.9-9.9l4-25.6c0.1-0.5,0.3-0.5,0.4-0.5c0.1,0,0.2,0,0.4,0.1l24.2,9.3c1.2,0.5,2.6,0.7,4,0.7c3.7,0,7.3-1.7,9.5-4.3l16.3-20.1c0.2-0.3,0.4-0.3,0.4-0.3c0.1,0,0.2,0.1,0.4,0.3l16.3,20.1c2.2,2.7,5.8,4.3,9.5,4.3c1.4,0,2.8-0.2,4-0.7l24.2-9.3c0.1,0,0.3-0.1,0.4-0.1c0.1,0,0.3,0,0.4,0.5l4,25.6c0.8,4.9,5,9.1,9.9,9.9l25.6,4c0.3,0,0.5,0.2,0.5,0.2c0,0,0,0.2-0.1,0.6l-9.3,24.2c-1.8,4.6-0.2,10.4,3.6,13.5l20.1,16.3c0.3,0.2,0.3,0.4,0.3,0.4C237.9,128.1,237.8,128.2,237.6,128.4z"></path><path fill="#fff" d="M162.3,92.5c-1.6-1.6-4.1-1.6-5.7,0L94.1,155c-1.6,1.6-1.6,4.1,0,5.7c0.8,0.8,1.8,1.2,2.9,1.2s2.1-0.4,2.9-1.2l62.5-62.5C163.9,96.6,163.9,94.1,162.3,92.5z"></path><path fill="#fff" d="M130.3,106.3c0-12.2-10-22.2-22.2-22.2c-12.2,0-22.2,10-22.2,22.2s10,22.2,22.2,22.2C120.4,128.5,130.3,118.5,130.3,106.3z M94,106.3c0-7.8,6.3-14.1,14.1-14.1c7.8,0,14.1,6.3,14.1,14.1s-6.3,14.1-14.1,14.1C100.4,120.4,94,114.1,94,106.3z"></path><path fill="#fff" d="M148.6,124.5c-12.2,0-22.2,10-22.2,22.2c0,12.2,10,22.2,22.2,22.2c12.2,0,22.2-10,22.2-22.2C170.8,134.5,160.8,124.5,148.6,124.5z M148.6,160.8c-7.8,0-14.1-6.3-14.1-14.1c0-7.8,6.3-14.1,14.1-14.1c7.8,0,14.1,6.3,14.1,14.1C162.7,154.5,156.3,160.8,148.6,160.8z"></path></g></g>
+</svg>&nbsp; PROMO</span>
+</a>
+
+<div class="bg-grey" style="padding-bottom: 60px;">
+    <div class="col-xs-12 text-center" style="font-size: 12px;">
+        <p><a href="https://$$$$$$$$$$/">SHIOJITU</a> | <a href="https://$$$$$$$$$$/">SITUS TOTO</a> | <a href="https://$$$$$$$$$$/">TOTO TOGEL</a> | <a href="https://$$$$$$$$$$/">SITUS TOGEL</a> | <a href="https://$$$$$$$$$$/">TOGEL ONLINE</a></p>
+        <p>© 2014 - 2026 SHIOJITU. — SEO JAGOANNEON</p>
+    </div>
+</div>
+
+<div class="modal fade modal-default modal-form" id="modalAppoint" tabindex="-1" role="dialog" aria-labelledby="myModalAppoint">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Appointment Online</h4>
+        </div>
+        <div class="modal-body">   
+            <div class="form-content form-signin">
+                <form action="/appointment/index" method="post" class="mcl_app">
+                <input type="hidden" name="_csrf-frontend" value="FsUFd91gyDNFPxOIegBR6uCfwySyZVBmw3ED2-xPZGBhsTxGlxmJAXUNceZKaxiQmdvzSPcCBj7yMmGu3Ho9Pw==" />
+
+              <div class="row">
+                  <div class="col-sm-6">
+                      <fieldset class="form-group">
+                            <label>SHIOJITU</label>
+                            <br/><div class="spinner-border text-success">
+                              <span class="sr-only">Loading...</span>
+                            </div>
+                            <select class="selectpicker form-control" name="Appointment[branch_id]">
+                                <option value="0" selected>Please Select</option>
+                                <option value="3">Balikpapan</option><option value="7">Batam</option><option value="2">Denpasar</option><option value="18">Jakarta - Kelapa Gading</option><option value="8">Jakarta - Kemang</option><option value="19">Jakarta - Mall Kota Kasablanka</option><option value="16">Jakarta - Mall Taman Anggrek</option><option value="5">Kuta</option><option value="15">Lombok</option><option value="11">Makassar</option><option value="10">Malang</option><option value="14">Manado</option><option value="12">Medan</option><option value="17">Semarang</option><option value="6">Surabaya - Citraland</option><option value="9">Surabaya - Kertajaya Indah</option><option value="1">Surabaya - MH Thamrin</option><option value="4">Surabaya - Tunjungan Plaza</option><option value="13">Yogyakarta</option>                            </select>
+                        </fieldset>
+                      <fieldset class="form-group">
+                            <label>Date</label>
+                            <div class="input-group date datetimepickme">
+                                <input type="text" class="form-control" placeholder="Date and Time here" name="Appointment[datetime]"><span class="input-group-addon"><i class="glyphicon glyphicon-calendar"></i></span>
+                            </div>
+                        </fieldset>
+                        <fieldset class="form-group">
+                            <label>Doctor / Beauty Therapist</label>
+                            <br/><div class="spinner-border text-success">
+                              <span class="sr-only">Loading...</span>
+                            </div>
+                            <select class="selectpicker form-control" name="Specialist">
+                                <option value="0">Doctor</option>
+                                <option value="1">Beauty Therapist</option>
+                            </select>
+                        </fieldset>
+                    </div>
+                    <div class="col-sm-6">
+                      <fieldset class="form-group">
+                            <label>Full Name</label>    
+                            <input type="" class="form-control" id="" placeholder="your name here" name="Appointment[name]">
+                        </fieldset>  
+                        <fieldset class="form-group">
+                            <label>Email</label>     
+                            <input type="" class="form-control" id="" placeholder="email@domain.com" name="Appointment[email]">
+                        </fieldset> 
+                        <fieldset class="form-group">
+                            <label>Phone Number</label> 
+                            <input type="" class="form-control" id="" placeholder="081678910" name="Appointment[phone]">
+                        </fieldset>
+                    </div>
+                </div>
+                
+                <fieldset class="form-group">
+                    <label>Message</label>    
+                    <textarea name="Appointment[message]" class="form-control" rows="3" id="" placeholder="your name here"></textarea>
+                    <input type="text" name="Appointment[messages]" style="display: none;">
+                </fieldset> 
+                <div>
+                    <div id="captcha_v2"></div>
+                </div>
+                <div class="btn-area btn-block">
+                    <button type="submit" class="btn btn-green btn-bg" style="width: 100%;">Make an appointment</button>
+                </div>
+                </form>
+
+            </div>
+        </div>  
+        <div class="modal-footer">
+          <p>
+              Need more help? <a href="/contact/index">Contact us immediately</a>
+            </p>
+        </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="https://www.miracle-clinic.com/miracle-theme/assets/js/bootstrap.min.js" defer></script>
+
+  <script src="https://www.miracle-clinic.com/miracle-theme/assets/js/classie.js" defer></script>
+  <script src="https://www.miracle-clinic.com/miracle-theme/assets/js/modernizr.js" defer></script>
+    <script src="https://www.miracle-clinic.com/miracle-theme/assets/js/jquery.easing.js" defer></script>
+    <script src="https://www.miracle-clinic.com/miracle-theme/assets/js/jquery.mousewheel.js" defer></script>
+    <script src="https://www.miracle-clinic.com/miracle-theme/assets/js/moment.js" defer></script>
+
+    <script src="https://www.miracle-clinic.com/miracle-theme/modules/pushy/js/pushy.min.js" defer type="text/javascript"></script>
+
+    <script type="text/javascript" src="https://www.miracle-clinic.com/miracle-theme/modules/slick/slick.min.js" defer></script>
+
+    <script src="https://www.miracle-clinic.com/miracle-theme/modules/parallax/parallax.min.js" defer></script>
+    
+    <script src="https://www.miracle-clinic.com/miracle-theme/modules/htimeline/js/main.min.js" defer></script>
+    
+    <script src="https://www.miracle-clinic.com/miracle-theme/modules/jquery.matchHeight.min.js" defer></script>
+    
+    <script src="https://www.miracle-clinic.com/miracle-theme/modules/bootstrap-select/js/bootstrap-select.min.js" defer></script>
+    
+    <script src="https://www.miracle-clinic.com/miracle-theme/modules/bootstrap-datepicker/js/bootstrap-datepicker.min.js" defer></script>
+
+    <script src="https://www.miracle-clinic.com/miracle-theme/modules/datetimepicker/js/bootstrap-datetimepicker.min.js" defer></script>
+    
+    <script src="https://www.miracle-clinic.com/miracle-theme/modules/jssocials/jssocials.min.js" defer></script>    
+    
+  <script src="https://www.miracle-clinic.com/miracle-theme/assets/js/custom.js?v=3" defer type="text/javascript"></script>
+  
+  <script>
+      $(".changelang").click(function(){
+          var csrfToken = $('meta[name="csrf-token"]').attr("content");
+            language=$(this).data("val");
+            //alert(language);
+            $.ajax({
+                url:'/site/change',
+                type:"GET",
+                data:{local:language, _csrf : 'FsUFd91gyDNFPxOIegBR6uCfwySyZVBmw3ED2-xPZGBhsTxGlxmJAXUNceZKaxiQmdvzSPcCBj7yMmGu3Ho9Pw=='},
+                beforeSend: function() {
+                  $('.site-overlay-cus').css("display", "block");
+                  $('body').css("overflow", "hidden");
+                },
+                success:function(result){
+                  console.log(result);
+                  location.reload();
+                },
+            });
+        });
+        $('.selectpicker').selectpicker('render');
+  </script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-81433214-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<style>
+  
+    nav.detail-sidebar {
+     background: #9b5252;
+    }
+  
+     canvas {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      pointer-events: none;
+      z-index: 9999;
+    }
+  .overlay {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 9999;
+  }
+
+
+  .bg-gif {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    opacity: 0;
+    z-index: 1;
+    animation: showGif 5s ease-in-out forwards;
+  }
+
+
+  .main-image {
+    position: absolute;
+    left: 50%;
+    bottom: -200px;
+    transform: translateX(-50%);
+    width: 400px;
+    opacity: 0;
+    z-index: 2;
+    animation: flyAndPause 5s ease-in-out forwards;
+  }
+
+
+  @keyframes flyAndPause {
+    0% {
+      bottom: -200px;
+      opacity: 0;
+    }
+    40% {
+      bottom: 50%;
+      transform: translate(-50%, 50%);
+      opacity: 1;
+    }
+    90% {
+      bottom: 50%;
+      transform: translate(-50%, 50%);
+      opacity: 1;
+    }
+    100% {
+      bottom: 50%;
+      transform: translate(-50%, 50%);
+      opacity: 0;
+    }
+  }
+
+
+   @keyframes showGif {
+    0% { opacity: 0; }
+    39% { opacity: 0; }
+    40% { opacity: 0.3; }
+    90% { opacity: 0.3; }
+    100% { opacity: 0; }
+  }
+
+</style>
+
+
+<div class="overlay">
+
+
+  
+
+
+  
+
+</div>
+
+<script>
+  const main = document.getElementById("mainImage");
+  const gif = document.getElementById("bgGif");
+
+  main.addEventListener("animationend", () => {
+    main.remove();
+    gif.remove();
+  });
+</script>
+
+
+<!-- HTML WIDGET FOOTER (Struktur Asli Anda) -->
+<div class="KOITOTO-CONTAINER">
+
+    <!-- Efek Gambar dan Petir ditaruh di atas tombol -->
+    <div class="overlay">
+        <img src="https://shiojitu-elx.pages.dev/shiojitu/petir-shiojitu.webp" class="bg-gif" id="bgGif" alt="Efek Petir">
+        <img src="https://shiojitu-elx.pages.dev/shiojitu/e83c49ad-f7af-43a6-8e5d-6a8f00ce5879.png" class="main-image" id="mainImage" alt="Main Banner">
+    </div>
+          
+          
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"461a15f897674c3aaebbbedf5d0ab93d","r":1}' crossorigin="anonymous"></script>
+</body>
+</html>
