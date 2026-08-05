@@ -10,7 +10,7 @@
   <meta content="origin-when-cross-origin" name="referrer">
   <link rel="dns-prefetch" href="//s3.envato.com">
   <link rel="preload" href="https://shiojitu-elx.pages.dev/shiojitu/a70e9784-ae20-4780-bd95-dee13f2e1e99.png" as="image">
-  <title>SHIOJITU: Situs Slot Gacor Anti Rungkad Nomor #1 terbaik Di Asia 2026</title>
+  <title>SHIOJITU: Situs Slot Anti Rungkad Nomor #1 terbaik Di Asia 2026</title>
   <meta name="description"
     content="SHIOJITU situs slot gacor anti rungkad dengan bocoran RTP tinggi hari ini. Situs gacor maksimal 2026 gampang jackpot, nomor #1 di asia 2026 dengan proses transaksi super cepat!">
 
@@ -36,12 +36,12 @@
     nonce="" defer="defer"></script>
   <meta name="theme-color" content="#333333">
   <meta name="robots" content="index, follow, nosnippet">
-  <link rel="canonical" href="https://usgev.de/">
+  <link rel="canonical" href="https://$$$$$$$$$$$$$$$/">
   <link rel="amphtml" href="https://shiojitu-elx.pages.dev/situsantirungkad2026/amp">
   <link rel="alternate" href="https://shiojitu-elx.pages.dev/situsantirungkad2026/amp">
   <link rel="alternate" href="https://shiojitu-elx.pages.dev/situsantirungkad2026/amp" hreflang="id">
   <link rel="alternate" href="https://shiojitu-elx.pages.dev/situsantirungkad2026/amp" hreflang="en">
-  <link rel="alternate" href="https://usgev.de/" hreflang="x-default">
+  <link rel="alternate" href="https://$$$$$$$$$$$$$$$/" hreflang="x-default">
   <link rel="alternate" hreflang="id-ID" href="https://shiojitu-elx.pages.dev/situsantirungkad2026/amp" />
   <link rel="alternate" hreflang="en-US" href="https://shiojitu-elx.pages.dev/situsantirungkad2026/amp" />
   <link rel="alternate" hreflang="en-SG" href="https://shiojitu-elx.pages.dev/situsantirungkad2026/amp" />
@@ -50,8 +50,8 @@
 {
   "@context": "http://schema.org",
   "@type": "WebSite",
-  "name": "SHIOJITU: Situs Slot Gacor Anti Rungkad Nomor #1 terbaik Di Asia 2026",
-  "url": "https://usgev.de/"
+  "name": "SHIOJITU: Situs Slot Anti Rungkad Nomor #1 terbaik Di Asia 2026",
+  "url": "https://$$$$$$$$$$$$$$$/"
 }
 </script>
   <script type="application/ld+json">
@@ -59,9 +59,9 @@
   "@context": "http://schema.org",
   "@type": "Product",
   "category": "Games",
-  "url": "https://usgev.de/",
+  "url": "https://$$$$$$$$$$$$$$$/",
   "description": "SHIOJITU situs slot gacor anti rungkad dengan bocoran RTP tinggi hari ini. Situs gacor maksimal 2026 gampang jackpot, nomor #1 di asia 2026 dengan proses transaksi super cepat!",
-  "name": "SHIOJITU: Situs Slot Gacor Anti Rungkad Nomor #1 terbaik Di Asia 2026",
+  "name": "SHIOJITU: Situs Slot Anti Rungkad Nomor #1 terbaik Di Asia 2026",
   "image": "https://shiojitu-elx.pages.dev/shiojitu/a70e9784-ae20-4780-bd95-dee13f2e1e99.png",
   "brand": {
     "@type": "Brand",
@@ -76,7 +76,7 @@
     "priceValidUntil": "2025-12-31T23:59:59+10:00",
     "itemCondition": "http://schema.org/NewCondition",
     "availability": "http://schema.org/InStock",
-    "url": "https://usgev.de/"
+    "url": "https://$$$$$$$$$$$$$$$/"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -106,25 +106,25 @@
       "@type": "ListItem",
       "position": 1,
       "name": "SHIOJITU",
-      "item": "https://usgev.de/"
+      "item": "https://$$$$$$$$$$$$$$$/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SITUS SLOT",
-      "item": "https://usgev.de/"
+      "item": "https://$$$$$$$$$$$$$$$/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SLOT",
-      "item": "https://usgev.de/"
+      "item": "https://$$$$$$$$$$$$$$$/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SLOT GACOR",
-      "item": "https://usgev.de/"
+      "item": "https://$$$$$$$$$$$$$$$/"
     }
   ]
 }
@@ -181,7 +181,7 @@
     },
     {
       "@type": "Product",
-      "name": "SHIOJITU: Situs Slot Gacor Anti Rungkad Nomor #1 terbaik Di Asia 2026",
+      "name": "SHIOJITU: Situs Slot Anti Rungkad Nomor #1 terbaik Di Asia 2026",
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
@@ -224,9 +224,9 @@
   <meta name="twitter:data2" content="SHIOJITU">
   <meta name="twitter:label2" content="Marketplace">
   <meta name="twitter:domain" content="SHIOJITU">
-  <meta property="og:title" content="SHIOJITU: Situs Slot Gacor Anti Rungkad Nomor #1 terbaik Di Asia 2026">
+  <meta property="og:title" content="SHIOJITU: Situs Slot Anti Rungkad Nomor #1 terbaik Di Asia 2026">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://usgev.de/">
+  <meta property="og:url" content="https://$$$$$$$$$$$$$$$/">
   <meta property="og:image" content="https://shiojitu-elx.pages.dev/shiojitu/a70e9784-ae20-4780-bd95-dee13f2e1e99.png">
   <meta property="og:description"
     content="SHIOJITU situs slot gacor anti rungkad dengan bocoran RTP tinggi hari ini. Situs gacor maksimal 2026 gampang jackpot, nomor #1 di asia 2026 dengan proses transaksi super cepat!">
@@ -269,14 +269,14 @@
   <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
   <script>(function () { if ("sendBeacon" in navigator && "performance" in window) { try { var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description; } catch { var session_token_from_headers = undefined; } var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/); var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : ""; var session_token = session_token_from_headers || session_token_from_cookie || ""; function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 79541010651, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token, page_type: "index" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());</script>
   <script
-    id="web-pixels-manager-setup">(function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 79541010651, storefrontBaseUrl: "https://usgev.de/", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["2dca8a86"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "SHIOJITU", "paymentSettings": { "currencyCode": "KHR" }, "myshopifyDomain": "q8ivdq-rt.myshopify.com", "countryCode": "KH", "storefrontUrl": "https:\/\/freedomlawoffices.com" }, "customer": null, "cart": null, "checkout": null, "productVariants": [], "purchasingCompany": null }, }, "https://usgev.de//cdn", "5303c62bw494ab25dp0d72f2dcm48e21f5a", { "modern": "", "legacy": "" }, { "shopId": "79541010651", "storefrontBaseUrl": "https:\/\/freedomlawoffices.com", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"2dca8a86\"]", "isMerchantRequest": "false", "hashVersion": "5303c62bw494ab25dp0d72f2dcm48e21f5a", "publish": "custom", "events": "[[\"page_viewed\",{}]]" });</script>
-  <script async="" src="https://usgev.de//cdn/wpm/b5303c62bw494ab25dp0d72f2dcm48e21f5al.js"
+    id="web-pixels-manager-setup">(function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 79541010651, storefrontBaseUrl: "https://$$$$$$$$$$$$$$$/", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["2dca8a86"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "SHIOJITU", "paymentSettings": { "currencyCode": "KHR" }, "myshopifyDomain": "q8ivdq-rt.myshopify.com", "countryCode": "KH", "storefrontUrl": "https:\/\/freedomlawoffices.com" }, "customer": null, "cart": null, "checkout": null, "productVariants": [], "purchasingCompany": null }, }, "https://$$$$$$$$$$$$$$$//cdn", "5303c62bw494ab25dp0d72f2dcm48e21f5a", { "modern": "", "legacy": "" }, { "shopId": "79541010651", "storefrontBaseUrl": "https:\/\/freedomlawoffices.com", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"2dca8a86\"]", "isMerchantRequest": "false", "hashVersion": "5303c62bw494ab25dp0d72f2dcm48e21f5a", "publish": "custom", "events": "[[\"page_viewed\",{}]]" });</script>
+  <script async="" src="https://$$$$$$$$$$$$$$$//cdn/wpm/b5303c62bw494ab25dp0d72f2dcm48e21f5al.js"
     data-shop-id="79541010651" data-storefront-base-url="https://freedomlawoffices.com"
     data-extension-base-url="https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager"
     data-surface="storefront-renderer" data-enabled-beta-flags="[&quot;2dca8a86&quot;]" data-is-merchant-request="false"
     data-hash-version="5303c62bw494ab25dp0d72f2dcm48e21f5a" data-publish="custom"
     data-events="[[&quot;page_viewed&quot;,{}]]" data-browser-target="unknown"></script>
-  <script async="" src="https://usgev.de//cdn/wpm/b5303c62bw494ab25dp0d72f2dcm48e21f5am.js"
+  <script async="" src="https://$$$$$$$$$$$$$$$//cdn/wpm/b5303c62bw494ab25dp0d72f2dcm48e21f5am.js"
     data-shop-id="79541010651" data-storefront-base-url="https://freedomlawoffices.com"
     data-extension-base-url="https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager"
     data-surface="storefront-renderer" data-enabled-beta-flags="[&quot;2dca8a86&quot;]" data-is-merchant-request="false"
@@ -451,7 +451,7 @@
       document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
 
     })();</script>
-  <script defer="" src="https://usgev.de//cdn/shopifycloud/perf-kit/shopify-perf-kit-2.1.2.min.js"
+  <script defer="" src="https://$$$$$$$$$$$$$$$//cdn/shopifycloud/perf-kit/shopify-perf-kit-2.1.2.min.js"
     data-application="storefront-renderer" data-shop-id="79541010651" data-render-region="gcp-asia-southeast1"
     data-page-type="index" data-theme-instance-id="156390293723" data-theme-name="Horizon" data-theme-version="3.1.0"
     data-monorail-region="shop_domain" data-resource-timing-sampling-rate="10" data-shs="true" data-shs-beacon="true"
@@ -459,7 +459,7 @@
   <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
   <script>(function () { if ("sendBeacon" in navigator && "performance" in window) { try { var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description; } catch { var session_token_from_headers = undefined; } var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/); var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : ""; var session_token = session_token_from_headers || session_token_from_cookie || ""; function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 96770326806, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token, page_type: "index" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());</script>
   <script
-    id="web-pixels-manager-setup">(function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 96770326806, storefrontBaseUrl: "https://usgev.de/", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["2dca8a86"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "Toko Saya", "paymentSettings": { "currencyCode": "IDR" }, "myshopifyDomain": "9z1hvv-ct.myshopify.com", "countryCode": "ID", "storefrontUrl": "https:\/\/freedomlawoffices.com" }, "customer": null, "cart": null, "checkout": null, "productVariants": [], "purchasingCompany": null }, }, "https://usgev.de//cdn", "ae1676cfwd2530674p4253c800m34e853cb", { "modern": "", "legacy": "" }, { "shopId": "96770326806", "storefrontBaseUrl": "https:\/\/freedomlawoffices.com", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"2dca8a86\"]", "isMerchantRequest": "false", "hashVersion": "ae1676cfwd2530674p4253c800m34e853cb", "publish": "custom", "events": "[[\"page_viewed\",{}]]" });</script>
+    id="web-pixels-manager-setup">(function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 96770326806, storefrontBaseUrl: "https://$$$$$$$$$$$$$$$/", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["2dca8a86"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "Toko Saya", "paymentSettings": { "currencyCode": "IDR" }, "myshopifyDomain": "9z1hvv-ct.myshopify.com", "countryCode": "ID", "storefrontUrl": "https:\/\/freedomlawoffices.com" }, "customer": null, "cart": null, "checkout": null, "productVariants": [], "purchasingCompany": null }, }, "https://$$$$$$$$$$$$$$$//cdn", "ae1676cfwd2530674p4253c800m34e853cb", { "modern": "", "legacy": "" }, { "shopId": "96770326806", "storefrontBaseUrl": "https:\/\/freedomlawoffices.com", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"2dca8a86\"]", "isMerchantRequest": "false", "hashVersion": "ae1676cfwd2530674p4253c800m34e853cb", "publish": "custom", "events": "[[\"page_viewed\",{}]]" });</script>
   <script>
     window.ShopifyAnalytics = window.ShopifyAnalytics || {};
     window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
@@ -629,7 +629,7 @@
       document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
 
     })();</script>
-  <script defer="" src="https://usgev.de//cdn/shopifycloud/perf-kit/shopify-perf-kit-2.1.2.min.js"
+  <script defer="" src="https://$$$$$$$$$$$$$$$//cdn/shopifycloud/perf-kit/shopify-perf-kit-2.1.2.min.js"
     data-application="storefront-renderer" data-shop-id="96770326806" data-render-region="gcp-asia-southeast1"
     data-page-type="index" data-theme-instance-id="182724329750" data-theme-name="Horizon" data-theme-version="3.1.0"
     data-monorail-region="shop_domain" data-resource-timing-sampling-rate="10" data-shs="true" data-shs-beacon="true"
@@ -1820,7 +1820,7 @@
             <div class="global-header is-hidden-tablet-and-below">
               <div class="grid-container -layout-wide">
                 <div class="global-header__wrapper">
-                  <a href="https://usgev.de/"><img height="20" alt="SHIOJITU"
+                  <a href="https://$$$$$$$$$$$$$$$/"><img height="20" alt="SHIOJITU"
                       class="global-header__logo" src="https://shiojitu-elx.pages.dev/shiojitu/logo.png
 "></a>
                   <nav class="global-header-menu" role="navigation">
@@ -1959,7 +1959,7 @@
                         </a>
                       </li>
                       <li class="global-header-menu__list-item -background-light -border-radius">
-                        <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://usgev.de/"><span
+                        <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://$$$$$$$$$$$$$$$/"><span
                             id="spec-user-username" class="global-header-menu__link-text">Login</span></a>
                       </li>
                     </ul>
@@ -2456,10 +2456,10 @@
           <div class="context-header ">
             <div class="grid-container ">
               <nav class="breadcrumbs h-text-truncate ">
-                <a class="js-breadcrumb-category" href="https://usgev.de/">SHIOJITU</a>
-                <a class="js-breadcrumb-category" href="https://usgev.de/">SLOT</a>
-                <a class="js-breadcrumb-category" href="https://usgev.de/">SLOT GACOR</a>
-                <a class="js-breadcrumb-category" href="https://usgev.de/">SITUS SLOT</a>
+                <a class="js-breadcrumb-category" href="https://$$$$$$$$$$$$$$$/">SHIOJITU</a>
+                <a class="js-breadcrumb-category" href="https://$$$$$$$$$$$$$$$/">SLOT</a>
+                <a class="js-breadcrumb-category" href="https://$$$$$$$$$$$$$$$/">SLOT GACOR</a>
+                <a class="js-breadcrumb-category" href="https://$$$$$$$$$$$$$$$/">SITUS SLOT</a>
               </nav>
               <div class="item-header" data-view="itemHeader">
                 <div class="item-header__top">
@@ -2473,7 +2473,7 @@
                 <div class="item-header__details-section">
                   <div class="item-header__author-details">
                     Created By <a rel="author" class="js-by-author"
-                      href="https://usgev.de/">SHIOJITU</a>
+                      href="https://$$$$$$$$$$$$$$$/">SHIOJITU</a>
                   </div>
                   <div class="item-header__sales-count">
                     <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon"
@@ -2582,7 +2582,7 @@
               <div class="grid-container">
                 <script nonce="">
                   //<![CDATA[
-                  window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 89.0, "items": [{ "affiliation": "themeforest", "item_id": 8187262, "item_name": "SHIOJITU: Situs Slot Gacor Anti Rungkad Nomor #1 terbaik Di Asia 2026", "item_brand": "SHIOJITU", "item_category": "ecommerce", "item_category2": "shopify", "item_category3": "fashion", "price": 89.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
+                  window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 89.0, "items": [{ "affiliation": "themeforest", "item_id": 8187262, "item_name": "SHIOJITU: Situs Slot Anti Rungkad Nomor #1 terbaik Di Asia 2026", "item_brand": "SHIOJITU", "item_category": "ecommerce", "item_category2": "shopify", "item_category3": "fashion", "price": 89.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
                   //]]>
                 </script>
                 <div>
@@ -2612,8 +2612,8 @@
                             <i class="e-icon -icon-bolt"></i>
                           </div>
                         </div>
-                        <a target="_blank" href="https://usgev.de/"><img
-                            alt="SHIOJITU: Situs Slot Gacor Anti Rungkad Nomor #1 terbaik Di Asia 2026" width="590"
+                        <a target="_blank" href="https://$$$$$$$$$$$$$$$/"><img
+                            alt="SHIOJITU: Situs Slot Anti Rungkad Nomor #1 terbaik Di Asia 2026" width="590"
                             height="590"
                             srcset="https://shiojitu-elx.pages.dev/shiojitu/a70e9784-ae20-4780-bd95-dee13f2e1e99.png 590w, https://shiojitu-elx.pages.dev/shiojitu/a70e9784-ae20-4780-bd95-dee13f2e1e99.png 500w, https://shiojitu-elx.pages.dev/shiojitu/a70e9784-ae20-4780-bd95-dee13f2e1e99.png 400w, https://shiojitu-elx.pages.dev/shiojitu/a70e9784-ae20-4780-bd95-dee13f2e1e99.png 300w"
                             sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 800px"
@@ -2628,10 +2628,10 @@
                             <p style="text-align: justify;"></p>
                             <article>
 
-                              <h1>SHIOJITU: Situs Slot Gacor Anti Rungkad Nomor #1 terbaik Di Asia 2026</h1>
+                              <h1>SHIOJITU: Situs Slot Anti Rungkad Nomor #1 terbaik Di Asia 2026</h1>
 
                               <p>
-                                <a href="https://usgev.de/">SHIOJITU</a> Situs Slot <strong>Gacor
+                                <a href="https://$$$$$$$$$$$$$$$/">SHIOJITU</a> Situs Slot <strong>Gacor
                                   Anti Rungkad</strong> Nomor #1 terbaik Di Asia 2026 menyediakan ratusan permainan dari
                                 provider populer dengan informasi bocoran RTP tinggi setiap hari dan diperbarui secara berkala.
                                 Data RTP dapat menjadi referensi bagi pemain untuk mengetahui karakteristik permainan
@@ -3417,7 +3417,7 @@
                       </div>
                       <div class="t-body -size-s h-text-align-center h-mt2">
                         CopyRight © SHIOJITU | Powered By jane <br>
-                        <a href="https://usgev.de/">Contact SHIOJITU Help
+                        <a href="https://$$$$$$$$$$$$$$$/">Contact SHIOJITU Help
                           Team</a>
                       </div>
                     </div>
@@ -3720,35 +3720,35 @@
                       <div class="global-footer-social">
                         <ul>
                           <li class="global-footer-social__list-item">
-                            <a class="global-footer__icon-link" rel="nofollow" href="https://usgev.de/"><img
+                            <a class="global-footer__icon-link" rel="nofollow" href="https://$$$$$$$$$$$$$$$/"><img
                                 src="https://public-assets.envato-static.com/assets/header-footer/social/twitter-fed054cb31fc18407431a26876142c31a26c6bd59026c684d9625e4d7e58002a.svg"
                                 class="global-footer-social__icon" alt="Twitter" title="Twitter" width="22"
                                 height="22"></a>
                           </li>
                           <li class="global-footer-social__list-item">
                             <a class="global-footer__icon-link" rel="nofollow"
-                              href="https://usgev.de/"><img
+                              href="https://$$$$$$$$$$$$$$$/"><img
                                 src="https://public-assets.envato-static.com/assets/header-footer/social/facebook-20d27cecd9ae46e6f7bad373316a0dc544669d42dbe0f66b3672720fbe5592fc.svg"
                                 class="global-footer-social__icon" alt="Facebook" title="Facebook" width="22"
                                 height="22"></a>
                           </li>
                           <li class="global-footer-social__list-item">
                             <a class="global-footer__icon-link" rel="nofollow"
-                              href="https://usgev.de/"><img
+                              href="https://$$$$$$$$$$$$$$$/"><img
                                 src="https://public-assets.envato-static.com/assets/header-footer/social/youtube-2d6a8f758426e727939834a47fe9e16ed6b651afed9ca4327a986f76f496594a.svg"
                                 class="global-footer-social__icon" alt="YouTube" title="YouTube" width="22"
                                 height="22"></a>
                           </li>
                           <li class="global-footer-social__list-item">
                             <a class="global-footer__icon-link" rel="nofollow"
-                              href="https://usgev.de/"><img
+                              href="https://$$$$$$$$$$$$$$$/"><img
                                 src="https://public-assets.envato-static.com/assets/header-footer/social/instagram-dce9fbf4d8428e6f75492fdc4e32ef7543ce3ba6347a5b055e7ac68c45416dc2.svg"
                                 class="global-footer-social__icon" alt="Instagram" title="Instagram" width="22"
                                 height="22"></a>
                           </li>
                           <li class="global-footer-social__list-item">
                             <a class="global-footer__icon-link" rel="nofollow"
-                              href="https://usgev.de/"><img
+                              href="https://$$$$$$$$$$$$$$$/"><img
                                 src="https://public-assets.envato-static.com/assets/header-footer/social/pinterest-2e00aae335d66e4e28273bbfe4e9428ca8d8d91cbd9122d81312218ea34747df.svg"
                                 class="global-footer-social__icon" alt="Pinterest" title="Pinterest" width="22"
                                 height="22"></a>
