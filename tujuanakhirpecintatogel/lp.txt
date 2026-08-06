@@ -22,7 +22,7 @@
   <meta property="og:title" content="SHIOJITU - Tujuan Akhir Pencarian Bandar Togel Terpercaya 2026">
   <meta property="og:description" content="Bagi para pecinta togel nusantara perkenalkan SHIOJITU situs bandar togel online terpercaya, dengan layanan pelanggan 24 jam, proses transaksi yang cepat menjadi tujuan para pecinta togel nusantara.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://$$$$$$$$$$$$$$$$$$$/">
+  <meta property="og:url" content="https://hozonkai.org/">
   <meta property="og:image" content="https://img.culanseng.org/storage/images/shiojitu/jagoanneon-22.webp">
   <meta property="og:image:width" content="200">
   <meta property="og:image:height" content="200">
@@ -35,26 +35,26 @@
   <meta name="twitter:app:country" content="BANDAR TOGEL TERPERCAYA">
   <meta name="twitter:app:name:iphone" content="BANDAR TOGEL TERPERCAYA">
   <meta name="twitter:app:id:iphone" content="462057824">
-  <meta name="twitter:app:url:iphone" content="https://$$$$$$$$$$$$$$$$$$$/">
+  <meta name="twitter:app:url:iphone" content="https://hozonkai.org/">
   <meta name="twitter:app:name:googleplay" content="TOGEL ONLINE">
   <meta name="twitter:app:id:googleplay" content="SHIOJITU">
-  <meta name="twitter:app:url:googleplay" content="https://$$$$$$$$$$$$$$$$$$$/">
+  <meta name="twitter:app:url:googleplay" content="https://hozonkai.org/">
 <!-- App Links -->
-  <meta property="al:ios:url" content="https://$$$$$$$$$$$$$$$$$$$/">
+  <meta property="al:ios:url" content="https://hozonkai.org/">
   <meta property="al:ios:app_store_id" content="613084551">
   <meta property="al:ios:app_name" content="Ubuy: International Shopping">
-  <meta property="al:android:url" content="https://$$$$$$$$$$$$$$$$$$$/">
+  <meta property="al:android:url" content="https://hozonkai.org/">
   <meta property="al:android:package" content="BANDAR TOGEL TERPERCAYA">
   <meta property="al:android:app_name" content="SHIOJITU">
   <meta property="al:web:should_fallback" content="true">
 <!-- Canonical -->
-  <link rel="canonical" href="https://$$$$$$$$$$$$$$$$$$$/">
-  <link rel="amphtml" href="https://shiojitu-elx.pages.dev/tujuanakhirpecintatogel/amp" />
-  <link rel="alternate" hreflang="id-id" href="https://shiojitu-elx.pages.dev/tujuanakhirpecintatogel/amp"/>
-  <link rel="alternate" href="https://$$$$$$$$$$$$$$$$$$$/"/>
-  <link rel="alternate" hreflang="id" href="https://shiojitu-elx.pages.dev/tujuanakhirpecintatogel/amp"/>
-  <link rel="alternate" hreflang="en" href="https://$$$$$$$$$$$$$$$$$$$/"/>
-  <link rel="alternate" hreflang="x-default" href="https://$$$$$$$$$$$$$$$$$$$/"/>
+  <link rel="canonical" href="https://hozonkai.org/">
+  <link rel="amphtml" href="https://amp.hozonkai.org/" />
+  <link rel="alternate" hreflang="id-id" href="https://amp.hozonkai.org/"/>
+  <link rel="alternate" href="https://hozonkai.org/"/>
+  <link rel="alternate" hreflang="id" href="https://amp.hozonkai.org/"/>
+  <link rel="alternate" hreflang="en" href="https://hozonkai.org/"/>
+  <link rel="alternate" hreflang="x-default" href="https://hozonkai.org/"/>
 <!-- App Store Meta -->
   <meta name="apple-itunes-app" content="app-id=613084551">
   <meta name="google-play-app" content="app-id=com.ubuy">
@@ -141,14 +141,14 @@
                             </div>
                         </div>
                     </div>
-                                                                <a class="navbar-brand me-5" href="https://$$$$$$$$$$$$$$$$$$$/" title="SHIOJITU">
+                                                                <a class="navbar-brand me-5" href="https://hozonkai.org/" title="SHIOJITU">
                                                                <img height="100" width="100" src="https://shiojitu-elx.pages.dev/shiojitu/9bb2d567-3097-4fc4-a2c7-aec04e501c94.png" alt="SHIOJITU">
                                                     </a>
                                     </div>
                                <!-- Header Search Section -->
 <div class="header-center">
   <div class="header-search-bar">
-    <form id="search-form-sm" action="https://$$$$$$$$$$$$$$$$$$$/" method="get" class="w-100 d-flex">
+    <form id="search-form-sm" action="https://hozonkai.org/" method="get" class="w-100 d-flex">
 
       <!-- Select Category -->
       <div class="select-category dropdown">
@@ -159,100 +159,100 @@
         <ul class="dropdown-menu">
           <li class="dropdown-item">All</li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Fashion & Lifestyle">Fashion & Lifestyle</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Fashion & Lifestyle">Fashion & Lifestyle</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Electronics & Gadgets">Electronics & Gadgets</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Electronics & Gadgets">Electronics & Gadgets</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Home & Kitchen Supplies">Home & Kitchen Supplies</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Home & Kitchen Supplies">Home & Kitchen Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Beauty & Self Care">Beauty & Self Care</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Beauty & Self Care">Beauty & Self Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Toys & Adventures">Toys & Adventures</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Toys & Adventures">Toys & Adventures</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Sports & Outdoor">Sports & Outdoor</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Sports & Outdoor">Sports & Outdoor</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Health, Vitamins & Supplements">Health, Vitamins & Supplements</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Health, Vitamins & Supplements">Health, Vitamins & Supplements</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Pet Care">Pet Care</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Pet Care">Pet Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Auto Parts & Accessories">Auto Parts & Accessories</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Auto Parts & Accessories">Auto Parts & Accessories</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Books & Literature">Books & Literature</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Books & Literature">Books & Literature</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Yoga Clothing & Accessories">Yoga Clothing & Accessories</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Yoga Clothing & Accessories">Yoga Clothing & Accessories</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Baby Care & Gear">Baby Care & Gear</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Baby Care & Gear">Baby Care & Gear</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Fishing & Tackle Gear">Fishing & Tackle Gear</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Fishing & Tackle Gear">Fishing & Tackle Gear</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Gloves & Mittens">Gloves & Mittens</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Gloves & Mittens">Gloves & Mittens</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Health & Supplements">Health & Supplements</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Health & Supplements">Health & Supplements</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Electronics">Electronics</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Electronics">Electronics</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Beauty & Personal Care">Beauty & Personal Care</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Beauty & Personal Care">Beauty & Personal Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Fashion">Fashion</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Fashion">Fashion</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Home & Kitchen">Home & Kitchen</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Home & Kitchen">Home & Kitchen</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Baby Essentials">Baby Essentials</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Baby Essentials">Baby Essentials</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Musical Instruments">Musical Instruments</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Musical Instruments">Musical Instruments</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Grocery & Gourmet Food">Grocery & Gourmet Food</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Grocery & Gourmet Food">Grocery & Gourmet Food</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Office Supplies">Office Supplies</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Office Supplies">Office Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Sports Outdoor & Fitness">Sports Outdoor & Fitness</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Sports Outdoor & Fitness">Sports Outdoor & Fitness</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Automotive">Automotive</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Automotive">Automotive</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Household Supplies">Household Supplies</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Household Supplies">Household Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Pet Supplies">Pet Supplies</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Pet Supplies">Pet Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Arts Crafts & Sewing">Arts Crafts & Sewing</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Arts Crafts & Sewing">Arts Crafts & Sewing</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Toys & Games">Toys & Games</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Toys & Games">Toys & Games</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Industrial Supplies">Industrial Supplies</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Industrial Supplies">Industrial Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Books">Books</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Books">Books</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://$$$$$$$$$$$$$$$$$$$/" title="Gardening Supplies">Gardening Supplies</a>
+            <a class="search-category-item" href="https://hozonkai.org/" title="Gardening Supplies">Gardening Supplies</a>
           </li>
         </ul>
       </div>
@@ -289,15 +289,15 @@
 </div>
 
                                 <ul class="dropdown-menu rounded border-0">
-                                    <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="global" data-mstore="*" data-store="*" data-href="https://$$$$$$$$$$$$$$$$$$$/"><span class="" title="Global store" data-href="https://$$$$$$$$$$$$$$$$$$$/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><i style="width:25px; text-align:center; color:#e5c409" class="fa fa-globe primary-text"></i></div><div class="store-title">Global</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap active" data-fromstorecode="us" data-fromstore="us" data-tostore="us" data-mstore="us" data-store="us" data-href="https://$$$$$$$$$$$$$$$$$$$/"><span class="" title="United States store" data-href="https://$$$$$$$$$$$$$$$$$$$/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="us"></span></div><div class="store-title">US</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="uk" data-mstore="uk" data-store="uk" data-href="https://$$$$$$$$$$$$$$$$$$$/"><span class="" title="United Kingdom store" data-href="https://$$$$$$$$$$$$$$$$$$$/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="uk"></span></div><div class="store-title">UK</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="eu" data-mstore="eu" data-store="eu" data-href="https://$$$$$$$$$$$$$$$$$$$/"><span class="" title="Europe store" data-href="https://$$$$$$$$$$$$$$$$$$$/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="eu"></span></div><div class="store-title">EU</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="china" data-mstore="ch" data-store="ch" data-href="https://$$$$$$$$$$$$$$$$$$$/"><span class="" title="China store" data-href="https://$$$$$$$$$$$$$$$$$$$/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="china"></span></div><div class="store-title">CHINA</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="japan" data-mstore="jp" data-store="jp" data-href="https://$$$$$$$$$$$$$$$$$$$/"><span class="" title="Japan store" data-href="https://$$$$$$$$$$$$$$$$$$$/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="japan"></span></div><div class="store-title">Japan</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="hongkong" data-mstore="hk" data-store="hk" data-href="https://$$$$$$$$$$$$$$$$$$$/"><span class="" title="Hongkong store" data-href="https://$$$$$$$$$$$$$$$$$$$/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="hongkong"></span></div><div class="store-title">Hongkong</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="korea" data-mstore="kr" data-store="kr" data-href="https://$$$$$$$$$$$$$$$$$$$/"><span class="" title="Korea store" data-href="https://$$$$$$$$$$$$$$$$$$$/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="korea"></span></div><div class="store-title">Korea</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="turkey" data-mstore="tr" data-store="tr" data-href="https://$$$$$$$$$$$$$$$$$$$/"><span class="" title="Turkey store" data-href="https://$$$$$$$$$$$$$$$$$$$/">
+                                    <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="global" data-mstore="*" data-store="*" data-href="https://hozonkai.org/"><span class="" title="Global store" data-href="https://hozonkai.org/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><i style="width:25px; text-align:center; color:#e5c409" class="fa fa-globe primary-text"></i></div><div class="store-title">Global</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap active" data-fromstorecode="us" data-fromstore="us" data-tostore="us" data-mstore="us" data-store="us" data-href="https://hozonkai.org/"><span class="" title="United States store" data-href="https://hozonkai.org/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="us"></span></div><div class="store-title">US</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="uk" data-mstore="uk" data-store="uk" data-href="https://hozonkai.org/"><span class="" title="United Kingdom store" data-href="https://hozonkai.org/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="uk"></span></div><div class="store-title">UK</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="eu" data-mstore="eu" data-store="eu" data-href="https://hozonkai.org/"><span class="" title="Europe store" data-href="https://hozonkai.org/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="eu"></span></div><div class="store-title">EU</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="china" data-mstore="ch" data-store="ch" data-href="https://hozonkai.org/"><span class="" title="China store" data-href="https://hozonkai.org/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="china"></span></div><div class="store-title">CHINA</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="japan" data-mstore="jp" data-store="jp" data-href="https://hozonkai.org/"><span class="" title="Japan store" data-href="https://hozonkai.org/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="japan"></span></div><div class="store-title">Japan</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="hongkong" data-mstore="hk" data-store="hk" data-href="https://hozonkai.org/"><span class="" title="Hongkong store" data-href="https://hozonkai.org/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="hongkong"></span></div><div class="store-title">Hongkong</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="korea" data-mstore="kr" data-store="kr" data-href="https://hozonkai.org/"><span class="" title="Korea store" data-href="https://hozonkai.org/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="korea"></span></div><div class="store-title">Korea</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="turkey" data-mstore="tr" data-store="tr" data-href="https://hozonkai.org/"><span class="" title="Turkey store" data-href="https://hozonkai.org/">
                                                         <div class="store-flag bg-light d-flex align-items-center"><span class="turkey"></span></div><div class="store-title">Turkey</div></span></li>                                </ul>
                             </div>
                                                         
@@ -435,8 +435,8 @@ box-shadow: 0px 0px 3px #fff;
 </style>
 
 <div class="n-columns-2">
-<a href="https://shiojitu-elx.pages.dev/tujuanakhirpecintatogel/amp" rel="nofollow noreferrer" class="login">LOGIN</a>
-<a href="https://shiojitu-elx.pages.dev/tujuanakhirpecintatogel/amp" rel="nofollow noreferrer" class="register">DAFTAR</a>
+<a href="https://amp.hozonkai.org/" rel="nofollow noreferrer" class="login">LOGIN</a>
+<a href="https://amp.hozonkai.org/" rel="nofollow noreferrer" class="register">DAFTAR</a>
 </div>
                 </div>
                
@@ -471,8 +471,8 @@ box-shadow: 0px 0px 3px #fff;
                             
                                     <ul class="dropdown-menu rounded border-0">
                                         <li class="welcome-msg">Welcome</li>
-                                        <li class="dropdown-item"><a href="https://$$$$$$$$$$$$$$$$$$$/" title="Sign in"><span class="signin-sprite"></span>Sign in</a></li>
-                                        <li class="dropdown-item"><a href="https://$$$$$$$$$$$$$$$$$$$/" title="Create an Account"><span class="createaccount-sprite"></span> Create an Account</a>
+                                        <li class="dropdown-item"><a href="https://hozonkai.org/" title="Sign in"><span class="signin-sprite"></span>Sign in</a></li>
+                                        <li class="dropdown-item"><a href="https://hozonkai.org/" title="Create an Account"><span class="createaccount-sprite"></span> Create an Account</a>
                                         </li>
                                     </ul>
                 </div>
@@ -514,7 +514,7 @@ box-shadow: 0px 0px 3px #fff;
                                         <div class="main-slider-container">
                                             <div class="main-product-slider">
                                                 <div class="slide-item skelton">
-                                                                                                    <a class="skelton" data-fancybox="gallery" href="https://$$$$$$$$$$$$$$$$$$$/">
+                                                                                                    <a class="skelton" data-fancybox="gallery" href="https://hozonkai.org/">
                                                         <img data-fancybox="gallery" src="https://img.culanseng.org/storage/images/shiojitu/jagoanneon-22.webp" alt="SHIOJITU - Tujuan Akhir Pencarian Bandar Togel Terpercaya 2026">
                                                 </a>
                                                                                                 </div>
@@ -552,7 +552,7 @@ box-shadow: 0px 0px 3px #fff;
   <div class="product-article card shadow-sm p-4 rounded">
     <div class="card-body">
       <p style="text-align: justify; color: #080808;">
-<a href="https://$$$$$$$$$$$$$$$$$$$/" style="color: #e5c409; text-decoration: none;">BAGI</a> para pecinta togel nusantara perkenalkan SHIOJITU situs bandar togel online terpercaya, dengan layanan pelanggan 24 jam, proses transaksi yang cepat menjadi tujuan para pecinta togel nusantara.
+<a href="https://hozonkai.org/" style="color: #e5c409; text-decoration: none;">BAGI</a> para pecinta togel nusantara perkenalkan SHIOJITU situs bandar togel online terpercaya, dengan layanan pelanggan 24 jam, proses transaksi yang cepat menjadi tujuan para pecinta togel nusantara.
 </p>
 
 <p style="text-align: justify; color: #080808;">
@@ -569,7 +569,7 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
                             <div class="single-product-content">                    
                                 <div class="head-content">
                                     <div class="d-flex brand-name">
-                                        <a title="Brand:SHIOJITU" class="d-block"  href="https://$$$$$$$$$$$$$$$$$$$/">SHIOJITU</a>    
+                                        <a title="Brand:SHIOJITU" class="d-block"  href="https://hozonkai.org/">SHIOJITU</a>    
                                     </div>
                                     <p class="h5 font-weight-light brand-name  " >
                                     
@@ -751,12 +751,12 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
 
                                            <div class="seller-info fs-6 mt-3 "> Powered by : <a
                                             class="seller-modal-link font-normal theme-color" data-bs-toggle="modal"
-                                            data-bs-target="#seller-info" href="https://$$$$$$$$$$$$$$$$$$$/">
+                                            data-bs-target="#seller-info" href="https://hozonkai.org/">
                                             SHIOJITU</a>
                                     </div>
                                    <div class="prime-text ">
                                         Note: Pastikan ada login ke situs shiojitu resmi. <a class="font-normal theme-color"
-                                            href="https://shiojitu-elx.pages.dev/tujuanakhirpecintatogel/amp"
+                                            href="https://amp.hozonkai.org/"
                                             target="_blank">KLIK DISINI</a>.
                                     </div>
                                 </div>
@@ -830,12 +830,12 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
     </div>
 
     <!-- Tombol DAFTAR dengan link -->
-    <a href="https://shiojitu-elx.pages.dev/tujuanakhirpecintatogel/amp" target="_blank" class="btn add-to-cart-btn" id="add-to-cart-btn">
+    <a href="https://amp.hozonkai.org/" target="_blank" class="btn add-to-cart-btn" id="add-to-cart-btn">
         DAFTAR
     </a>
 
     <!-- Tombol LOGIN dengan link -->
-    <a href="https://shiojitu-elx.pages.dev/tujuanakhirpecintatogel/amp" target="_blank" class="btn buy-now-btn" id="buy-now-btn">
+    <a href="https://amp.hozonkai.org/" target="_blank" class="btn buy-now-btn" id="buy-now-btn">
         LOGIN
     </a>
 
@@ -884,36 +884,36 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
                         </div>
                         <hr>
                         <ul>
-                            <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                            <li><a href="https://hozonkai.org/"
                                     title="About Us SHIOJITU">About Us SHIOJITU</a></li>
-                            <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                            <li><a href="https://hozonkai.org/"
                                     title="Contact Us SHIOJITU">Contact Us SHIOJITU</a></li>
-                            <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                            <li><a href="https://hozonkai.org/"
                                     title="Quotation Request">Quotation Request</a>
                             </li>
-                            <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                            <li><a href="https://hozonkai.org/"
                                     title="Intellectual Property">Intellectual Property</a>
                             </li>
-                            <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                            <li><a href="https://hozonkai.org/"
                                     title="Sitemap">Sitemap</a></li>
-                            <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                            <li><a href="https://hozonkai.org/"
                                     title="Track Order">Track Order</a></li>
-                            <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                            <li><a href="https://hozonkai.org/"
                                     title="Customs tariffs and fees">Customs tariffs and fees</a>
                             </li>
-                            <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                            <li><a href="https://hozonkai.org/"
                                     title="Shipping Policy">Shipping Policy</a>
                             </li>
-                            <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                            <li><a href="https://hozonkai.org/"
                                     title="Micro Influencer">Micro Influencer</a>
                             </li>
-                                                        <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                                                        <li><a href="https://hozonkai.org/"
                                     title="Ubuy Membership">Ubuy Membership</a>
                             </li>
-                                                        <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                                                        <li><a href="https://hozonkai.org/"
                                     title="Ubuy Warranty">Ubuy Warranty</a>
                             </li>
-                            <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                            <li><a href="https://hozonkai.org/"
                                     title="Healthcare Disclaimer">Healthcare Disclaimer</a>
                             </li>
                                                     </ul>
@@ -924,25 +924,25 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
                         </div>
                         <hr>
                         <ul>
-                            <li class="m-0"><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                            <li class="m-0"><a href="https://hozonkai.org/"
                                     title="Download App SHIOJITU">Download App SHIOJITU</a></li>
-                            <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                            <li><a href="https://hozonkai.org/"
                                     title="Brands List">Brands List</a>
                             </li>
-                                                        <li class="m-0"><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                                                        <li class="m-0"><a href="https://hozonkai.org/"
                                     title="Customer Reviews">Customer Reviews</a>
                             </li>
-                            <li class="m-0"><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                            <li class="m-0"><a href="https://hozonkai.org/"
                                     title="Return Policy">Return Policy</a>
                             </li>
-                                                        <li class="m-0"><a target="_blank" href="https://$$$$$$$$$$$$$$$$$$$/"
+                                                        <li class="m-0"><a target="_blank" href="https://hozonkai.org/"
                                     title="Blog">Blog</a></li>
-                            <li class="m-0"><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                            <li class="m-0"><a href="https://hozonkai.org/"
                                     title="FAQ">FAQ</a></li>
-                                                        <li class="m-0"><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                                                        <li class="m-0"><a href="https://hozonkai.org/"
                                     title="About Ucredit">About Ucredit</a>
                             </li>
-                            <li class="m-0"><a target="_blank" href="https://$$$$$$$$$$$$$$$$$$$/"
+                            <li class="m-0"><a target="_blank" href="https://hozonkai.org/"
                                     title="SHIOJITU Affiliates">SHIOJITU Affiliates</a>
                             </li>
                             
@@ -1004,22 +1004,22 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
                         </div>
                         <hr>
                        <ul class="mb-0">
-                                                        <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                                                        <li><a href="https://hozonkai.org/"
                                     title="SHIOJITU">SHIOJITU</a></li>
-                                                        <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                                                        <li><a href="https://hozonkai.org/"
                                     title="TOGEL ONLINE">TOGEL ONLINE</a></li>
-                                                        <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                                                        <li><a href="https://hozonkai.org/"
                                     title="SITUS TOGEL">SITUS TOGEL</a></li>
-                                                        <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                                                        <li><a href="https://hozonkai.org/"
                                     title="BANDAR TOGEL ONLINE TERPERCAYA">BANDAR TOGEL ONLINE TERPERCAYA</a></li>
-                                                        <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                                                        <li><a href="https://hozonkai.org/"
                                     title="PREDIKSI TOGEL JITU">PREDIKSI TOGEL JITU</a></li>
-                                                        <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                                                        <li><a href="https://hozonkai.org/"
                                     title="TOGEL HKB">TOGEL HKB</a></li>
-                                                        <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                                                        <li><a href="https://hozonkai.org/"
                                     title="BANDAR TOGEL TERPERCAYA">BANDAR TOGEL TERPERCAYA</a></li>                                
                                                     </ul>  
-                        <a href="https://$$$$$$$$$$$$$$$$$$$/" class="view_more_cities text-dark"
+                        <a href="https://hozonkai.org/" class="view_more_cities text-dark"
                         title="View more cities">View More Cities <i
                             class="fa-solid fa-angle-right"></i></a>   
                     </div>
@@ -1035,7 +1035,7 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
                                     href="https://ubys.us/apps/?type=apps&utm_source=inhd-ubapp&utm_medium=ubuy-website-abroad&utm_term=bottom-icon&utm_campaign=app-install-ubuy-abroad-web-BTM"
                                     target="_blank"></a><a class="play-store d-none m-0"
                                     aria-label="Play Store"
-                                    href="https://$$$$$$$$$$$$$$$$$$$/&referrer=utm_source%3Dinhd-ubapp%26utm_medium%3Dubuy-website-abroad%26utm_term%3Dbottom-icon%26utm_campaign%3Dapp-install-ubuy-abroad-web-BTM"
+                                    href="https://hozonkai.org/&referrer=utm_source%3Dinhd-ubapp%26utm_medium%3Dubuy-website-abroad%26utm_term%3Dbottom-icon%26utm_campaign%3Dapp-install-ubuy-abroad-web-BTM"
                                     target="_blank"></a>
                             </div>
                         </div>
@@ -1052,7 +1052,7 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
                             style="font-size: 16px; color: #666; font-weight:bold;">
                             POWERED BY SHIOJITU</p>
                         <div class="ftrisoimg_con d-flex gap-4 align-items-center mt-2">
-                            <a href="https://$$$$$$$$$$$$$$$$$$$/" title="PCI DSS" target="_blank">
+                            <a href="https://hozonkai.org/" title="PCI DSS" target="_blank">
                                 <img width="100" height="30"
                                     src="https://d2ati23fc66y9j.cloudfront.net/ubuycom-v1/images/loading.gif" 
                                     data-src="https://shiojitu-elx.pages.dev/shiojitu/9bb2d567-3097-4fc4-a2c7-aec04e501c94.png"
@@ -1077,15 +1077,15 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
                         </div>
                         <div class="col-md-12 col-sm-12 col-lg-6 col-12">
                             <ul class="footer-menu">
-                                <li class="no-content"><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                                <li class="no-content"><a href="https://hozonkai.org/"
                                         title="Terms & Conditions">Terms & Conditions</a>
                                 </li>
-                                <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                                <li><a href="https://hozonkai.org/"
                                         title="Privacy Policy">Privacy Policy</a>
                                 </li>
-                                <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                                <li><a href="https://hozonkai.org/"
                                         title="About Us">About Us</a></li>
-                                <li><a href="https://$$$$$$$$$$$$$$$$$$$/"
+                                <li><a href="https://hozonkai.org/"
                                         title="Contact Us">Contact Us</a></li>
                             </ul>
                         </div>
@@ -1093,15 +1093,15 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
                             <div class="followus d-flex justify-content-start">
                                 <span class="mr-5">Follow Us</span>
                                 <div class="social-footer">
-                                    <a href="https://$$$$$$$$$$$$$$$$$$$/" title="Facebook" target="_blank"><i
+                                    <a href="https://hozonkai.org/" title="Facebook" target="_blank"><i
                                             class="fa-brands fa-facebook-f"></i></a>
-                                    <a href="https://$$$$$$$$$$$$$$$$$$$/" title="Instagram"
+                                    <a href="https://hozonkai.org/" title="Instagram"
                                         target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                                    <a href="https://$$$$$$$$$$$$$$$$$$$/" title="Youtube"
+                                    <a href="https://hozonkai.org/" title="Youtube"
                                         target="_blank"><i class="fa-brands fa-youtube"></i></a>
-                                    <a href="https://$$$$$$$$$$$$$$$$$$$/" title="Twitter"
+                                    <a href="https://hozonkai.org/" title="Twitter"
                                         target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
-                                    <a href="https://$$$$$$$$$$$$$$$$$$$/" title="Pinterest"
+                                    <a href="https://hozonkai.org/" title="Pinterest"
                                         target="_blank"><i class="fa-brands fa-pinterest"></i></a>
                                 </div>
                             </div>
@@ -1174,7 +1174,7 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
     
             function getCartData() {
             jQuery.ajax({
-                url: "https://$$$$$$$$$$$$$$$$$$$/",
+                url: "https://hozonkai.org/",
                 dataType: 'html',
                 type: 'GET',
                 data: {
@@ -1338,7 +1338,7 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
         }
         if (shop_cat_loader.length > 0) {
             isFetchingCat = jQuery.ajax({
-                url: "https://$$$$$$$$$$$$$$$$$$$/",
+                url: "https://hozonkai.org/",
                 type: 'GET',
                 data: post_data,
                 dataType: 'html',
@@ -1360,7 +1360,7 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
         exploreGtmEvent("explore_brand", "desktop");
         if (shop_cat_loader.length > 0) {
             isFetchingBrand = jQuery.ajax({
-                url: "https://$$$$$$$$$$$$$$$$$$$/",
+                url: "https://hozonkai.org/",
                 type: 'GET',
                 data: {
                     s_id: '122',
@@ -1393,7 +1393,7 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
             post_data.current_active_store = 'us';
         }
         isFetchingCat = jQuery.ajax({
-            url: "https://$$$$$$$$$$$$$$$$$$$/",
+            url: "https://hozonkai.org/",
             type: 'GET',
             data: post_data,
             dataType: 'html',
@@ -1457,7 +1457,7 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
         if (jQuery("#searchRelatedProducts").length > 0) {
             jQuery(document).on('click', '#searchRelatedProducts', function() {
                 if (typeof customEvent === "function") {
-                    var product_url = 'https://$$$$$$$$$$$$$$$$$$$/';
+                    var product_url = 'https://hozonkai.org/';
                     var ecommerceData = {
                         url: product_url
                     };
@@ -1481,7 +1481,7 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
                     trustpilot: true                }
                 gtm_data = btoa(JSON.stringify(gtm_data));
                 jQuery.ajax({
-                    url: "https://$$$$$$$$$$$$$$$$$$$/",
+                    url: "https://hozonkai.org/",
                     type: "GET",
                     dataType: "html",
                     headers: {
@@ -1539,14 +1539,14 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
   "@graph": [
     {
       "@type": "Product",
-      "@id": "https://$$$$$$$$$$$$$$$$$$$/",
+      "@id": "https://hozonkai.org/",
       "name": "SHIOJITU - Tujuan Akhir Pencarian Bandar Togel Terpercaya 2026",
       "image": [
         "https://shiojitu-elx.pages.dev/shiojitu/9bb2d567-3097-4fc4-a2c7-aec04e501c94.png",
         "https://img.culanseng.org/storage/images/shiojitu/jagoanneon-22.webp"
       ],
       "description": "Bagi para pecinta togel nusantara perkenalkan SHIOJITU situs bandar togel online terpercaya, dengan layanan pelanggan 24 jam, proses transaksi yang cepat menjadi tujuan para pecinta togel nusantara.",
-      "url": "https://$$$$$$$$$$$$$$$$$$$/",
+      "url": "https://hozonkai.org/",
       "brand": {
         "@type": "Brand",
         "name": "SHIOJITU"
@@ -1556,7 +1556,7 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
         "priceCurrency": "IDR",
         "price": "10000",
         "availability": "https://schema.org/InStock",
-        "url": "https://$$$$$$$$$$$$$$$$$$$/"
+        "url": "https://hozonkai.org/"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -1601,7 +1601,7 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
     "@context": "https://schema.org",
     "@type": "SiteNavigationElement",
     "name": "SHIOJITU - Tujuan Akhir Pencarian Bandar Togel Terpercaya 2026",
-    "url": "https://$$$$$$$$$$$$$$$$$$$/"
+    "url": "https://hozonkai.org/"
     }
 </script>
 <script type="application/ld+json">
@@ -1613,49 +1613,49 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
       "@type": "ListItem",
       "position": 1,
       "name": "LINK SHIOJITU",
-      "item": "https://$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://hozonkai.org/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "BANDAR TOGEL",
-      "item": "https://$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://hozonkai.org/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SHIOJITU",
-      "item": "https://$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://hozonkai.org/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "TOGEL ONLINE",
-      "item": "https://$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://hozonkai.org/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "BANDAR TOGEL TERPERCAYA",
-      "item": "https://$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://hozonkai.org/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "SITUS TOGEL ONLINE",
-      "item": "https://$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://hozonkai.org/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "PREDIKSI TOGEL JITU",
-      "item": "https://$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://hozonkai.org/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "SHIOJITU - Tujuan Akhir Pencarian Bandar Togel Terpercaya 2026",
-      "item": "https://$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://hozonkai.org/"
     }
   ]
 }
@@ -1669,7 +1669,7 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
   "image": [
     "https://img.culanseng.org/storage/images/shiojitu/jagoanneon-22.webp"
   ],
-  "url": "https://$$$$$$$$$$$$$$$$$$$/",
+  "url": "https://hozonkai.org/",
   "telephone": "+62-852-0952-1345",
   "priceRange": "IDR",
   "address": {
@@ -1745,8 +1745,8 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
                     var uba_current_store = 'us';
                     var uba_current_active_store = 'us';
                                             var uba_customer_url = "https://www.ubuy.com.kh/ubuycom/pages/cft-v1/?s_id=122&type=72&id=73a01cbfac5d2a66db954f1962da1a52";
-                                        var uba_baseurl = "https://$$$$$$$$$$$$$$$$$$$/";
-                    var uba_weburl = "https://$$$$$$$$$$$$$$$$$$$/";
+                                        var uba_baseurl = "https://hozonkai.org/";
+                    var uba_weburl = "https://hozonkai.org/";
                     var isDetail = "1";
                     var uba_catId = "";
                     var uba_is_mobile = "0";
@@ -1886,27 +1886,27 @@ Platform ini berfokus pada kemudahan akses, proses pendaftaran yang sederhana, s
       </style>
      
      <div class="footer-floating-SHIOJITU">
-      <a href="https://shiojitu-elx.pages.dev/tujuanakhirpecintatogel/amp" class="footer-btn-SHIOJITU promo" target="_blank"
+      <a href="https://amp.hozonkai.org/" class="footer-btn-SHIOJITU promo" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://shiojitu-mari.com/assets/img/atv/favicon.png" alt="PROMOSI"> PROMO
             </a>
 
-      <a href="https://shiojitu-elx.pages.dev/tujuanakhirpecintatogel/amp" class="footer-btn-SHIOJITU login" target="_blank"
+      <a href="https://amp.hozonkai.org/" class="footer-btn-SHIOJITU login" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://shiojitu-mari.com/assets/img/atv/favicon.png" alt="Login"> LOGIN
             </a>
 
-      <a href="https://shiojitu-elx.pages.dev/tujuanakhirpecintatogel/amp" class="footer-btn-SHIOJITU daftar" target="_blank"
+      <a href="https://amp.hozonkai.org/" class="footer-btn-SHIOJITU daftar" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://shiojitu-mari.com/assets/img/atv/favicon.png" alt="Daftar"> DAFTAR
             </a>
 
-      <a href="https://shiojitu-elx.pages.dev/tujuanakhirpecintatogel/amp" class="footer-btn-SHIOJITU link" target="_blank"
+      <a href="https://amp.hozonkai.org/" class="footer-btn-SHIOJITU link" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://shiojitu-mari.com/assets/img/atv/favicon.png" alt="WhatsApp"> WHATSAPP
             </a>
 
-      <a href="https://shiojitu-elx.pages.dev/tujuanakhirpecintatogel/amp" class="footer-btn-SHIOJITU chat" target="_blank"
+      <a href="https://amp.hozonkai.org/" class="footer-btn-SHIOJITU chat" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://shiojitu-mari.com/assets/img/atv/favicon.png" alt="Live Chat"> LIVE CHAT
             </a>
