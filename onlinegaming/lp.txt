@@ -9,13 +9,13 @@
     <meta content="SHIOJITU memulai perjalanan dari situs online gaming biasa menjadi online gaming nomor 1 di indonesia saat ini tidak luput dari dukungan para member setia SHIOJITU." name="description" />
     <meta property="og:title" content="SHIOJITU | Perjalanan Menjadi Online Gaming Nomor 1 di Indonesia">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://$$$$$$$$$$$$$$$$$$$$$/">
-    <link rel="canonical" href="https://$$$$$$$$$$$$$$$$$$$$$/" />
-    <link rel="amphtml" href="https://shiojitu-elx.pages.dev/onlinegaming/amp">
-    <link rel="alternate" hreflang="id-id" href="https://shiojitu-elx.pages.dev/onlinegaming/amp"/>
-    <link rel="alternate" hreflang="id" href="https://shiojitu-elx.pages.dev/onlinegaming/amp"/>
-    <link rel="alternate" href="https://shiojitu-elx.pages.dev/onlinegaming/amp"/>
-    <link rel="alternate" hreflang="en" href="https://shiojitu-elx.pages.dev/onlinegaming/amp"/>
+    <meta property="og:url" content="https://ptechnicians.com/">
+    <link rel="canonical" href="https://ptechnicians.com/" />
+    <link rel="amphtml" href="https://amp.ptechnicians.com/">
+    <link rel="alternate" hreflang="id-id" href="https://amp.ptechnicians.com/"/>
+    <link rel="alternate" hreflang="id" href="https://amp.ptechnicians.com/"/>
+    <link rel="alternate" href="https://amp.ptechnicians.com/"/>
+    <link rel="alternate" hreflang="en" href="https://amp.ptechnicians.com/"/>
     <meta property="og:site_name" content="SHIOJITU">
     <meta property="og:description" content="SHIOJITU memulai perjalanan dari situs online gaming biasa menjadi online gaming nomor 1 di indonesia saat ini tidak luput dari dukungan para member setia SHIOJITU.">
     <meta property="og:image" content="https://img.culanseng.org/storage/images/shiojitu/jagoanneon-25.webp"/>
@@ -53,10 +53,10 @@
   "@graph": [
     {
       "@type": "Brand",
-      "@id": "https://$$$$$$$$$$$$$$$$$$$$$/#brand-SHIOJITU",
+      "@id": "https://ptechnicians.com/#brand-SHIOJITU",
       "name": "SHIOJITU",
       "description": "SHIOJITU Melalui jalur premium yang disediakan, pengguna dapat menikmati proses akses yang lebih efisien tanpa perlu membuka browser setiap kali ingin masuk ke akun.",
-      "url": "https://$$$$$$$$$$$$$$$$$$$$$/",
+      "url": "https://ptechnicians.com/",
       "logo": "https://shiojitu-elx.pages.dev/shiojitu/shiojitu_logo_animated.gif",
       "slogan": "SHIOJITU | Perjalanan Menjadi Online Gaming Nomor 1 di Indonesia",
       "sameAs": [
@@ -67,15 +67,15 @@
     },
     {
       "@type": "Organization",
-      "@id": "https://$$$$$$$$$$$$$$$$$$$$$/#organization-SHIOJITU",
+      "@id": "https://ptechnicians.com/#organization-SHIOJITU",
       "name": "SHIOJITU",
-      "url": "https://$$$$$$$$$$$$$$$$$$$$$/",
+      "url": "https://ptechnicians.com/",
       "logo": {
         "@type": "ImageObject",
         "url": "https://shiojitu-mari.com/assets/img/atv/favicon.png"
       },
       "brand": {
-        "@id": "https://$$$$$$$$$$$$$$$$$$$$$/#brand-SHIOJITU"
+        "@id": "https://ptechnicians.com/#brand-SHIOJITU"
       },
       "contactPoint": {
         "@type": "ContactPoint",
@@ -98,49 +98,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Beranda SHIOJITU",
-      "item": "https://$$$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://ptechnicians.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Server Ringan",
-      "item": "https://$$$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://ptechnicians.com/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Lobi Utama",
-      "item": "https://$$$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://ptechnicians.com/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Akses Bebas Lag",
-      "item": "https://$$$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://ptechnicians.com/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "Transmisi Cepat",
-      "item": "https://$$$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://ptechnicians.com/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "Panduan Anti Lelet",
-      "item": "https://$$$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://ptechnicians.com/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "Hiburan Digital",
-      "item": "https://$$$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://ptechnicians.com/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "SHIOJITU | Perjalanan Menjadi Online Gaming Nomor 1 di Indonesia",
-      "item": "https://$$$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://ptechnicians.com/"
     }
   ]
 }
@@ -7218,7 +7218,7 @@
                     <small>Cari Game Online, Panduan, dan Fitur SHIOJITU</small>
                 </div>
                 <div class="modal-body" style="height:85px">
-                    <form class="topmenusearch" method="get" action="https://shiojitu-elx.pages.dev/onlinegaming/amp">
+                    <form class="topmenusearch" method="get" action="https://amp.ptechnicians.com/">
                         <input name="filter" placeholder="Cari game animasi, panduan akun, fitur, dan info SHIOJITU">
                         <button class="btnstyle"><i class="searchicon fa fa-search" aria-hidden="true"></i></button>
                     </form>
@@ -7234,14 +7234,14 @@
         <div class="wsmobileheader clearfix">
 
             <a id="wsnavtoggle" class="animated-arrow"><span></span></a> <a class="smallogo"
-                href="https://shiojitu-elx.pages.dev/onlinegaming/amp"><img
+                href="https://amp.ptechnicians.com/"><img
                     src="https://shiojitu-elx.pages.dev/shiojitu/shiojitu_logo_animated.gif" alt="SHIOJITU" /></a>
 
-            <a class="callusicon2" href="https://shiojitu-elx.pages.dev/onlinegaming/amp" data-toggle="modal" data-target="#searchcolumn"> <i class="fa fa-search"
+            <a class="callusicon2" href="https://amp.ptechnicians.com/" data-toggle="modal" data-target="#searchcolumn"> <i class="fa fa-search"
                     style="color:#FFD700;margin-left:-40px"></i> </a>
-            <a class="callusicon2" href="https://shiojitu-elx.pages.dev/onlinegaming/amp"> <i class="fa fa-user"></i>
+            <a class="callusicon2" href="https://amp.ptechnicians.com/"> <i class="fa fa-user"></i>
             </a>
-            <a class="callusicon" href="https://shiojitu-elx.pages.dev/onlinegaming/amp"> <i
+            <a class="callusicon" href="https://amp.ptechnicians.com/"> <i
                     class="fa fa-shopping-basket"></i>
                 <em class="roundpoint2">0</em> </a>
 
@@ -7254,27 +7254,27 @@
                     <div class="headerwp">
                         <div class="headertopleft">
                             <div class="address clearfix"><span><i class="fa fa-" aria-hidden="true"></i> <a
-                                        href="https://shiojitu-elx.pages.dev/onlinegaming/amp">Link Alternatif SHIOJITU Resmi</a>
+                                        href="https://amp.ptechnicians.com/">Link Alternatif SHIOJITU Resmi</a>
                                     &nbsp;&nbsp; | </span> Aplikasi Paling Mudah Akses <i class="fa fa-phone"
-                                    aria-hidden="true"></i> <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" rel="nofollow noopener"
+                                    aria-hidden="true"></i> <a href="https://amp.ptechnicians.com/" rel="nofollow noopener"
                                     target="_blank">LIVECHAT ANTI LEMOT 24 JAM</a>
                                 <i class="fa fa-mobile" aria-hidden="true" style="font-size:14px;"></i> <a
-                                    href="https://shiojitu-elx.pages.dev/onlinegaming/amp" rel="nofollow noopener" target="_blank">INFO KOMUNITAS
+                                    href="https://amp.ptechnicians.com/" rel="nofollow noopener" target="_blank">INFO KOMUNITAS
                                     SHIOJITU</a>
                             </div>
                         </div>
                         <div class="headertopright hidden-xs">
                             <a class="facebookicon" title="Facebook"
-                                href="https://shiojitu-elx.pages.dev/onlinegaming/amp" target="_blank"><i
+                                href="https://amp.ptechnicians.com/" target="_blank"><i
                                     aria-hidden="true" class="fa fa-facebook"></i>
                                 <span class="mobiletext02">Facebook</span></a>
 
                             <a class="instagramicon" title="Twitter"
-                                href="https://shiojitu-elx.pages.dev/onlinegaming/amp" target="_blank"><i
+                                href="https://amp.ptechnicians.com/" target="_blank"><i
                                     aria-hidden="true" class="fa fa-instagram"></i>
                                 <span class="mobiletext02">Instagram</span></a>
 
-                            <a class="googleicon" title="Google" href="https://shiojitu-elx.pages.dev/onlinegaming/amp"
+                            <a class="googleicon" title="Google" href="https://amp.ptechnicians.com/"
                                 target="_blank"><i aria-hidden="true" class="fa fa-google"></i>
                                 <span class="mobiletext02">Google</span></a>
                         </div>
@@ -7292,7 +7292,7 @@
 
 
                     <div class="wsmain">
-                        <div class="smllogo"><a href="https://shiojitu-elx.pages.dev/onlinegaming/amp"><img
+                        <div class="smllogo"><a href="https://amp.ptechnicians.com/"><img
                                     src="https://shiojitu-elx.pages.dev/shiojitu/shiojitu_logo_animated.gif"
                                     alt="SHIOJITU" /></a></div>
 
@@ -7302,18 +7302,18 @@
 
                                 <li class="wssearchbar clearfix">
                                     <form class="topmenusearch" method="get"
-                                        action="https://shiojitu-elx.pages.dev/onlinegaming/amp">
+                                        action="https://amp.ptechnicians.com/">
                                         <input name="filter" placeholder="CARI GAME ONLINE SHIOJITU">
                                         <button class="btnstyle"><i class="searchicon fa fa-search"
                                                 aria-hidden="true"></i></button>
                                     </form>
                                 </li>
                                 <li class="wscarticon clearfix"> <a
-                                        href="https://shiojitu-elx.pages.dev/onlinegaming/amp"><i
+                                        href="https://amp.ptechnicians.com/"><i
                                             class="fa fa-shopping-basket"></i> <em class="roundpoint">0</em><span
                                             class="mobiletext">Menu Hiburan</span></a> </li>
                                 <li class="wsshopmyaccount clearfix">
-                                    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" rel="nofollow noopener" class="wtxaccountlink"
+                                    <a href="https://amp.ptechnicians.com/" rel="nofollow noopener" class="wtxaccountlink"
                                         style="font-size:13px;"><i class="fa fa-user"></i> Login / Register</a>
                                 </li>
                             </ul>
@@ -7361,9 +7361,9 @@
 
                     <div class="prod_main" style="margin-bottom:20px; background-color:#0f172a;">
                         <!-- Warna background disesuaikan dengan tema Cyber Samurai -->
-                        <small><a href="https://shiojitu-elx.pages.dev/onlinegaming/amp">SHIOJITU AKSES PREMIUM</a> > <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp">SHIOJITU</a> > <a
-                                    href="https://shiojitu-elx.pages.dev/onlinegaming/amp">SHIOJITU JALUR UTAMA</a> > <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp">SHIOJITU LOBI PREMIUM</a> >
-                            <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp">SHIOJITU 24 JAM</a>
+                        <small><a href="https://amp.ptechnicians.com/">SHIOJITU AKSES PREMIUM</a> > <a href="https://amp.ptechnicians.com/">SHIOJITU</a> > <a
+                                    href="https://amp.ptechnicians.com/">SHIOJITU JALUR UTAMA</a> > <a href="https://amp.ptechnicians.com/">SHIOJITU LOBI PREMIUM</a> >
+                            <a href="https://amp.ptechnicians.com/">SHIOJITU 24 JAM</a>
                         </small>
                         <h1 style="color: #e0f2fe !important;">SHIOJITU | Perjalanan Menjadi Online Gaming Nomor 1 di Indonesia</h1>
                         <div style="background:rgba(15,23,42,.96) !important; color:#e0f2fe !important; opacity:1 !important; padding:20px !important; position:relative !important; z-index:99999 !important; filter:none !important;">
@@ -7425,14 +7425,14 @@ SHIOJITU Memulai perjalanan dari situs online gaming biasa menjadi online gaming
 
                         <!-- Tombol Login & Daftar -->
                         <div style="text-align:center; margin-top:20px;">
-                            <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" rel="nofollow noopener" target="_blank" style="text-decoration:none;">
+                            <a href="https://amp.ptechnicians.com/" rel="nofollow noopener" target="_blank" style="text-decoration:none;">
                                 <button class="btn"
                                     style="background:linear-gradient(135deg,#ffd35a,#ff8a00); color:#160021; font-weight:800; padding:10px 25px; border:none; border-radius:5px; margin-right:10px; cursor:pointer;">
                                     <i class="fa fa-sign-in" style="margin-right:5px;"></i> MULAI BERMAIN
                                 </button>
                             </a>
 
-                            <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" rel="nofollow noopener" target="_blank" style="text-decoration:none;">
+                            <a href="https://amp.ptechnicians.com/" rel="nofollow noopener" target="_blank" style="text-decoration:none;">
                                 <button class="btn"
                                     style="background:linear-gradient(135deg,#8a1dd7,#d84cff); color:#ffffff; font-weight:800; padding:10px 25px; border:none; border-radius:5px; cursor:pointer;">
                                     <i class="fa fa-user-plus" style="margin-right:5px;"></i> MASUK SHIOJITU
@@ -7467,8 +7467,8 @@ SHIOJITU Memulai perjalanan dari situs online gaming biasa menjadi online gaming
                         <h2 style="color: #e0f2fe !important;">Deskripsi SHIOJITU</h2>
                         <div class="pdesc">
 
-                            <p style="text-align: justify; color: #e0f2fe !important;"><strong> <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp">SHIOJITU</a></strong> Memulai perjalanan dari situs online gaming biasa menjadi online gaming nomor 1 di indonesia saat ini tidak luput dari dukungan para member setia SHIOJITU.</p>
-                            <p style="text-align: justify; color: #e0f2fe !important;"> <strong> <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp">SHIOJITU DAFTAR</a></strong> Perjalanan industri game digital juga menunjukkan bagaimana teknologi telah mengubah cara masyarakat menikmati hiburan. Jika dahulu permainan hanya tersedia melalui konsol atau komputer tertentu, kini hampir semua orang dapat mengaksesnya langsung melalui smartphone maupun perangkat lainnya. Kemudahan inilah yang membuat game digital menjadi salah satu hiburan favorit masyarakat modern karena dapat dimainkan di mana saja dan kapan saja. Selain menawarkan hiburan, platform digital juga menghadirkan ruang bagi para pengguna untuk membangun komunitas, berbagi pengalaman, hingga mengikuti perkembangan tren terbaru di dunia game. Interaksi yang terjalin membuat pengalaman bermain terasa lebih hidup dan tidak sekadar menjadi aktivitas individu. Banyak pemain yang menjadikan game sebagai sarana bersosialisasi sekaligus mengisi waktu luang secara lebih menyenangkan.</p>
+                            <p style="text-align: justify; color: #e0f2fe !important;"><strong> <a href="https://amp.ptechnicians.com/">SHIOJITU</a></strong> Memulai perjalanan dari situs online gaming biasa menjadi online gaming nomor 1 di indonesia saat ini tidak luput dari dukungan para member setia SHIOJITU.</p>
+                            <p style="text-align: justify; color: #e0f2fe !important;"> <strong> <a href="https://amp.ptechnicians.com/">SHIOJITU DAFTAR</a></strong> Perjalanan industri game digital juga menunjukkan bagaimana teknologi telah mengubah cara masyarakat menikmati hiburan. Jika dahulu permainan hanya tersedia melalui konsol atau komputer tertentu, kini hampir semua orang dapat mengaksesnya langsung melalui smartphone maupun perangkat lainnya. Kemudahan inilah yang membuat game digital menjadi salah satu hiburan favorit masyarakat modern karena dapat dimainkan di mana saja dan kapan saja. Selain menawarkan hiburan, platform digital juga menghadirkan ruang bagi para pengguna untuk membangun komunitas, berbagi pengalaman, hingga mengikuti perkembangan tren terbaru di dunia game. Interaksi yang terjalin membuat pengalaman bermain terasa lebih hidup dan tidak sekadar menjadi aktivitas individu. Banyak pemain yang menjadikan game sebagai sarana bersosialisasi sekaligus mengisi waktu luang secara lebih menyenangkan.</p>
                             
                         </div>
                     </div>
@@ -7513,7 +7513,7 @@ SHIOJITU Memulai perjalanan dari situs online gaming biasa menjadi online gaming
                         <h2>Ringkasan Jalur Akses SHIOJITU</h2>
                         <p class="section-intro">Simak rangkuman keunggulan akses premium SHIOJITU di bawah ini.</p>
 
-                        <form id="formCart" action="https://shiojitu-elx.pages.dev/onlinegaming/amp" method="POST">
+                        <form id="formCart" action="https://amp.ptechnicians.com/" method="POST">
                             <input type="hidden" name="kotaAsal" value="Jalur Premium">
                             <input type="hidden" name="qty" value="Akses Mobile dan Desktop">
                             <input type="hidden" name="id" value="6804">
@@ -7544,8 +7544,8 @@ SHIOJITU Memulai perjalanan dari situs online gaming biasa menjadi online gaming
                             </div>
 
                             <div class="access-cta-row">
-                                <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" class="btn add_to_cart" rel="nofollow noopener noreferrer" target="_blank"><i class="fa fa-check" style="font-size:15px;margin-right:2px;"></i>LOGIN</a>
-                                <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" class="btn add_to_checkout" rel="nofollow noopener noreferrer" target="_blank"><i class="fa fa-shopping-basket" style="font-size:15px;margin-right:2px;"></i>DAFTAR</a>
+                                <a href="https://amp.ptechnicians.com/" class="btn add_to_cart" rel="nofollow noopener noreferrer" target="_blank"><i class="fa fa-check" style="font-size:15px;margin-right:2px;"></i>LOGIN</a>
+                                <a href="https://amp.ptechnicians.com/" class="btn add_to_checkout" rel="nofollow noopener noreferrer" target="_blank"><i class="fa fa-shopping-basket" style="font-size:15px;margin-right:2px;"></i>DAFTAR</a>
                             </div>
 
                             <div class="section-marketplace clean-marketplace">
@@ -7553,19 +7553,19 @@ SHIOJITU Memulai perjalanan dari situs online gaming biasa menjadi online gaming
                                 <div class="marketplace-grid">
                                     <div class="marketplace-item">
                                         <img src="https://shiojitu-elx.pages.dev/shiojitu/shiojitu-slot.gif" alt="Icon game animasi SHIOJITU" class="img-responsive">
-                                        <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" class="btn btn-marketplace-off" rel="nofollow noopener noreferrer" target="_blank"><i class="fa fa-check" style="font-size:15px;margin-right:2px;"></i>GAME ANIMASI</a>
+                                        <a href="https://amp.ptechnicians.com/" class="btn btn-marketplace-off" rel="nofollow noopener noreferrer" target="_blank"><i class="fa fa-check" style="font-size:15px;margin-right:2px;"></i>GAME ANIMASI</a>
                                     </div>
                                     <div class="marketplace-item">
                                         <img src="https://shiojitu-elx.pages.dev/shiojitu/shiojitu-slot.gif" alt="Icon event hiburan SHIOJITU" class="img-responsive">
-                                        <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" class="btn btn-marketplace-off" rel="nofollow noopener noreferrer" target="_blank"><i class="fa fa-check" style="font-size:15px;margin-right:2px;"></i>EVENT HIBURAN</a>
+                                        <a href="https://amp.ptechnicians.com/" class="btn btn-marketplace-off" rel="nofollow noopener noreferrer" target="_blank"><i class="fa fa-check" style="font-size:15px;margin-right:2px;"></i>EVENT HIBURAN</a>
                                     </div>
                                     <div class="marketplace-item">
                                         <img src="https://shiojitu-elx.pages.dev/shiojitu/shiojitu-slot.gif" alt="Icon akses cepat SHIOJITU" class="img-responsive">
-                                        <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" class="btn btn-marketplace-off" rel="nofollow noopener noreferrer" target="_blank"><i class="fa fa-check" style="font-size:15px;margin-right:2px;"></i>AKSES CEPAT</a>
+                                        <a href="https://amp.ptechnicians.com/" class="btn btn-marketplace-off" rel="nofollow noopener noreferrer" target="_blank"><i class="fa fa-check" style="font-size:15px;margin-right:2px;"></i>AKSES CEPAT</a>
                                     </div>
                                     <div class="marketplace-item">
                                         <img src="https://shiojitu-elx.pages.dev/shiojitu/shiojitu-slot.gif" alt="Icon bantuan online SHIOJITU" class="img-responsive">
-                                        <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" class="btn btn-marketplace-off" rel="nofollow noopener noreferrer" target="_blank"><i class="fa fa-check" style="font-size:15px;margin-right:2px;"></i>BANTUAN 24/7</a>
+                                        <a href="https://amp.ptechnicians.com/" class="btn btn-marketplace-off" rel="nofollow noopener noreferrer" target="_blank"><i class="fa fa-check" style="font-size:15px;margin-right:2px;"></i>BANTUAN 24/7</a>
                                     </div>
                                 </div>
                             </div>
@@ -7696,35 +7696,35 @@ SHIOJITU Memulai perjalanan dari situs online gaming biasa menjadi online gaming
             <div class="col-md-2">
                 <h4>AKSES SHIOJITU</h4>
                 <p class="foot_menu">
-                    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp">Masuk Akun</a>
+                    <a href="https://amp.ptechnicians.com/">Masuk Akun</a>
                 </p>
                 <p class="foot_menu">
-                    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" rel="nofollow noopener">Daftar SHIOJITU</a>
+                    <a href="https://amp.ptechnicians.com/" rel="nofollow noopener">Daftar SHIOJITU</a>
                 </p>
             </div>
 
             <div class="col-md-3">
                 <h4>PANDUAN GAME ONLINE</h4>
                 <p class="foot_menu">
-                    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp">Tentang SHIOJITU</a>
+                    <a href="https://amp.ptechnicians.com/">Tentang SHIOJITU</a>
                 </p>
                 <p class="foot_menu">
-                    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp">Bantuan Pengguna</a>
+                    <a href="https://amp.ptechnicians.com/">Bantuan Pengguna</a>
                 </p>
                 <p class="foot_menu">
-                    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp">Cara Mulai Bermain</a>
+                    <a href="https://amp.ptechnicians.com/">Cara Mulai Bermain</a>
                 </p>
                 <p class="foot_menu">
-                    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp">Panduan Akses Cepat</a>
+                    <a href="https://amp.ptechnicians.com/">Panduan Akses Cepat</a>
                 </p>
                 <p class="foot_menu">
-                    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp">Konfirmasi Data Akun</a>
+                    <a href="https://amp.ptechnicians.com/">Konfirmasi Data Akun</a>
                 </p>
                 <p class="foot_menu">
-                    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp">Aturan Layanan</a>
+                    <a href="https://amp.ptechnicians.com/">Aturan Layanan</a>
                 </p>
                 <p class="foot_menu">
-                    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp">Bantuan Pengguna</a>
+                    <a href="https://amp.ptechnicians.com/">Bantuan Pengguna</a>
                 </p>
                 <!--
     <p class="foot_menu">
@@ -7735,38 +7735,38 @@ SHIOJITU Memulai perjalanan dari situs online gaming biasa menjadi online gaming
 
             <div class="col-md-3">
                 <h4 style="margin-bottom:0">KOMUNITAS GAME</h4>
-                <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" target="_blank"><img
+                <a href="https://amp.ptechnicians.com/" target="_blank"><img
                         src="https://wahanasuperstore.com/asset/img/footer/new/FACEBOOK.gif"
                         style="width:60px;margin-left:-12px"></a>
-                <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" target="_blank"><img
+                <a href="https://amp.ptechnicians.com/" target="_blank"><img
                         src="https://wahanasuperstore.com/asset/img/footer/new/INSTAGRAM.gif"
                         style="width:60px;margin-left:-20px;"></a>
-                <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" target="_blank"><img
+                <a href="https://amp.ptechnicians.com/" target="_blank"><img
                         src="https://shiojitu-elx.pages.dev/shiojitu/shiojitu_logo_animated.gif"
                         style="width:35px;margin-left:-10px;"></a>
-                <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" target="_blank"><img
+                <a href="https://amp.ptechnicians.com/" target="_blank"><img
                         src="https://wahanasuperstore.com/asset/img/footer/new/Untitled-5.gif"
                         style="width:35px;margin-left:5px;"></a>
-                <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" target="_blank"><img
+                <a href="https://amp.ptechnicians.com/" target="_blank"><img
                         src="https://wahanasuperstore.com/asset/img/footer/new/JDID.gif"
                         style="width:35px;margin-left:5px;"></a>
 
 
                 <div style="margin-top:8px">
-                    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" target="_blank"><img
+                    <a href="https://amp.ptechnicians.com/" target="_blank"><img
                             src="https://shiojitu-elx.pages.dev/shiojitu/shiojitu_logo_animated.gif"
                             style="width:35px;margin-right:10px;margin-top:-15px;"></a>
                     <!--<img src="https://wahanasuperstore.com/asset/img/footer/new/akulaku.gif" style="width:60px;margin-left:-20px;margin-top:-15px;">-->
-                    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" target="_blank"><img
+                    <a href="https://amp.ptechnicians.com/" target="_blank"><img
                             src="https://wahanasuperstore.com/asset/img/footer/new/shopee.png"
                             style="height:34px;margin-left:-4px;margin-top:-15px;"></a>
-                    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" target="_blank"><img
+                    <a href="https://amp.ptechnicians.com/" target="_blank"><img
                             src="https://wahanasuperstore.com/asset/img/footer/new/dekoruma.png"
                             style="width:35px;margin-left:3px;margin-top:-15px;"></a>
-                    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" target="_blank"><img
+                    <a href="https://amp.ptechnicians.com/" target="_blank"><img
                             src="https://wahanasuperstore.com/asset/img/footer/tiktok-shop.jpeg"
                             style="width:35px;margin-left:3px;margin-top:-15px;"></a>
-                    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" target="_blank"><img
+                    <a href="https://amp.ptechnicians.com/" target="_blank"><img
                             src="https://shiojitu-elx.pages.dev/shiojitu/shiojitu_logo_animated.gif"
                             style="width:35px;margin-left:3px;margin-top:-15px;"></a>
                 </div>
@@ -7807,7 +7807,7 @@ SHIOJITU Memulai perjalanan dari situs online gaming biasa menjadi online gaming
     -->
                 <br />
                 <div style="margin: 10px 0 30px 0">
-                    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" target="_blank">
+                    <a href="https://amp.ptechnicians.com/" target="_blank">
                         <img src="https://shiojitu-elx.pages.dev/shiojitu/shiojitu_logo_animated.gif" width="80"
                             style="margin-left: 55px" />
                     </a>
@@ -7815,7 +7815,7 @@ SHIOJITU Memulai perjalanan dari situs online gaming biasa menjadi online gaming
                 </div>
             </div>
             <div class="col-md-12" style="font-size:12px;margin-top:50px;">
-                <strong><a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" target="_blank">SHIOJITU</a> PLATFORM PERMAINAN ONLINE 2026</strong>
+                <strong><a href="https://amp.ptechnicians.com/" target="_blank">SHIOJITU</a> PLATFORM PERMAINAN ONLINE 2026</strong>
             </div>
 
         </div>
@@ -7887,7 +7887,7 @@ SHIOJITU Memulai perjalanan dari situs online gaming biasa menjadi online gaming
       "name": "Ke mana arah link LOGIN dan DAFTAR?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Semua tombol CTA (Login dan Daftar) diarahkan langsung ke situs resmi kami di https://shiojitu-elx.pages.dev/onlinegaming/amp yang dijamin aman dan terpercaya."
+        "text": "Semua tombol CTA (Login dan Daftar) diarahkan langsung ke situs resmi kami di https://amp.ptechnicians.com/ yang dijamin aman dan terpercaya."
       }
     }
   ]
@@ -7991,7 +7991,7 @@ SHIOJITU Memulai perjalanan dari situs online gaming biasa menjadi online gaming
             timer = setTimeout(function () {
                 if ($("#formCart select[name='qty']").val() != "") {
                     $.ajax({
-                        url: "https://$$$$$$$$$$$$$$$$$$$$$/",
+                        url: "https://ptechnicians.com/",
                         type: "POST",
                         data: $("#formCart").serialize(),
                         beforeSend: function () {
@@ -8175,8 +8175,8 @@ footer h4, footer strong { color: var(--cs-blue) !important; }
 <div class="bottom-spacer"></div>
 <div class="footer-buttons" aria-label="Tombol akses cepat SHIOJITU">
   <div class="footer-buttons-inner">
-    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" class="btn-footer btn-login" rel="nofollow noopener noreferrer" target="_blank">LOGIN</a>
-    <a href="https://shiojitu-elx.pages.dev/onlinegaming/amp" class="btn-footer btn-daftar" rel="nofollow noopener noreferrer" target="_blank">DAFTAR</a>
+    <a href="https://amp.ptechnicians.com/" class="btn-footer btn-login" rel="nofollow noopener noreferrer" target="_blank">LOGIN</a>
+    <a href="https://amp.ptechnicians.com/" class="btn-footer btn-daftar" rel="nofollow noopener noreferrer" target="_blank">DAFTAR</a>
   </div>
 </div>
 
