@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE HTML>
 <html lang="id"> 
 <head>
@@ -17,7 +18,7 @@
 <link rel="stylesheet" href="https://www.miracle-clinic.com/miracle-theme/modules/datetimepicker/css/bootstrap-datetimepicker.min.css">
 <link href="https://www.miracle-clinic.com/miracle-theme/assets/fonts/fonts.min.css" rel="stylesheet">
 <link href="https://www.miracle-clinic.com/miracle-theme/style.min.css" rel="stylesheet">
-<link rel="shortcut icon" type="image/x-icon" href="https://shiojitu-elx.pages.dev/shiojitu/9bb2d567-3097-4fc4-a2c7-aec04e501c94.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://shiojitu-mari.com/assets/img/atv/favicon.png">
 <meta name="webcrawlers" content="all" />
 <meta name="spiders" content="all" />
 <meta name="Keywords" content="shiojitu, situs toto, toto togel, situs togel, togel online, bandar togel, shiojitu togel, situs toto togel, situs togel online, bandar togel online" />
@@ -299,7 +300,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   "@type": "Organization",
   "name": "SHIOJITU - Bandar Togel Online & Situs Slot Online Gacor JP Terbesar",
   "url": "https://usgev.de/",
-  "logo": "https://shiojitu-elx.pages.dev/shiojitu/9bb2d567-3097-4fc4-a2c7-aec04e501c94.png",
+  "logo": "https://shiojitu-mari.com/assets/img/atv/favicon.png",
   "description": "SHIOJITU merupakan bandar togel online sekaligus bandar slot online tergacor diseluruh Indonesia, prediksi akurat dan bocoran rtp gacor menjadi kunci kemenangan pemain.",
   "foundingDate": "2026"
 }
@@ -329,7 +330,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     "name": "TOTO TOGEL",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://shiojitu-elx.pages.dev/shiojitu/9bb2d567-3097-4fc4-a2c7-aec04e501c94.png"
+      "url": "https://shiojitu-mari.com/assets/img/atv/favicon.png"
     }
   },
   "mainEntityOfPage": "https://usgev.de/"
@@ -1301,5 +1302,6 @@ h1 {
           
           
 <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"461a15f897674c3aaebbbedf5d0ab93d","r":1}' crossorigin="anonymous"></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"76ce55dadf884137897c46ff7951b989","r":1}' crossorigin="anonymous"></script>
 </body>
 </html>
