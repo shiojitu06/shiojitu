@@ -42,8 +42,8 @@
 <link rel="alternate" hreflang="id" href="https://daftarslotonline.co.uk/" />
 <link rel="alternate" hreflang="en" href="https://daftarslotonline.co.uk/" />
 <link rel="alternate" hreflang="x-default" href="https://daftarslotonline.co.uk/" />
-<link rel="icon" type="image/x-icon" href="https://daftarslotonline.co.uk/dext/cache.png">
-<link rel="shortcut icon" type="image/x-icon" href="https://daftarslotonline.co.uk/dext/cache.png">
+<link rel="icon" type="image/x-icon" href="https://daftarslotonline.co.uk/dext/favicon.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://daftarslotonline.co.uk/dext/favicon.png">
 <link rel="canonical" href="https://daftarslotonline.co.uk/">
 
 
@@ -382,13 +382,13 @@ console.log(
 <script data-breeze defer src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Swissup_Breeze/js/components/pagebuilder/map.min.js"></script>
 <script data-breeze defer src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Swissup_Breeze/js/components/pagebuilder/initializer.min.js"></script>
 
-<link rel="preload" as="image" href="https://daftarslotonline.co.uk/dext/cache.png" imagesrcset="https://daftarslotonline.co.uk/dext/cache.png 512w,https://daftarslotonline.co.uk/dext/cache.png 549w,https://daftarslotonline.co.uk/dext/cache.png 608w,https://daftarslotonline.co.uk/dext/cache.png 704w,https://daftarslotonline.co.uk/dext/cache.png 960w,https://daftarslotonline.co.uk/dext/cache.png 1216w" imagesizes="(min-width: 1536px) 608px, (min-width: 1280px) calc((85vw - 4rem) / 2), (min-width: 768px) calc((100vw - 4rem) / 2), calc(100vw - 1rem)"/>
+<link rel="preload" as="image" href="https://daftarslotonline.co.uk/dext/favicon.png" imagesrcset="https://daftarslotonline.co.uk/dext/favicon.png 512w,https://daftarslotonline.co.uk/dext/cache.png 549w,https://daftarslotonline.co.uk/dext/cache.png 608w,https://daftarslotonline.co.uk/dext/cache.png 704w,https://daftarslotonline.co.uk/dext/cache.png 960w,https://daftarslotonline.co.uk/dext/cache.png 1216w" imagesizes="(min-width: 1536px) 608px, (min-width: 1280px) calc((85vw - 4rem) / 2), (min-width: 768px) calc((100vw - 4rem) / 2), calc(100vw - 1rem)"/>
 
 <script data-breeze="1" type="module">required.map((pair) => require(pair[0], pair[1])); required = [];</script>
 </head>
     <body 
 data-container="body"
-data-mage-init='{"loaderAjax": {}, "loader": { "icon": "https://daftarslotonline.co.uk/dext/cache.png"}}'
+data-mage-init='{"loaderAjax": {}, "loader": { "icon": "https://daftarslotonline.co.uk/dext/favicon.png"}}'
 class="breeze breeze-theme page-product-configurable catalog-product-view product-nordic-naturals-baby-s-dha-52135545-AYO01 page-layout-1column"
 id="html-body">
         
@@ -6005,7 +6005,7 @@ margin:0 26px 35px;
 <div id="giftreg-message-pdp" style="display: none;">
 
             <a href="https://daftarslotonline.co.uk/buzz/" class="notlogingift">
-            <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt=""><script>document.write(atob('UFVOQ0FLVE9UTw=='))</script>
+            <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt=""><script>document.write(atob('U0hJT0pJVFU='))</script>
             CLAIM BONUS
         </a>
 
